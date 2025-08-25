@@ -5,7 +5,7 @@
 const VERSION = '0.0.1';
 
 // 後端 API 的基礎網址
-const BACKEND_URL = 'https://xwjwpiy-traffic-estimator-api.onrender.com';
+const BACKEND_URL = 'https://xwjwpiy-traffic-estimator-testing-api.onrender.com';
 
 // 後端 API 的各個端點
 const ENDPOINTS = {
