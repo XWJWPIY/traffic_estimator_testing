@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>輸入車種</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        nav { margin-bottom: 20px; }
+        nav a { margin-right: 15px; text-decoration: none; font-weight: bold; }
+        .fare-type-container, .trip-row { margin-bottom: 20px; }
+        .trip-row select, .trip-row input { margin-right: 10px; }
+        .fare-type-container label, .trip-row label { font-weight: bold; }
+        .button-container { margin-top: 20px; }
+        .button-container button { padding: 10px 20px; cursor: pointer; margin-right: 10px; }
+        #result { margin-top: 20px; font-size: 1.5em; font-weight: bold; color: #007bff; }
+    </style>
+
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">首頁</a>
+        <a href="inputtype.html">輸入車種</a>
+    </nav>
+
+    <h1>雙北市區公車票價計算機</h1>
+    <h2>輸入公車類型，自動計算總票價</h2>
+
+    <div id="server-status"></div>
+
+    <p> Made by XWJWPIY(Xiang 詳)</p>
+    <div id="get-version"></div>
+    
+    <p> 此計算機會將雙北公車間轉乘優惠納入考量 </p>
+    <p> 兩車間 60 分鐘內轉乘，且上下車都有刷卡，才可享轉乘優惠 </p>
+    
+    <p> 優惠規則: 除普通公車轉普通公車，以及市民小巴/內科專車轉新北市普通公車，其餘轉法皆享後續路線第一段轉乘優惠 </p>
+
+    <div class="fare-type-container">
+        <label for="fare_type">請選擇票種：</label>
+        <select id="fare_type">
+            <option value="full_fare">全票 (15 元)</option>
+            <option value="student_fare">學生票 (12 元)</option>
+            <option value="half_fare">半票 (8 元)</option>
+        </select>
+    </div>
+
+    <hr>
+    <h3>搭乘紀錄</h3>
+    
+    <div id="trips_container"></div>
+
+    <div class="button-container">
+        <button id="addTripBtn">新增路線</button>
+        <button id="removeLastBtn">刪除最後一項</button>
+        <button id="clearAllBtn">全部清除</button>
+    </div>
+
+    <button id="calculateBtn">計算總票價</button>
+
+    <div id="result"></div>
+
+    <script type="module" src="script.js"></script>
+
+</body>
+</html>
