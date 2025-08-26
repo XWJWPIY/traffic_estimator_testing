@@ -32,7 +32,7 @@ jobs:
           git commit -m "Update Taipei bus route data" || echo "No changes to commit"
           git push
 
-  update-taipei-data:
+  update-newtaipei-data:
     name: Update Newtaipei Data
     runs-on: ubuntu-latest
     steps:
