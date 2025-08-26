@@ -2,7 +2,7 @@
 // import { BACKEND_URL, ENDPOINTS, BUS_OPTIONS, version } from './config.js';
 
 // 版本號
-const VERSION = '0.0.1';
+const VERSION = '0.0.2';
 
 // 後端 API 的基礎網址
 const BACKEND_URL = 'https://xwjwpiy-traffic-estimator-testing-api.onrender.com';
