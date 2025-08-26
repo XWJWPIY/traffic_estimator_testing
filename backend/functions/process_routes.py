@@ -15,6 +15,17 @@ def get_type(merged_data:str, bus_type_map:dict, return_routes:dict, city:str):
                 bus_type = bus_type_key
                 break
 
+            if "F" in route_name:
+                bus_type = "新北市新巴士"
+                break
+            if "-" in route_name:
+                if ("台灣好行-" in route_name):
+                    continue
+                if ("0" <= route_name[route_name.index("-") - 1] <= "9"): # 如果路線名稱 - 前方有數字，是新北市新巴士
+                    continue
+                bus_type = "跳蛙公車"
+                break
+
         # print(bus_type)
 
         if route_name and bus_type:
