@@ -1,0 +1,32 @@
+name: Process Bus Routes
+
+on:
+  schedule:
+    # 每天台灣時間 4:45 AM 執行
+    # 相當於每天 UTC 20:45
+    - cron: '45 20 * * *'
+  workflow_dispatch:
+
+jobs:
+  process-routes:
+    name: Process Routes Data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Run process routes script
+        run: python ./backend/functions/process_routes.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add ./backend/data/processed/all_routes.json
+          git commit -m "Process all bus routes data" || echo "No changes to commit"
+          git push

@@ -22,7 +22,7 @@ jobs:
         run: pip install requests
 
       - name: Run data update script for Taipei
-        run: python ./backend/update_data.py taipei  # 傳入 'taipei' 參數
+        run: python ./backend/functions/update_data.py taipei  # 傳入 'taipei' 參數
       
       - name: Commit and push changes
         run: |
@@ -49,7 +49,7 @@ jobs:
 
       - name: Run data update script for Newtaipei
         # 這裡傳入 'newtaipei' 參數
-        run: python ./backend/update_data.py newtaipei
+        run: python ./backend/functions/update_data.py newtaipei
 
       - name: Commit and push changes
         run: |

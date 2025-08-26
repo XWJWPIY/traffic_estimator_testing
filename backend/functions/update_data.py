@@ -41,7 +41,7 @@ def main():
     args = parser.parse_args()
 
     # 根據腳本位置設定輸出目錄
-    base_dir = os.path.dirname(os.path.abspath(__file__))
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     output_dir = os.path.join(base_dir, 'data', args.city)
 
     print(f"開始更新 {args.city} 的公車資料...")
