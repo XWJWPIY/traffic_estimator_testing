@@ -2,5151 +2,6181 @@
     "0南": {
         "RouteName": "0南",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "0東": {
         "RouteName": "0東",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "1": {
         "RouteName": "1",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "108": {
         "RouteName": "108",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "108區": {
         "RouteName": "108區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "109": {
         "RouteName": "109",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "111": {
         "RouteName": "111",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "12": {
         "RouteName": "12",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "128": {
         "RouteName": "128",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "129": {
         "RouteName": "129",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "14": {
         "RouteName": "14",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "1717": {
         "RouteName": "1717",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "177瑞芳觀光公車": {
         "RouteName": "177瑞芳觀光公車",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "179": {
         "RouteName": "179",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "18": {
         "RouteName": "18",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "2": {
         "RouteName": "2",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "20": {
         "RouteName": "20",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "201": {
         "RouteName": "201",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "202": {
         "RouteName": "202",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "202區": {
         "RouteName": "202區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "203": {
         "RouteName": "203",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "204": {
         "RouteName": "204",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "205": {
         "RouteName": "205",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "206": {
         "RouteName": "206",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "207": {
         "RouteName": "207",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "208": {
         "RouteName": "208",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "208區": {
         "RouteName": "208區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "208直": {
         "RouteName": "208直",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "211": {
         "RouteName": "211",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "212": {
         "RouteName": "212",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "212夜": {
         "RouteName": "212夜",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "212直": {
         "RouteName": "212直",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "214": {
         "RouteName": "214",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "214直": {
         "RouteName": "214直",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "215": {
         "RouteName": "215",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "216": {
         "RouteName": "216",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "218": {
         "RouteName": "218",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "218區": {
         "RouteName": "218區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "218直": {
         "RouteName": "218直",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "22": {
         "RouteName": "22",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "221": {
         "RouteName": "221",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "222": {
         "RouteName": "222",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "223": {
         "RouteName": "223",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "224": {
         "RouteName": "224",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "225": {
         "RouteName": "225",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "225區": {
         "RouteName": "225區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "226": {
         "RouteName": "226",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "227": {
         "RouteName": "227",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "227區": {
         "RouteName": "227區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "230": {
         "RouteName": "230",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "231": {
         "RouteName": "231",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "232": {
         "RouteName": "232",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "232快": {
         "RouteName": "232快",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "234": {
         "RouteName": "234",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "235": {
         "RouteName": "235",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "236區": {
         "RouteName": "236區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "237": {
         "RouteName": "237",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "240直": {
         "RouteName": "240直",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "241": {
         "RouteName": "241",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "242": {
         "RouteName": "242",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "243": {
         "RouteName": "243",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "245": {
         "RouteName": "245",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "246": {
         "RouteName": "246",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "246預": {
         "RouteName": "246預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "247": {
         "RouteName": "247",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "247區": {
         "RouteName": "247區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "249": {
         "RouteName": "249",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "250": {
         "RouteName": "250",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "251": {
         "RouteName": "251",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "251區": {
         "RouteName": "251區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "252": {
         "RouteName": "252",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "253": {
         "RouteName": "253",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "254": {
         "RouteName": "254",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "254區": {
         "RouteName": "254區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "255": {
         "RouteName": "255",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "255區": {
         "RouteName": "255區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "256": {
         "RouteName": "256",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "257": {
         "RouteName": "257",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "26": {
         "RouteName": "26",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "260": {
         "RouteName": "260",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "260區": {
         "RouteName": "260區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "260區預": {
         "RouteName": "260區預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "261": {
         "RouteName": "261",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "261預": {
         "RouteName": "261預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "262": {
         "RouteName": "262",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "262區": {
         "RouteName": "262區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "264": {
         "RouteName": "264",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "265區": {
         "RouteName": "265區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "265夜": {
         "RouteName": "265夜",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "265經中央路": {
         "RouteName": "265經中央路",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "265經明德路": {
         "RouteName": "265經明德路",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "267": {
         "RouteName": "267",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "268": {
         "RouteName": "268",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "270": {
         "RouteName": "270",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "270區": {
         "RouteName": "270區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "274": {
         "RouteName": "274",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "275": {
         "RouteName": "275",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "276": {
         "RouteName": "276",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "277": {
         "RouteName": "277",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "278": {
         "RouteName": "278",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "278區": {
         "RouteName": "278區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "279": {
         "RouteName": "279",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "28": {
         "RouteName": "28",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "280": {
         "RouteName": "280",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "280直": {
         "RouteName": "280直",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "281": {
         "RouteName": "281",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "282": {
         "RouteName": "282",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "284": {
         "RouteName": "284",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "286": {
         "RouteName": "286",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "286副": {
         "RouteName": "286副",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "287區": {
         "RouteName": "287區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "288": {
         "RouteName": "288",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "290副": {
         "RouteName": "290副",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "290副萬和": {
         "RouteName": "290副萬和",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "292": {
         "RouteName": "292",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "292副": {
         "RouteName": "292副",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "294": {
         "RouteName": "294",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "295": {
         "RouteName": "295",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "295副": {
         "RouteName": "295副",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "297": {
         "RouteName": "297",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "297預": {
         "RouteName": "297預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "298": {
         "RouteName": "298",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "299": {
         "RouteName": "299",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "300": {
         "RouteName": "300",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "302": {
         "RouteName": "302",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "302區": {
         "RouteName": "302區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "303": {
         "RouteName": "303",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "303區": {
         "RouteName": "303區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "304承德": {
         "RouteName": "304承德",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "304重慶": {
         "RouteName": "304重慶",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "306": {
         "RouteName": "306",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "306區": {
         "RouteName": "306區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "307": {
         "RouteName": "307",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "307西藏三民": {
         "RouteName": "307西藏三民",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "308": {
         "RouteName": "308",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "310": {
         "RouteName": "310",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "310區": {
         "RouteName": "310區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "311": {
         "RouteName": "311",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "311區": {
         "RouteName": "311區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "32": {
         "RouteName": "32",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "33": {
         "RouteName": "33",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "37": {
         "RouteName": "37",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "38": {
         "RouteName": "38",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "38區": {
         "RouteName": "38區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "39": {
         "RouteName": "39",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "39夜": {
         "RouteName": "39夜",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "41": {
         "RouteName": "41",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "42": {
         "RouteName": "42",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "42區": {
         "RouteName": "42區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "46": {
         "RouteName": "46",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "49": {
         "RouteName": "49",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "5": {
         "RouteName": "5",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "505": {
         "RouteName": "505",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "508": {
         "RouteName": "508",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "508區": {
         "RouteName": "508區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "51": {
         "RouteName": "51",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "513": {
         "RouteName": "513",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "52": {
         "RouteName": "52",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "520": {
         "RouteName": "520",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "521": {
         "RouteName": "521",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "529": {
         "RouteName": "529",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "53": {
         "RouteName": "53",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "530": {
         "RouteName": "530",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "531": {
         "RouteName": "531",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "536": {
         "RouteName": "536",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "536區": {
         "RouteName": "536區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "539": {
         "RouteName": "539",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "539預": {
         "RouteName": "539預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "542": {
         "RouteName": "542",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "542預": {
         "RouteName": "542預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "550": {
         "RouteName": "550",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "551": {
         "RouteName": "551",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "552": {
         "RouteName": "552",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "556": {
         "RouteName": "556",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "557": {
         "RouteName": "557",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "559": {
         "RouteName": "559",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "568": {
         "RouteName": "568",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "57": {
         "RouteName": "57",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "570": {
         "RouteName": "570",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "571": {
         "RouteName": "571",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "572": {
         "RouteName": "572",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "573": {
         "RouteName": "573",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "574": {
         "RouteName": "574",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "575": {
         "RouteName": "575",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "576": {
         "RouteName": "576",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "577": {
         "RouteName": "577",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "578": {
         "RouteName": "578",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "579": {
         "RouteName": "579",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "580": {
         "RouteName": "580",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "581": {
         "RouteName": "581",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "582": {
         "RouteName": "582",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "582經工業區": {
         "RouteName": "582經工業區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "582經洲子洋": {
         "RouteName": "582經洲子洋",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "583": {
         "RouteName": "583",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "585": {
         "RouteName": "585",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "586": {
         "RouteName": "586",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "587": {
         "RouteName": "587",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "589": {
         "RouteName": "589",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "590": {
         "RouteName": "590",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "591": {
         "RouteName": "591",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "592": {
         "RouteName": "592",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "593": {
         "RouteName": "593",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "594": {
         "RouteName": "594",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "595": {
         "RouteName": "595",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "596": {
         "RouteName": "596",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "600": {
         "RouteName": "600",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "602": {
         "RouteName": "602",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "604": {
         "RouteName": "604",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "605": {
         "RouteName": "605",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "605副": {
         "RouteName": "605副",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "605快": {
         "RouteName": "605快",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "605新台五": {
         "RouteName": "605新台五",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "606": {
         "RouteName": "606",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "611": {
         "RouteName": "611",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "612": {
         "RouteName": "612",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "615": {
         "RouteName": "615",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "616": {
         "RouteName": "616",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "617": {
         "RouteName": "617",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "617副": {
         "RouteName": "617副",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "618": {
         "RouteName": "618",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "62": {
         "RouteName": "62",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "621": {
         "RouteName": "621",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "622": {
         "RouteName": "622",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "624": {
         "RouteName": "624",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "624綠野香坡": {
         "RouteName": "624綠野香坡",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "629": {
         "RouteName": "629",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "629區": {
         "RouteName": "629區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "63": {
         "RouteName": "63",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "630": {
         "RouteName": "630",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "631": {
         "RouteName": "631",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "635": {
         "RouteName": "635",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "636": {
         "RouteName": "636",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "637": {
         "RouteName": "637",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "638": {
         "RouteName": "638",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "638副": {
         "RouteName": "638副",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "639": {
         "RouteName": "639",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "640": {
         "RouteName": "640",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "641": {
         "RouteName": "641",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "643": {
         "RouteName": "643",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "644": {
         "RouteName": "644",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "645": {
         "RouteName": "645",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "645副": {
         "RouteName": "645副",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "646": {
         "RouteName": "646",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "647": {
         "RouteName": "647",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "648": {
         "RouteName": "648",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "651": {
         "RouteName": "651",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "652": {
         "RouteName": "652",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "656": {
         "RouteName": "656",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "657": {
         "RouteName": "657",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "657延": {
         "RouteName": "657延",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "658": {
         "RouteName": "658",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "66": {
         "RouteName": "66",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "660": {
         "RouteName": "660",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "660區": {
         "RouteName": "660區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "662": {
         "RouteName": "662",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "663": {
         "RouteName": "663",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "666烏塗窟": {
         "RouteName": "666烏塗窟",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "666皇帝殿": {
         "RouteName": "666皇帝殿",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "666華梵大學": {
         "RouteName": "666華梵大學",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "667": {
         "RouteName": "667",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "668": {
         "RouteName": "668",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "669": {
         "RouteName": "669",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "670": {
         "RouteName": "670",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "671": {
         "RouteName": "671",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "672": {
         "RouteName": "672",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "672區": {
         "RouteName": "672區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "673": {
         "RouteName": "673",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "675": {
         "RouteName": "675",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "676": {
         "RouteName": "676",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "677": {
         "RouteName": "677",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "677副": {
         "RouteName": "677副",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "678": {
         "RouteName": "678",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "679": {
         "RouteName": "679",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "68": {
         "RouteName": "68",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "680": {
         "RouteName": "680",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "681": {
         "RouteName": "681",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "682": {
         "RouteName": "682",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "682預": {
         "RouteName": "682預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "683": {
         "RouteName": "683",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "683預": {
         "RouteName": "683預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "685": {
         "RouteName": "685",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "688": {
         "RouteName": "688",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "701": {
         "RouteName": "701",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "702": {
         "RouteName": "702",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "704": {
         "RouteName": "704",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "704區": {
         "RouteName": "704區",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "705": {
         "RouteName": "705",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "706": {
         "RouteName": "706",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "707": {
         "RouteName": "707",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "711": {
         "RouteName": "711",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "712": {
         "RouteName": "712",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "712副": {
         "RouteName": "712副",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "716(台灣好行-皇冠北海岸線)": {
         "RouteName": "716(台灣好行-皇冠北海岸線)",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "72": {
         "RouteName": "72",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "731": {
         "RouteName": "731",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "756": {
         "RouteName": "756",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "757": {
         "RouteName": "757",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "758": {
         "RouteName": "758",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "760": {
         "RouteName": "760",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "778": {
         "RouteName": "778",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "779": {
         "RouteName": "779",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "780": {
         "RouteName": "780",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "781": {
         "RouteName": "781",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "782": {
         "RouteName": "782",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "783": {
         "RouteName": "783",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "785": {
         "RouteName": "785",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "786": {
         "RouteName": "786",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "786區": {
         "RouteName": "786區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "787": {
         "RouteName": "787",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "787經瑞芳工業區": {
         "RouteName": "787經瑞芳工業區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "788": {
         "RouteName": "788",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "788區": {
         "RouteName": "788區",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "788海科館": {
         "RouteName": "788海科館",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "789": {
         "RouteName": "789",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "789區": {
         "RouteName": "789區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "790": {
         "RouteName": "790",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "790漁港": {
         "RouteName": "790漁港",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "791": {
         "RouteName": "791",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "791區": {
         "RouteName": "791區",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "791經貢寮區衛生": {
         "RouteName": "791經貢寮區衛生",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "791繞貢寮": {
         "RouteName": "791繞貢寮",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "793": {
         "RouteName": "793",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "795往十分寮(台灣好行-木柵平溪線)": {
         "RouteName": "795往十分寮(台灣好行-木柵平溪線)",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "795往平溪(台灣好行-木柵平溪線)": {
         "RouteName": "795往平溪(台灣好行-木柵平溪線)",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "795往木柵(台灣好行-木柵平溪線)": {
         "RouteName": "795往木柵(台灣好行-木柵平溪線)",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "796": {
         "RouteName": "796",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "797": {
         "RouteName": "797",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "799": {
         "RouteName": "799",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "8": {
         "RouteName": "8",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "800": {
         "RouteName": "800",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "801": {
         "RouteName": "801",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "802": {
         "RouteName": "802",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "802區": {
         "RouteName": "802區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "803": {
         "RouteName": "803",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "805": {
         "RouteName": "805",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "806": {
         "RouteName": "806",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "807": {
         "RouteName": "807",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "808": {
         "RouteName": "808",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "810": {
         "RouteName": "810",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "811": {
         "RouteName": "811",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "812": {
         "RouteName": "812",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "813": {
         "RouteName": "813",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "813區": {
         "RouteName": "813區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "815": {
         "RouteName": "815",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "816": {
         "RouteName": "816",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "817": {
         "RouteName": "817",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "819": {
         "RouteName": "819",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "819副": {
         "RouteName": "819副",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "820": {
         "RouteName": "820",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "821": {
         "RouteName": "821",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "822": {
         "RouteName": "822",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "823": {
         "RouteName": "823",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "824": {
         "RouteName": "824",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "825": {
         "RouteName": "825",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "826": {
         "RouteName": "826",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "827": {
         "RouteName": "827",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "835": {
         "RouteName": "835",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "836": {
         "RouteName": "836",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "837": {
         "RouteName": "837",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "837副": {
         "RouteName": "837副",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "837區": {
         "RouteName": "837區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "838": {
         "RouteName": "838",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "839": {
         "RouteName": "839",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "839耕莘": {
         "RouteName": "839耕莘",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "842": {
         "RouteName": "842",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "843": {
         "RouteName": "843",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "845": {
         "RouteName": "845",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "846": {
         "RouteName": "846",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "847": {
         "RouteName": "847",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "847區": {
         "RouteName": "847區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "848": {
         "RouteName": "848",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "849": {
         "RouteName": "849",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "849屈尺社區": {
         "RouteName": "849屈尺社區",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "851": {
         "RouteName": "851",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "852": {
         "RouteName": "852",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "853跳蛙": {
         "RouteName": "853跳蛙",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "854": {
         "RouteName": "854",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "856(台灣好行-黃金福隆線)": {
         "RouteName": "856(台灣好行-黃金福隆線)",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "857": {
         "RouteName": "857",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "858": {
         "RouteName": "858",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "859": {
         "RouteName": "859",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "860": {
         "RouteName": "860",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "861": {
         "RouteName": "861",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "862": {
         "RouteName": "862",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "863": {
         "RouteName": "863",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "864": {
         "RouteName": "864",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "865": {
         "RouteName": "865",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "866": {
         "RouteName": "866",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "867": {
         "RouteName": "867",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "867區": {
         "RouteName": "867區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "868": {
         "RouteName": "868",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "869": {
         "RouteName": "869",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "870": {
         "RouteName": "870",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "871": {
         "RouteName": "871",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "871經中山北路": {
         "RouteName": "871經中山北路",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "872": {
         "RouteName": "872",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "872經正德國中、直行中山北路": {
         "RouteName": "872經正德國中、直行中山北路",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "873": {
         "RouteName": "873",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "873經正德國中": {
         "RouteName": "873經正德國中",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "874": {
         "RouteName": "874",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "875": {
         "RouteName": "875",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "876": {
         "RouteName": "876",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "877": {
         "RouteName": "877",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "878": {
         "RouteName": "878",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "878區": {
         "RouteName": "878區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "879": {
         "RouteName": "879",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "88": {
         "RouteName": "88",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "880": {
         "RouteName": "880",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "881": {
         "RouteName": "881",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "882": {
         "RouteName": "882",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "883": {
         "RouteName": "883",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "885": {
         "RouteName": "885",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "886": {
         "RouteName": "886",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "886區": {
         "RouteName": "886區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "889": {
         "RouteName": "889",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "88區": {
         "RouteName": "88區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "890": {
         "RouteName": "890",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "891": {
         "RouteName": "891",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "894": {
         "RouteName": "894",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "895": {
         "RouteName": "895",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "896": {
         "RouteName": "896",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "897": {
         "RouteName": "897",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "897區": {
         "RouteName": "897區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "898": {
         "RouteName": "898",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "899": {
         "RouteName": "899",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "9": {
         "RouteName": "9",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "902": {
         "RouteName": "902",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "902區": {
         "RouteName": "902區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "903": {
         "RouteName": "903",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "905": {
         "RouteName": "905",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "905副": {
         "RouteName": "905副",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "906": {
         "RouteName": "906",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "907": {
         "RouteName": "907",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "907通勤": {
         "RouteName": "907通勤",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "908": {
         "RouteName": "908",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "908延": {
         "RouteName": "908延",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "909": {
         "RouteName": "909",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "910": {
         "RouteName": "910",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "912": {
         "RouteName": "912",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "913": {
         "RouteName": "913",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "915": {
         "RouteName": "915",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "916": {
         "RouteName": "916",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "917": {
         "RouteName": "917",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "918": {
         "RouteName": "918",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "918區": {
         "RouteName": "918區",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "919": {
         "RouteName": "919",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "920": {
         "RouteName": "920",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "920A": {
         "RouteName": "920A",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "920副": {
         "RouteName": "920副",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "921": {
         "RouteName": "921",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "922": {
         "RouteName": "922",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "923": {
         "RouteName": "923",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "925": {
         "RouteName": "925",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "925A": {
         "RouteName": "925A",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "927": {
         "RouteName": "927",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "927經台北港": {
         "RouteName": "927經台北港",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "928": {
         "RouteName": "928",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "930": {
         "RouteName": "930",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "930延": {
         "RouteName": "930延",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "932": {
         "RouteName": "932",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "932繞國家教育研究院": {
         "RouteName": "932繞國家教育研究院",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "933": {
         "RouteName": "933",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "935": {
         "RouteName": "935",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "936": {
         "RouteName": "936",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "936A": {
         "RouteName": "936A",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "937": {
         "RouteName": "937",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "937A": {
         "RouteName": "937A",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "937副": {
         "RouteName": "937副",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "938": {
         "RouteName": "938",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "939": {
         "RouteName": "939",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "939副": {
         "RouteName": "939副",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "939跳蛙": {
         "RouteName": "939跳蛙",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "940": {
         "RouteName": "940",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "941": {
         "RouteName": "941",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "943": {
         "RouteName": "943",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "945": {
         "RouteName": "945",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "946": {
         "RouteName": "946",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "946副": {
         "RouteName": "946副",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "947": {
         "RouteName": "947",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "948": {
         "RouteName": "948",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "949": {
         "RouteName": "949",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "950": {
         "RouteName": "950",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "951": {
         "RouteName": "951",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "952": {
         "RouteName": "952",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "953": {
         "RouteName": "953",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "953區": {
         "RouteName": "953區",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "955": {
         "RouteName": "955",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "957": {
         "RouteName": "957",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "958": {
         "RouteName": "958",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "959": {
         "RouteName": "959",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "960": {
         "RouteName": "960",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "963": {
         "RouteName": "963",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "965(台灣好行-九份金瓜石線)": {
         "RouteName": "965(台灣好行-九份金瓜石線)",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "966": {
         "RouteName": "966",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "966A": {
         "RouteName": "966A",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "966副": {
         "RouteName": "966副",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "967": {
         "RouteName": "967",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "967副": {
         "RouteName": "967副",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "967直": {
         "RouteName": "967直",
         "BusType": "快速公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "981": {
         "RouteName": "981",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "982": {
         "RouteName": "982",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "982區": {
         "RouteName": "982區",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "982直達": {
         "RouteName": "982直達",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "982直達新埔線": {
         "RouteName": "982直達新埔線",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "983": {
         "RouteName": "983",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "985萬大樹林先導公車": {
         "RouteName": "985萬大樹林先導公車",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "99": {
         "RouteName": "99",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F101坪頂": {
         "RouteName": "F101坪頂",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F101樹興": {
         "RouteName": "F101樹興",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F102": {
         "RouteName": "F102",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F103": {
         "RouteName": "F103",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F105": {
         "RouteName": "F105",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F105反": {
         "RouteName": "F105反",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F106": {
         "RouteName": "F106",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F109": {
         "RouteName": "F109",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F121": {
         "RouteName": "F121",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F122": {
         "RouteName": "F122",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F123-0640、0700": {
         "RouteName": "F123-0640、0700",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F123-1205": {
         "RouteName": "F123-1205",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F123-1550": {
         "RouteName": "F123-1550",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F126": {
         "RouteName": "F126",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F126江厝": {
         "RouteName": "F126江厝",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F126經里中": {
         "RouteName": "F126經里中",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F131": {
         "RouteName": "F131",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F132": {
         "RouteName": "F132",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F132經青山": {
         "RouteName": "F132經青山",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F133假日": {
         "RouteName": "F133假日",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F133平日": {
         "RouteName": "F133平日",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F133末班": {
         "RouteName": "F133末班",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F135": {
         "RouteName": "F135",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F136": {
         "RouteName": "F136",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F137": {
         "RouteName": "F137",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F138內橫山": {
         "RouteName": "F138內橫山",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F138新古庄": {
         "RouteName": "F138新古庄",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F139行經101線": {
         "RouteName": "F139行經101線",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F139行經台2線": {
         "RouteName": "F139行經台2線",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-0605": {
         "RouteName": "F151-0605",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-0620": {
         "RouteName": "F151-0620",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-0655、1030": {
         "RouteName": "F151-0655、1030",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-0730": {
         "RouteName": "F151-0730",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-0800": {
         "RouteName": "F151-0800",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-0830、1655": {
         "RouteName": "F151-0830、1655",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-0930": {
         "RouteName": "F151-0930",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-1000": {
         "RouteName": "F151-1000",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-1605": {
         "RouteName": "F151-1605",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-1625": {
         "RouteName": "F151-1625",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-1730": {
         "RouteName": "F151-1730",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F151-1800": {
         "RouteName": "F151-1800",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-0600": {
         "RouteName": "F152-0600",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-0620、0745": {
         "RouteName": "F152-0620、0745",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-0635": {
         "RouteName": "F152-0635",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-0700": {
         "RouteName": "F152-0700",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-0810": {
         "RouteName": "F152-0810",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-0845": {
         "RouteName": "F152-0845",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-0925": {
         "RouteName": "F152-0925",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-0950": {
         "RouteName": "F152-0950",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-1545": {
         "RouteName": "F152-1545",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-1630": {
         "RouteName": "F152-1630",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-1655": {
         "RouteName": "F152-1655",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-1720": {
         "RouteName": "F152-1720",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-1740": {
         "RouteName": "F152-1740",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F152-1800": {
         "RouteName": "F152-1800",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F153-0620": {
         "RouteName": "F153-0620",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F153-0730、0945": {
         "RouteName": "F153-0730、0945",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F153-0820": {
         "RouteName": "F153-0820",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F153-1030": {
         "RouteName": "F153-1030",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F153-1605": {
         "RouteName": "F153-1605",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F153-1730": {
         "RouteName": "F153-1730",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F161": {
         "RouteName": "F161",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F201": {
         "RouteName": "F201",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F202": {
         "RouteName": "F202",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F205": {
         "RouteName": "F205",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F206": {
         "RouteName": "F206",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F207": {
         "RouteName": "F207",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F211": {
         "RouteName": "F211",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F212": {
         "RouteName": "F212",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F212副": {
         "RouteName": "F212副",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F212楓江": {
         "RouteName": "F212楓江",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F213": {
         "RouteName": "F213",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F213黎明": {
         "RouteName": "F213黎明",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F217": {
         "RouteName": "F217",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F218": {
         "RouteName": "F218",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F233": {
         "RouteName": "F233",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F235": {
         "RouteName": "F235",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F236": {
         "RouteName": "F236",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F237": {
         "RouteName": "F237",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F238": {
         "RouteName": "F238",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F239": {
         "RouteName": "F239",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F250": {
         "RouteName": "F250",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F301": {
         "RouteName": "F301",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F302": {
         "RouteName": "F302",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F303": {
         "RouteName": "F303",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F312": {
         "RouteName": "F312",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F317": {
         "RouteName": "F317",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F319": {
         "RouteName": "F319",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F320": {
         "RouteName": "F320",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F512": {
         "RouteName": "F512",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F512副": {
         "RouteName": "F512副",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F513": {
         "RouteName": "F513",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F521": {
         "RouteName": "F521",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F522": {
         "RouteName": "F522",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F523": {
         "RouteName": "F523",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F525": {
         "RouteName": "F525",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F526": {
         "RouteName": "F526",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F611": {
         "RouteName": "F611",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F623": {
         "RouteName": "F623",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F625": {
         "RouteName": "F625",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F626": {
         "RouteName": "F626",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F626-0815": {
         "RouteName": "F626-0815",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F627": {
         "RouteName": "F627",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F628": {
         "RouteName": "F628",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F629": {
         "RouteName": "F629",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F630": {
         "RouteName": "F630",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F651": {
         "RouteName": "F651",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F652": {
         "RouteName": "F652",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F653A": {
         "RouteName": "F653A",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F653B": {
         "RouteName": "F653B",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F655": {
         "RouteName": "F655",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F656": {
         "RouteName": "F656",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F657": {
         "RouteName": "F657",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F703": {
         "RouteName": "F703",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F703前三班": {
         "RouteName": "F703前三班",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F711": {
         "RouteName": "F711",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F712": {
         "RouteName": "F712",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F713": {
         "RouteName": "F713",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F721": {
         "RouteName": "F721",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F722": {
         "RouteName": "F722",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F723": {
         "RouteName": "F723",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F723上石嘈": {
         "RouteName": "F723上石嘈",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F723下石嘈": {
         "RouteName": "F723下石嘈",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F724": {
         "RouteName": "F724",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F801": {
         "RouteName": "F801",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F802": {
         "RouteName": "F802",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F803": {
         "RouteName": "F803",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F805": {
         "RouteName": "F805",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F806": {
         "RouteName": "F806",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F807": {
         "RouteName": "F807",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F808": {
         "RouteName": "F808",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F811": {
         "RouteName": "F811",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F812": {
         "RouteName": "F812",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F813": {
         "RouteName": "F813",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F815": {
         "RouteName": "F815",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F815嶺頭觀目": {
         "RouteName": "F815嶺頭觀目",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F816": {
         "RouteName": "F816",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F821": {
         "RouteName": "F821",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F822": {
         "RouteName": "F822",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F823": {
         "RouteName": "F823",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F823區": {
         "RouteName": "F823區",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F825": {
         "RouteName": "F825",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F835": {
         "RouteName": "F835",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F836": {
         "RouteName": "F836",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F837": {
         "RouteName": "F837",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F838": {
         "RouteName": "F838",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F839": {
         "RouteName": "F839",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F901": {
         "RouteName": "F901",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F902": {
         "RouteName": "F902",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F903": {
         "RouteName": "F903",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F905": {
         "RouteName": "F905",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F907": {
         "RouteName": "F907",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F909伯爵": {
         "RouteName": "F909伯爵",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F910": {
         "RouteName": "F910",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F911": {
         "RouteName": "F911",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F913": {
         "RouteName": "F913",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F915": {
         "RouteName": "F915",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F919八連": {
         "RouteName": "F919八連",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F920": {
         "RouteName": "F920",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F921": {
         "RouteName": "F921",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F921假日": {
         "RouteName": "F921假日",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F922內崁": {
         "RouteName": "F922內崁",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F922北基": {
         "RouteName": "F922北基",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F922烏塗炭": {
         "RouteName": "F922烏塗炭",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F923": {
         "RouteName": "F923",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F923假日": {
         "RouteName": "F923假日",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F931-0600": {
         "RouteName": "F931-0600",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F931-0700": {
         "RouteName": "F931-0700",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F931-0800": {
         "RouteName": "F931-0800",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F931-0910": {
         "RouteName": "F931-0910",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F931-1030": {
         "RouteName": "F931-1030",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F931-1255": {
         "RouteName": "F931-1255",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F931-1630": {
         "RouteName": "F931-1630",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F931-1730": {
         "RouteName": "F931-1730",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F932-0600": {
         "RouteName": "F932-0600",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F932-0630": {
         "RouteName": "F932-0630",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F932-0715": {
         "RouteName": "F932-0715",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F932-0820": {
         "RouteName": "F932-0820",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F932-0950": {
         "RouteName": "F932-0950",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F932-1110": {
         "RouteName": "F932-1110",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F932-1630": {
         "RouteName": "F932-1630",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F933-0620學生專車": {
         "RouteName": "F933-0620學生專車",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F933-0635": {
         "RouteName": "F933-0635",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F933-0710": {
         "RouteName": "F933-0710",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F933-0800": {
         "RouteName": "F933-0800",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F933-0920": {
         "RouteName": "F933-0920",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F933-1030": {
         "RouteName": "F933-1030",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F933-1130": {
         "RouteName": "F933-1130",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F933-1330": {
         "RouteName": "F933-1330",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F933-1430": {
         "RouteName": "F933-1430",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "F933-1530": {
         "RouteName": "F933-1530",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "三峽-中和高中": {
         "RouteName": "三峽-中和高中",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "三峽-內科": {
         "RouteName": "三峽-內科",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "三峽-捷運台大醫院站": {
         "RouteName": "三峽-捷運台大醫院站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "三峽-捷運府中站": {
         "RouteName": "三峽-捷運府中站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "三峽-捷運永寧站": {
         "RouteName": "三峽-捷運永寧站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "三峽-臺北市信義區": {
         "RouteName": "三峽-臺北市信義區",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "三重-內科": {
         "RouteName": "三重-內科",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "中和-新北板橋公車站": {
         "RouteName": "中和-新北板橋公車站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "中和左岸社區-捷運頂溪站": {
         "RouteName": "中和左岸社區-捷運頂溪站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "中和環河西路-永和仁愛路": {
         "RouteName": "中和環河西路-永和仁愛路",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "中和自立路-新店": {
         "RouteName": "中和自立路-新店",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "中山幹線": {
         "RouteName": "中山幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "220"
     },
     "五股-內湖科技園區": {
         "RouteName": "五股-內湖科技園區",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "仁愛幹線": {
         "RouteName": "仁愛幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "263"
     },
     "信義幹線": {
         "RouteName": "信義幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "588"
     },
     "兒樂1號線": {
         "RouteName": "兒樂1號線",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "兒樂2號線": {
         "RouteName": "兒樂2號線",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內湖幹線": {
         "RouteName": "內湖幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "287"
     },
     "內科快線1": {
         "RouteName": "內科快線1",
         "BusType": "內科專車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科快線2": {
         "RouteName": "內科快線2",
         "BusType": "內科專車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車10": {
         "RouteName": "內科通勤專車10",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車11": {
         "RouteName": "內科通勤專車11",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車12": {
         "RouteName": "內科通勤專車12",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車13": {
         "RouteName": "內科通勤專車13",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車15": {
         "RouteName": "內科通勤專車15",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車16": {
         "RouteName": "內科通勤專車16",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車17": {
         "RouteName": "內科通勤專車17",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車18": {
         "RouteName": "內科通勤專車18",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車19": {
         "RouteName": "內科通勤專車19",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車2": {
         "RouteName": "內科通勤專車2",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車20": {
         "RouteName": "內科通勤專車20",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車21": {
         "RouteName": "內科通勤專車21",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車22": {
         "RouteName": "內科通勤專車22",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車3": {
         "RouteName": "內科通勤專車3",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車5": {
         "RouteName": "內科通勤專車5",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車6": {
         "RouteName": "內科通勤專車6",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車7": {
         "RouteName": "內科通勤專車7",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "內科通勤專車8": {
         "RouteName": "內科通勤專車8",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "北大社區-捷運頂埔站": {
         "RouteName": "北大社區-捷運頂埔站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "北環幹線": {
         "RouteName": "北環幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "620"
     },
     "南京幹線": {
         "RouteName": "南京幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "棕9"
     },
     "南環幹線": {
         "RouteName": "南環幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "綠1"
     },
     "南軟通勤專車中和線": {
         "RouteName": "南軟通勤專車中和線",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "南軟通勤專車北投線": {
         "RouteName": "南軟通勤專車北投線",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "南軟通勤專車天母線": {
         "RouteName": "南軟通勤專車天母線",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "南軟通勤專車雙和線": {
         "RouteName": "南軟通勤專車雙和線",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "台北小城-大坪林": {
         "RouteName": "台北小城-大坪林",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "合宜住宅-捷運亞東醫院站": {
         "RouteName": "合宜住宅-捷運亞東醫院站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "吉林線": {
         "RouteName": "吉林線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "和平幹線": {
         "RouteName": "和平幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "15"
     },
     "土城-南天母廣場": {
         "RouteName": "土城-南天母廣場",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "土城金城路-樹林大安路": {
         "RouteName": "土城金城路-樹林大安路",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "基隆路幹線": {
         "RouteName": "基隆路幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "650"
     },
     "塗潭假日線": {
         "RouteName": "塗潭假日線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "塗潭平日線": {
         "RouteName": "塗潭平日線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "安坑1線": {
         "RouteName": "安坑1線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "安坑2線": {
         "RouteName": "安坑2線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "安坑3線": {
         "RouteName": "安坑3線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "安坑5線": {
         "RouteName": "安坑5線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "安坑6線": {
         "RouteName": "安坑6線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "小1": {
         "RouteName": "小1",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小10": {
         "RouteName": "小10",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小10區": {
         "RouteName": "小10區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小11": {
         "RouteName": "小11",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小12": {
         "RouteName": "小12",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小14": {
         "RouteName": "小14",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小15": {
         "RouteName": "小15",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小15區": {
         "RouteName": "小15區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小15區預": {
         "RouteName": "小15區預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小16": {
         "RouteName": "小16",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小17": {
         "RouteName": "小17",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小18": {
         "RouteName": "小18",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小19": {
         "RouteName": "小19",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小1區": {
         "RouteName": "小1區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小2": {
         "RouteName": "小2",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小21": {
         "RouteName": "小21",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小22": {
         "RouteName": "小22",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小23": {
         "RouteName": "小23",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小25": {
         "RouteName": "小25",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小26": {
         "RouteName": "小26",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小28": {
         "RouteName": "小28",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小2區": {
         "RouteName": "小2區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小3": {
         "RouteName": "小3",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小30": {
         "RouteName": "小30",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小36": {
         "RouteName": "小36",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小39": {
         "RouteName": "小39",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小5": {
         "RouteName": "小5",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小5區": {
         "RouteName": "小5區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小6": {
         "RouteName": "小6",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小7": {
         "RouteName": "小7",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小8": {
         "RouteName": "小8",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小8區": {
         "RouteName": "小8區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小9(台灣好行-北投竹子湖)": {
         "RouteName": "小9(台灣好行-北投竹子湖)",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "小9區": {
         "RouteName": "小9區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴1": {
         "RouteName": "市民小巴1",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴10": {
         "RouteName": "市民小巴10",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴11": {
         "RouteName": "市民小巴11",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴12": {
         "RouteName": "市民小巴12",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴15": {
         "RouteName": "市民小巴15",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴16": {
         "RouteName": "市民小巴16",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴17": {
         "RouteName": "市民小巴17",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴18": {
         "RouteName": "市民小巴18",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴2": {
         "RouteName": "市民小巴2",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴5": {
         "RouteName": "市民小巴5",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴6": {
         "RouteName": "市民小巴6",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴7": {
         "RouteName": "市民小巴7",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴8": {
         "RouteName": "市民小巴8",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "市民小巴9": {
         "RouteName": "市民小巴9",
         "BusType": "市民小巴",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "幸福巴士F652延伸線": {
         "RouteName": "幸福巴士F652延伸線",
         "BusType": "新北市新巴士",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "復興幹線": {
         "RouteName": "復興幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "74"
     },
     "忠孝幹線": {
         "RouteName": "忠孝幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "232副"
     },
     "懷恩專車S31": {
         "RouteName": "懷恩專車S31",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "懷恩專車S32": {
         "RouteName": "懷恩專車S32",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "懷恩專車S33": {
         "RouteName": "懷恩專車S33",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "懷恩專車S34": {
         "RouteName": "懷恩專車S34",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "懷恩專車S35": {
         "RouteName": "懷恩專車S35",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "承德幹線": {
         "RouteName": "承德幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "266"
     },
     "捷運七張站-全球工業區": {
         "RouteName": "捷運七張站-全球工業區",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "捷運中和站-政大附中": {
         "RouteName": "捷運中和站-政大附中",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "捷運忠孝復興站-三峽": {
         "RouteName": "捷運忠孝復興站-三峽",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "捷運新店站-坪林": {
         "RouteName": "捷運新店站-坪林",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "捷運景安站-三峽臺北大學": {
         "RouteName": "捷運景安站-三峽臺北大學",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "捷運蘆洲站-內湖科技園區": {
         "RouteName": "捷運蘆洲站-內湖科技園區",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "捷運頂溪站-捷運頂埔站": {
         "RouteName": "捷運頂溪站-捷運頂埔站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "政大附中-捷運景美站": {
         "RouteName": "政大附中-捷運景美站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "敦化幹線": {
         "RouteName": "敦化幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "285"
     },
     "新九號停車場-九份老街": {
         "RouteName": "新九號停車場-九份老街",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "新九號停車場-水湳洞停車場": {
         "RouteName": "新九號停車場-水湳洞停車場",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "新九號停車場-黃金博物館": {
         "RouteName": "新九號停車場-黃金博物館",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "新店(綠中海)-捷運新店站": {
         "RouteName": "新店(綠中海)-捷運新店站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "新店-汐止": {
         "RouteName": "新店-汐止",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "新店北新路-政大一街": {
         "RouteName": "新店北新路-政大一街",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "新店高中-三峽": {
         "RouteName": "新店高中-三峽",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "新莊-臺北車站": {
         "RouteName": "新莊-臺北車站",
         "BusType": "跳蛙公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "景美-榮總(快)": {
         "RouteName": "景美-榮總(快)",
         "BusType": "快速公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "東環幹線": {
         "RouteName": "東環幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "綠16"
     },
     "松江新生幹線": {
         "RouteName": "松江新生幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "642"
     },
     "林口(文化三路)-捷運圓山站": {
         "RouteName": "林口(文化三路)-捷運圓山站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "林口(文化北路)-捷運圓山站": {
         "RouteName": "林口(文化北路)-捷運圓山站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "林口-內湖科技園區": {
         "RouteName": "林口-內湖科技園區",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "林口-捷運圓山站": {
         "RouteName": "林口-捷運圓山站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "林口-捷運府中站": {
         "RouteName": "林口-捷運府中站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "林口-捷運忠孝敦化站": {
         "RouteName": "林口-捷運忠孝敦化站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "林口-板橋": {
         "RouteName": "林口-板橋",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "林口-臺北車站(承德)": {
         "RouteName": "林口-臺北車站(承德)",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "林口-臺北長庚醫院": {
         "RouteName": "林口-臺北長庚醫院",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "棕1": {
         "RouteName": "棕1",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕10": {
         "RouteName": "棕10",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕11": {
         "RouteName": "棕11",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕11副": {
         "RouteName": "棕11副",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕12": {
         "RouteName": "棕12",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕13": {
         "RouteName": "棕13",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕15": {
         "RouteName": "棕15",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕18": {
         "RouteName": "棕18",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕19": {
         "RouteName": "棕19",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕2": {
         "RouteName": "棕2",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕20": {
         "RouteName": "棕20",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕20預": {
         "RouteName": "棕20預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕21": {
         "RouteName": "棕21",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕22": {
         "RouteName": "棕22",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕3": {
         "RouteName": "棕3",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕5": {
         "RouteName": "棕5",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕6": {
         "RouteName": "棕6",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "棕7": {
         "RouteName": "棕7",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "棕7建業路": {
         "RouteName": "棕7建業路",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "棕7綠野香坡": {
         "RouteName": "棕7綠野香坡",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "樹林後火車站-海洋公園": {
         "RouteName": "樹林後火車站-海洋公園",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘1": {
         "RouteName": "橘1",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘10": {
         "RouteName": "橘10",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘12": {
         "RouteName": "橘12",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘13": {
         "RouteName": "橘13",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘17": {
         "RouteName": "橘17",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘18": {
         "RouteName": "橘18",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘18福隆路": {
         "RouteName": "橘18福隆路",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘19": {
         "RouteName": "橘19",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘19副": {
         "RouteName": "橘19副",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘2": {
         "RouteName": "橘2",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘20": {
         "RouteName": "橘20",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘21": {
         "RouteName": "橘21",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘22": {
         "RouteName": "橘22",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘25": {
         "RouteName": "橘25",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘26": {
         "RouteName": "橘26",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘3": {
         "RouteName": "橘3",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘5": {
         "RouteName": "橘5",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "橘9": {
         "RouteName": "橘9",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "民權幹線": {
         "RouteName": "民權幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "紅32"
     },
     "民生幹線": {
         "RouteName": "民生幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "518"
     },
     "汐止-台北101": {
         "RouteName": "汐止-台北101",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "泰山-內湖": {
         "RouteName": "泰山-內湖",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "泰山-內湖(直達)": {
         "RouteName": "泰山-內湖(直達)",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "淡水-內湖科技園區": {
         "RouteName": "淡水-內湖科技園區",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "淡水-國道1號-南港車站": {
         "RouteName": "淡水-國道1號-南港車站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "淡水新市鎮-板橋": {
         "RouteName": "淡水新市鎮-板橋",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "湯泉-十四張-大坪林": {
         "RouteName": "湯泉-十四張-大坪林",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "湯泉-大坪林-湯泉": {
         "RouteName": "湯泉-大坪林-湯泉",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "湯泉-崇光中學": {
         "RouteName": "湯泉-崇光中學",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "瑞芳(經東碇路)-松山車站": {
         "RouteName": "瑞芳(經東碇路)-松山車站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "瑞芳-內科(北客)": {
         "RouteName": "瑞芳-內科(北客)",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "瑞芳-內科(基客)": {
         "RouteName": "瑞芳-內科(基客)",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "瑞芳-南港": {
         "RouteName": "瑞芳-南港",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "瑞芳-松山車站(北客)": {
         "RouteName": "瑞芳-松山車站(北客)",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "瑞芳-松山車站(基客)": {
         "RouteName": "瑞芳-松山車站(基客)",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "直潭里線": {
         "RouteName": "直潭里線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "石碇高中-捷運忠孝復興站": {
         "RouteName": "石碇高中-捷運忠孝復興站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "石門-捷運紅樹林站": {
         "RouteName": "石門-捷運紅樹林站",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "福連線": {
         "RouteName": "福連線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅10": {
         "RouteName": "紅10",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅10區": {
         "RouteName": "紅10區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅12": {
         "RouteName": "紅12",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅13": {
         "RouteName": "紅13",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅15": {
         "RouteName": "紅15",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅19": {
         "RouteName": "紅19",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅2": {
         "RouteName": "紅2",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅22": {
         "RouteName": "紅22",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅23": {
         "RouteName": "紅23",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅25": {
         "RouteName": "紅25",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅25區": {
         "RouteName": "紅25區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅26": {
         "RouteName": "紅26",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅27": {
         "RouteName": "紅27",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅28": {
         "RouteName": "紅28",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅28直": {
         "RouteName": "紅28直",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅29": {
         "RouteName": "紅29",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅3": {
         "RouteName": "紅3",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅30": {
         "RouteName": "紅30",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅31": {
         "RouteName": "紅31",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅33": {
         "RouteName": "紅33",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅35": {
         "RouteName": "紅35",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅35區": {
         "RouteName": "紅35區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅36": {
         "RouteName": "紅36",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅37": {
         "RouteName": "紅37",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅37行經海洋都心社區": {
         "RouteName": "紅37行經海洋都心社區",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅38": {
         "RouteName": "紅38",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅39": {
         "RouteName": "紅39",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅3區": {
         "RouteName": "紅3區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅5": {
         "RouteName": "紅5",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅50": {
         "RouteName": "紅50",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅51": {
         "RouteName": "紅51",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅53": {
         "RouteName": "紅53",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "紅55": {
         "RouteName": "紅55",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅55區": {
         "RouteName": "紅55區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅57": {
         "RouteName": "紅57",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅68": {
         "RouteName": "紅68",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅68預": {
         "RouteName": "紅68預",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅7": {
         "RouteName": "紅7",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅7區": {
         "RouteName": "紅7區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "紅9": {
         "RouteName": "紅9",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "綠10": {
         "RouteName": "綠10",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠11": {
         "RouteName": "綠11",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "綠12": {
         "RouteName": "綠12",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠13": {
         "RouteName": "綠13",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠15": {
         "RouteName": "綠15",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠17": {
         "RouteName": "綠17",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "綠2右": {
         "RouteName": "綠2右",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠2左": {
         "RouteName": "綠2左",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠3": {
         "RouteName": "綠3",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠5": {
         "RouteName": "綠5",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠6": {
         "RouteName": "綠6",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠7": {
         "RouteName": "綠7",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠8": {
         "RouteName": "綠8",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠9": {
         "RouteName": "綠9",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠9北新國小": {
         "RouteName": "綠9北新國小",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "綠9耕莘": {
         "RouteName": "綠9耕莘",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "羅斯福路幹線": {
         "RouteName": "羅斯福路幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "236"
     },
     "臺北觀光巴士紅線": {
         "RouteName": "臺北觀光巴士紅線",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "臺北觀光巴士藍線": {
         "RouteName": "臺北觀光巴士藍線",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "萬里-內湖科技園區": {
         "RouteName": "萬里-內湖科技園區",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍1": {
         "RouteName": "藍1",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍10": {
         "RouteName": "藍10",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍15": {
         "RouteName": "藍15",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍17": {
         "RouteName": "藍17",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍18": {
         "RouteName": "藍18",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍2": {
         "RouteName": "藍2",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍20區": {
         "RouteName": "藍20區",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍21": {
         "RouteName": "藍21",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍21副": {
         "RouteName": "藍21副",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍22": {
         "RouteName": "藍22",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍23": {
         "RouteName": "藍23",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍25": {
         "RouteName": "藍25",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍26": {
         "RouteName": "藍26",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍27": {
         "RouteName": "藍27",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍28": {
         "RouteName": "藍28",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍29": {
         "RouteName": "藍29",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍31": {
         "RouteName": "藍31",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍32": {
         "RouteName": "藍32",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍33": {
         "RouteName": "藍33",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍35": {
         "RouteName": "藍35",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍36": {
         "RouteName": "藍36",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍37": {
         "RouteName": "藍37",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍38": {
         "RouteName": "藍38",
         "BusType": "幹線公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍39": {
         "RouteName": "藍39",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍40": {
         "RouteName": "藍40",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍41": {
         "RouteName": "藍41",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍41延和": {
         "RouteName": "藍41延和",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍43": {
         "RouteName": "藍43",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍43延南天母": {
         "RouteName": "藍43延南天母",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍44": {
         "RouteName": "藍44",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍44延": {
         "RouteName": "藍44延",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍45": {
         "RouteName": "藍45",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍46": {
         "RouteName": "藍46",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "藍5": {
         "RouteName": "藍5",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍50": {
         "RouteName": "藍50",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍51": {
         "RouteName": "藍51",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍7": {
         "RouteName": "藍7",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍7副": {
         "RouteName": "藍7副",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "藍海2線先導公車": {
         "RouteName": "藍海2線先導公車",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "蘆洲-中正高中": {
         "RouteName": "蘆洲-中正高中",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "蘆洲-內湖": {
         "RouteName": "蘆洲-內湖",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "蘆洲-南港": {
         "RouteName": "蘆洲-南港",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "蘆洲中正路-士林中正路": {
         "RouteName": "蘆洲中正路-士林中正路",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "貓空右線": {
         "RouteName": "貓空右線",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "貓空左線(動物園)": {
         "RouteName": "貓空左線(動物園)",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "貓空左線(指南宮)": {
         "RouteName": "貓空左線(指南宮)",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "貢寮區學生專車": {
         "RouteName": "貢寮區學生專車",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "通勤11": {
         "RouteName": "通勤11",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤12": {
         "RouteName": "通勤12",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤13": {
         "RouteName": "通勤13",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤16": {
         "RouteName": "通勤16",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤21": {
         "RouteName": "通勤21",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤22": {
         "RouteName": "通勤22",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤24": {
         "RouteName": "通勤24",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤25": {
         "RouteName": "通勤25",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤26": {
         "RouteName": "通勤26",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤27": {
         "RouteName": "通勤27",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤28": {
         "RouteName": "通勤28",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤29": {
         "RouteName": "通勤29",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤7": {
         "RouteName": "通勤7",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "通勤9": {
         "RouteName": "通勤9",
         "BusType": "一般公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "重慶幹線": {
         "RouteName": "重慶幹線",
         "BusType": "幹線公車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": "601"
     },
     "雙園巴士": {
         "RouteName": "雙園巴士",
         "BusType": "內科專車",
-        "City": "taipei"
+        "City": "taipei",
+        "OtherRouteName": null
     },
     "鶯歌火車站-中正紀念堂": {
         "RouteName": "鶯歌火車站-中正紀念堂",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "鶯歌火車站-松山機場": {
         "RouteName": "鶯歌火車站-松山機場",
         "BusType": "跳蛙公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     },
     "龍崗線": {
         "RouteName": "龍崗線",
         "BusType": "一般公車",
-        "City": "newtaipei"
+        "City": "newtaipei",
+        "OtherRouteName": null
     }
 }
