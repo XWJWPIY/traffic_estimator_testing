@@ -3,7 +3,7 @@ name: Update Bus Route Data
 on:
   schedule:
     # 每天凌晨 8:00 UTC (台灣時間早上 4:00) 執行
-    - cron: '0 4 * * *'
+    - cron: '0 5 * * *'
   workflow_dispatch:  # 允許手動觸發
 
 jobs:

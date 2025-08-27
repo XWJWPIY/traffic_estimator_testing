@@ -4,7 +4,7 @@ on:
   schedule:
     # 每天凌晨 4:30 CST (台灣時間) 執行
     # 相當於每天 UTC 20:30
-    - cron: '30 4 * * *'
+    - cron: '30 5 * * *'
   workflow_dispatch:
 
 jobs:
