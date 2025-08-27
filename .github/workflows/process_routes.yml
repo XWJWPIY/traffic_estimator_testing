@@ -2,9 +2,9 @@ name: Process Bus Routes
 
 on:
   schedule:
-    # 每天台灣時間 4:45 AM 執行
-    # 相當於每天 UTC 20:45
-    - cron: '45 5 * * *'
+    # 每天台灣時間 4:30 AM 執行
+    # 相當於每天 UTC 20:30
+    - cron: '30 20 * * *'
   workflow_dispatch:
 
 jobs:
@@ -21,6 +21,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Pull latest changes
+        run: git pull origin main
       
       - name: Run process routes script
         run: python ./backend/functions/process_routes.py

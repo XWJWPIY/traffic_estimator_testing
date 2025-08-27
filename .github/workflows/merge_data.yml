@@ -2,9 +2,9 @@ name: Merge Bus Data
 
 on:
   schedule:
-    # 每天凌晨 4:30 CST (台灣時間) 執行
-    # 相當於每天 UTC 20:30
-    - cron: '30 5 * * *'
+    # 每天凌晨 4:15 CST (台灣時間) 執行
+    # 相當於每天 UTC 20:15
+    - cron: '15 20 * * *'
   workflow_dispatch:
 
 jobs:
@@ -24,6 +24,9 @@ jobs:
       
       - name: Install dependencies
         run: pip install requests
+
+      - name: Pull latest changes
+        run: git pull origin main
         
       - name: Run data merge script
         run: python ./backend/functions/merge_data.py
