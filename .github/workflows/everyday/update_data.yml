@@ -3,13 +3,15 @@ name: Update Bus Route Data
 on:
   schedule:
     # 每天凌晨 8:00 UTC (台灣時間早上 4:00) 執行
-    - cron: '0 20 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch:  # 允許手動觸發
 
 jobs:
   update-taipei-data:
     name: Update Taipei Data
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -35,6 +37,8 @@ jobs:
   update-newtaipei-data:
     name: Update Newtaipei Data
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

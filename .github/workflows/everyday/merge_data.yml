@@ -4,13 +4,15 @@ on:
   schedule:
     # 每天凌晨 4:30 CST (台灣時間) 執行
     # 相當於每天 UTC 20:30
-    - cron: '30 20 * * *'
+    - cron: '30 4 * * *'
   workflow_dispatch:
 
 jobs:
   merge-bus-data:
     name: Merge Data
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

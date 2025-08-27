@@ -4,13 +4,15 @@ on:
   schedule:
     # 每天台灣時間 4:45 AM 執行
     # 相當於每天 UTC 20:45
-    - cron: '45 20 * * *'
+    - cron: '45 4 * * *'
   workflow_dispatch:
 
 jobs:
   process-routes:
     name: Process Routes Data
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
