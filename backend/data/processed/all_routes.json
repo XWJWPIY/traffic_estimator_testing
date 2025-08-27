@@ -1121,7 +1121,7 @@
     },
     "624綠野香坡": {
         "RouteName": "624綠野香坡",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "629": {
@@ -1426,7 +1426,7 @@
     },
     "704區": {
         "RouteName": "704區",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "705": {
@@ -1556,12 +1556,12 @@
     },
     "788區": {
         "RouteName": "788區",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "788海科館": {
         "RouteName": "788海科館",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "789": {
@@ -1591,17 +1591,17 @@
     },
     "791區": {
         "RouteName": "791區",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "791經貢寮區衛生": {
         "RouteName": "791經貢寮區衛生",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "791繞貢寮": {
         "RouteName": "791繞貢寮",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "793": {
@@ -1611,17 +1611,17 @@
     },
     "795往十分寮(台灣好行-木柵平溪線)": {
         "RouteName": "795往十分寮(台灣好行-木柵平溪線)",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "795往平溪(台灣好行-木柵平溪線)": {
         "RouteName": "795往平溪(台灣好行-木柵平溪線)",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "795往木柵(台灣好行-木柵平溪線)": {
         "RouteName": "795往木柵(台灣好行-木柵平溪線)",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "796": {
@@ -1861,7 +1861,7 @@
     },
     "849屈尺社區": {
         "RouteName": "849屈尺社區",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "851": {
@@ -1876,7 +1876,7 @@
     },
     "853跳蛙": {
         "RouteName": "853跳蛙",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "854": {
@@ -2166,7 +2166,7 @@
     },
     "907通勤": {
         "RouteName": "907通勤",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "taipei"
     },
     "908": {
@@ -2176,7 +2176,7 @@
     },
     "908延": {
         "RouteName": "908延",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "909": {
@@ -2221,7 +2221,7 @@
     },
     "918區": {
         "RouteName": "918區",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "919": {
@@ -2236,7 +2236,7 @@
     },
     "920A": {
         "RouteName": "920A",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "920副": {
@@ -2266,7 +2266,7 @@
     },
     "925A": {
         "RouteName": "925A",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "927": {
@@ -2276,7 +2276,7 @@
     },
     "927經台北港": {
         "RouteName": "927經台北港",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "928": {
@@ -2291,7 +2291,7 @@
     },
     "930延": {
         "RouteName": "930延",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "932": {
@@ -2301,7 +2301,7 @@
     },
     "932繞國家教育研究院": {
         "RouteName": "932繞國家教育研究院",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "933": {
@@ -2321,7 +2321,7 @@
     },
     "936A": {
         "RouteName": "936A",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "937": {
@@ -2331,7 +2331,7 @@
     },
     "937A": {
         "RouteName": "937A",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "937副": {
@@ -2356,7 +2356,7 @@
     },
     "939跳蛙": {
         "RouteName": "939跳蛙",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "940": {
@@ -2426,7 +2426,7 @@
     },
     "953區": {
         "RouteName": "953區",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "955": {
@@ -2461,7 +2461,7 @@
     },
     "965(台灣好行-九份金瓜石線)": {
         "RouteName": "965(台灣好行-九份金瓜石線)",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "966": {
@@ -2471,7 +2471,7 @@
     },
     "966A": {
         "RouteName": "966A",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "966副": {
@@ -2491,7 +2491,7 @@
     },
     "967直": {
         "RouteName": "967直",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "newtaipei"
     },
     "981": {
@@ -2506,17 +2506,17 @@
     },
     "982區": {
         "RouteName": "982區",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "982直達": {
         "RouteName": "982直達",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "982直達新埔線": {
         "RouteName": "982直達新埔線",
-        "BusType": "一般公車",
+        "BusType": "幹線公車",
         "City": "newtaipei"
     },
     "983": {
@@ -2536,957 +2536,957 @@
     },
     "F101坪頂": {
         "RouteName": "F101坪頂",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F101樹興": {
         "RouteName": "F101樹興",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F102": {
         "RouteName": "F102",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F103": {
         "RouteName": "F103",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F105": {
         "RouteName": "F105",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F105反": {
         "RouteName": "F105反",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F106": {
         "RouteName": "F106",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F109": {
         "RouteName": "F109",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F121": {
         "RouteName": "F121",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F122": {
         "RouteName": "F122",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F123-0640、0700": {
         "RouteName": "F123-0640、0700",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F123-1205": {
         "RouteName": "F123-1205",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F123-1550": {
         "RouteName": "F123-1550",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F126": {
         "RouteName": "F126",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F126江厝": {
         "RouteName": "F126江厝",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F126經里中": {
         "RouteName": "F126經里中",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F131": {
         "RouteName": "F131",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F132": {
         "RouteName": "F132",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F132經青山": {
         "RouteName": "F132經青山",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F133假日": {
         "RouteName": "F133假日",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F133平日": {
         "RouteName": "F133平日",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F133末班": {
         "RouteName": "F133末班",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F135": {
         "RouteName": "F135",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F136": {
         "RouteName": "F136",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F137": {
         "RouteName": "F137",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F138內橫山": {
         "RouteName": "F138內橫山",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F138新古庄": {
         "RouteName": "F138新古庄",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F139行經101線": {
         "RouteName": "F139行經101線",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F139行經台2線": {
         "RouteName": "F139行經台2線",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-0605": {
         "RouteName": "F151-0605",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-0620": {
         "RouteName": "F151-0620",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-0655、1030": {
         "RouteName": "F151-0655、1030",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-0730": {
         "RouteName": "F151-0730",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-0800": {
         "RouteName": "F151-0800",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-0830、1655": {
         "RouteName": "F151-0830、1655",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-0930": {
         "RouteName": "F151-0930",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-1000": {
         "RouteName": "F151-1000",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-1605": {
         "RouteName": "F151-1605",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-1625": {
         "RouteName": "F151-1625",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-1730": {
         "RouteName": "F151-1730",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F151-1800": {
         "RouteName": "F151-1800",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-0600": {
         "RouteName": "F152-0600",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-0620、0745": {
         "RouteName": "F152-0620、0745",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-0635": {
         "RouteName": "F152-0635",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-0700": {
         "RouteName": "F152-0700",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-0810": {
         "RouteName": "F152-0810",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-0845": {
         "RouteName": "F152-0845",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-0925": {
         "RouteName": "F152-0925",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-0950": {
         "RouteName": "F152-0950",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-1545": {
         "RouteName": "F152-1545",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-1630": {
         "RouteName": "F152-1630",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-1655": {
         "RouteName": "F152-1655",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-1720": {
         "RouteName": "F152-1720",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-1740": {
         "RouteName": "F152-1740",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F152-1800": {
         "RouteName": "F152-1800",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F153-0620": {
         "RouteName": "F153-0620",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F153-0730、0945": {
         "RouteName": "F153-0730、0945",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F153-0820": {
         "RouteName": "F153-0820",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F153-1030": {
         "RouteName": "F153-1030",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F153-1605": {
         "RouteName": "F153-1605",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F153-1730": {
         "RouteName": "F153-1730",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F161": {
         "RouteName": "F161",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F201": {
         "RouteName": "F201",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F202": {
         "RouteName": "F202",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F205": {
         "RouteName": "F205",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F206": {
         "RouteName": "F206",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F207": {
         "RouteName": "F207",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F211": {
         "RouteName": "F211",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F212": {
         "RouteName": "F212",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F212副": {
         "RouteName": "F212副",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F212楓江": {
         "RouteName": "F212楓江",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F213": {
         "RouteName": "F213",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F213黎明": {
         "RouteName": "F213黎明",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F217": {
         "RouteName": "F217",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F218": {
         "RouteName": "F218",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F233": {
         "RouteName": "F233",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F235": {
         "RouteName": "F235",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F236": {
         "RouteName": "F236",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F237": {
         "RouteName": "F237",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F238": {
         "RouteName": "F238",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F239": {
         "RouteName": "F239",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F250": {
         "RouteName": "F250",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F301": {
         "RouteName": "F301",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F302": {
         "RouteName": "F302",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F303": {
         "RouteName": "F303",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F312": {
         "RouteName": "F312",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F317": {
         "RouteName": "F317",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F319": {
         "RouteName": "F319",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F320": {
         "RouteName": "F320",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F512": {
         "RouteName": "F512",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F512副": {
         "RouteName": "F512副",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F513": {
         "RouteName": "F513",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F521": {
         "RouteName": "F521",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F522": {
         "RouteName": "F522",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F523": {
         "RouteName": "F523",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F525": {
         "RouteName": "F525",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F526": {
         "RouteName": "F526",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F611": {
         "RouteName": "F611",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F623": {
         "RouteName": "F623",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F625": {
         "RouteName": "F625",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F626": {
         "RouteName": "F626",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F626-0815": {
         "RouteName": "F626-0815",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F627": {
         "RouteName": "F627",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F628": {
         "RouteName": "F628",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F629": {
         "RouteName": "F629",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F630": {
         "RouteName": "F630",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F651": {
         "RouteName": "F651",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F652": {
         "RouteName": "F652",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F653A": {
         "RouteName": "F653A",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F653B": {
         "RouteName": "F653B",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F655": {
         "RouteName": "F655",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F656": {
         "RouteName": "F656",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F657": {
         "RouteName": "F657",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F703": {
         "RouteName": "F703",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F703前三班": {
         "RouteName": "F703前三班",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F711": {
         "RouteName": "F711",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F712": {
         "RouteName": "F712",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F713": {
         "RouteName": "F713",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F721": {
         "RouteName": "F721",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F722": {
         "RouteName": "F722",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F723": {
         "RouteName": "F723",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F723上石嘈": {
         "RouteName": "F723上石嘈",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F723下石嘈": {
         "RouteName": "F723下石嘈",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F724": {
         "RouteName": "F724",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F801": {
         "RouteName": "F801",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F802": {
         "RouteName": "F802",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F803": {
         "RouteName": "F803",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F805": {
         "RouteName": "F805",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F806": {
         "RouteName": "F806",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F807": {
         "RouteName": "F807",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F808": {
         "RouteName": "F808",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F811": {
         "RouteName": "F811",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F812": {
         "RouteName": "F812",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F813": {
         "RouteName": "F813",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F815": {
         "RouteName": "F815",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F815嶺頭觀目": {
         "RouteName": "F815嶺頭觀目",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F816": {
         "RouteName": "F816",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F821": {
         "RouteName": "F821",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F822": {
         "RouteName": "F822",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F823": {
         "RouteName": "F823",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F823區": {
         "RouteName": "F823區",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F825": {
         "RouteName": "F825",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F835": {
         "RouteName": "F835",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F836": {
         "RouteName": "F836",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F837": {
         "RouteName": "F837",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F838": {
         "RouteName": "F838",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F839": {
         "RouteName": "F839",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F901": {
         "RouteName": "F901",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F902": {
         "RouteName": "F902",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F903": {
         "RouteName": "F903",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F905": {
         "RouteName": "F905",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F907": {
         "RouteName": "F907",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F909伯爵": {
         "RouteName": "F909伯爵",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F910": {
         "RouteName": "F910",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F911": {
         "RouteName": "F911",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F913": {
         "RouteName": "F913",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F915": {
         "RouteName": "F915",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F919八連": {
         "RouteName": "F919八連",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F920": {
         "RouteName": "F920",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F921": {
         "RouteName": "F921",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F921假日": {
         "RouteName": "F921假日",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F922內崁": {
         "RouteName": "F922內崁",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F922北基": {
         "RouteName": "F922北基",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F922烏塗炭": {
         "RouteName": "F922烏塗炭",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F923": {
         "RouteName": "F923",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F923假日": {
         "RouteName": "F923假日",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F931-0600": {
         "RouteName": "F931-0600",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F931-0700": {
         "RouteName": "F931-0700",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F931-0800": {
         "RouteName": "F931-0800",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F931-0910": {
         "RouteName": "F931-0910",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F931-1030": {
         "RouteName": "F931-1030",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F931-1255": {
         "RouteName": "F931-1255",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F931-1630": {
         "RouteName": "F931-1630",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F931-1730": {
         "RouteName": "F931-1730",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F932-0600": {
         "RouteName": "F932-0600",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F932-0630": {
         "RouteName": "F932-0630",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F932-0715": {
         "RouteName": "F932-0715",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F932-0820": {
         "RouteName": "F932-0820",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F932-0950": {
         "RouteName": "F932-0950",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F932-1110": {
         "RouteName": "F932-1110",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F932-1630": {
         "RouteName": "F932-1630",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F933-0620學生專車": {
         "RouteName": "F933-0620學生專車",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F933-0635": {
         "RouteName": "F933-0635",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F933-0710": {
         "RouteName": "F933-0710",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F933-0800": {
         "RouteName": "F933-0800",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F933-0920": {
         "RouteName": "F933-0920",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F933-1030": {
         "RouteName": "F933-1030",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F933-1130": {
         "RouteName": "F933-1130",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F933-1330": {
         "RouteName": "F933-1330",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F933-1430": {
         "RouteName": "F933-1430",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "F933-1530": {
         "RouteName": "F933-1530",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "三峽-中和高中": {
@@ -3496,52 +3496,52 @@
     },
     "三峽-內科": {
         "RouteName": "三峽-內科",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "三峽-捷運台大醫院站": {
         "RouteName": "三峽-捷運台大醫院站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "三峽-捷運府中站": {
         "RouteName": "三峽-捷運府中站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "三峽-捷運永寧站": {
         "RouteName": "三峽-捷運永寧站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "三峽-臺北市信義區": {
         "RouteName": "三峽-臺北市信義區",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "三重-內科": {
         "RouteName": "三重-內科",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "中和-新北板橋公車站": {
         "RouteName": "中和-新北板橋公車站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "中和左岸社區-捷運頂溪站": {
         "RouteName": "中和左岸社區-捷運頂溪站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "中和環河西路-永和仁愛路": {
         "RouteName": "中和環河西路-永和仁愛路",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "中和自立路-新店": {
         "RouteName": "中和自立路-新店",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "中山幹線": {
@@ -3551,7 +3551,7 @@
     },
     "五股-內湖科技園區": {
         "RouteName": "五股-內湖科技園區",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "仁愛幹線": {
@@ -3681,7 +3681,7 @@
     },
     "北大社區-捷運頂埔站": {
         "RouteName": "北大社區-捷運頂埔站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "北環幹線": {
@@ -3721,7 +3721,7 @@
     },
     "台北小城-大坪林": {
         "RouteName": "台北小城-大坪林",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "合宜住宅-捷運亞東醫院站": {
@@ -3741,12 +3741,12 @@
     },
     "土城-南天母廣場": {
         "RouteName": "土城-南天母廣場",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "土城金城路-樹林大安路": {
         "RouteName": "土城金城路-樹林大安路",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "基隆路幹線": {
@@ -4031,7 +4031,7 @@
     },
     "幸福巴士F652延伸線": {
         "RouteName": "幸福巴士F652延伸線",
-        "BusType": "一般公車",
+        "BusType": "新北市新巴士",
         "City": "newtaipei"
     },
     "復興幹線": {
@@ -4076,12 +4076,12 @@
     },
     "捷運七張站-全球工業區": {
         "RouteName": "捷運七張站-全球工業區",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "捷運中和站-政大附中": {
         "RouteName": "捷運中和站-政大附中",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "捷運忠孝復興站-三峽": {
@@ -4091,27 +4091,27 @@
     },
     "捷運新店站-坪林": {
         "RouteName": "捷運新店站-坪林",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "捷運景安站-三峽臺北大學": {
         "RouteName": "捷運景安站-三峽臺北大學",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "捷運蘆洲站-內湖科技園區": {
         "RouteName": "捷運蘆洲站-內湖科技園區",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "捷運頂溪站-捷運頂埔站": {
         "RouteName": "捷運頂溪站-捷運頂埔站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "政大附中-捷運景美站": {
         "RouteName": "政大附中-捷運景美站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "敦化幹線": {
@@ -4121,47 +4121,47 @@
     },
     "新九號停車場-九份老街": {
         "RouteName": "新九號停車場-九份老街",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "新九號停車場-水湳洞停車場": {
         "RouteName": "新九號停車場-水湳洞停車場",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "新九號停車場-黃金博物館": {
         "RouteName": "新九號停車場-黃金博物館",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "新店(綠中海)-捷運新店站": {
         "RouteName": "新店(綠中海)-捷運新店站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "新店-汐止": {
         "RouteName": "新店-汐止",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "新店北新路-政大一街": {
         "RouteName": "新店北新路-政大一街",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "新店高中-三峽": {
         "RouteName": "新店高中-三峽",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "新莊-臺北車站": {
         "RouteName": "新莊-臺北車站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "taipei"
     },
     "景美-榮總(快)": {
         "RouteName": "景美-榮總(快)",
-        "BusType": "一般公車",
+        "BusType": "快速公車",
         "City": "taipei"
     },
     "東環幹線": {
@@ -4176,47 +4176,47 @@
     },
     "林口(文化三路)-捷運圓山站": {
         "RouteName": "林口(文化三路)-捷運圓山站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "林口(文化北路)-捷運圓山站": {
         "RouteName": "林口(文化北路)-捷運圓山站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "林口-內湖科技園區": {
         "RouteName": "林口-內湖科技園區",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "林口-捷運圓山站": {
         "RouteName": "林口-捷運圓山站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "林口-捷運府中站": {
         "RouteName": "林口-捷運府中站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "林口-捷運忠孝敦化站": {
         "RouteName": "林口-捷運忠孝敦化站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "林口-板橋": {
         "RouteName": "林口-板橋",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "林口-臺北車站(承德)": {
         "RouteName": "林口-臺北車站(承德)",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "林口-臺北長庚醫院": {
         "RouteName": "林口-臺北長庚醫院",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "棕1": {
@@ -4321,7 +4321,7 @@
     },
     "樹林後火車站-海洋公園": {
         "RouteName": "樹林後火車站-海洋公園",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "橘1": {
@@ -4426,77 +4426,77 @@
     },
     "汐止-台北101": {
         "RouteName": "汐止-台北101",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "泰山-內湖": {
         "RouteName": "泰山-內湖",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "泰山-內湖(直達)": {
         "RouteName": "泰山-內湖(直達)",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "淡水-內湖科技園區": {
         "RouteName": "淡水-內湖科技園區",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "淡水-國道1號-南港車站": {
         "RouteName": "淡水-國道1號-南港車站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "淡水新市鎮-板橋": {
         "RouteName": "淡水新市鎮-板橋",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "湯泉-十四張-大坪林": {
         "RouteName": "湯泉-十四張-大坪林",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "湯泉-大坪林-湯泉": {
         "RouteName": "湯泉-大坪林-湯泉",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "湯泉-崇光中學": {
         "RouteName": "湯泉-崇光中學",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "瑞芳(經東碇路)-松山車站": {
         "RouteName": "瑞芳(經東碇路)-松山車站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "瑞芳-內科(北客)": {
         "RouteName": "瑞芳-內科(北客)",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "瑞芳-內科(基客)": {
         "RouteName": "瑞芳-內科(基客)",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "瑞芳-南港": {
         "RouteName": "瑞芳-南港",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "瑞芳-松山車站(北客)": {
         "RouteName": "瑞芳-松山車站(北客)",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "瑞芳-松山車站(基客)": {
         "RouteName": "瑞芳-松山車站(基客)",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "直潭里線": {
@@ -4511,7 +4511,7 @@
     },
     "石門-捷運紅樹林站": {
         "RouteName": "石門-捷運紅樹林站",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "福連線": {
@@ -4816,7 +4816,7 @@
     },
     "萬里-內湖科技園區": {
         "RouteName": "萬里-內湖科技園區",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "藍1": {
@@ -5016,22 +5016,22 @@
     },
     "蘆洲-中正高中": {
         "RouteName": "蘆洲-中正高中",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "蘆洲-內湖": {
         "RouteName": "蘆洲-內湖",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "蘆洲-南港": {
         "RouteName": "蘆洲-南港",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "蘆洲中正路-士林中正路": {
         "RouteName": "蘆洲中正路-士林中正路",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "貓空右線": {
@@ -5136,12 +5136,12 @@
     },
     "鶯歌火車站-中正紀念堂": {
         "RouteName": "鶯歌火車站-中正紀念堂",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "鶯歌火車站-松山機場": {
         "RouteName": "鶯歌火車站-松山機場",
-        "BusType": "一般公車",
+        "BusType": "跳蛙公車",
         "City": "newtaipei"
     },
     "龍崗線": {
