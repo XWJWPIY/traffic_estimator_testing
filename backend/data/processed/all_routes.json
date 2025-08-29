@@ -6137,6 +6137,12 @@
         "City": "taipei",
         "OtherRouteName": null
     },
+    "通勤30": {
+        "RouteName": "通勤30",
+        "BusType": "一般公車",
+        "City": "taipei",
+        "OtherRouteName": null
+    },
     "通勤7": {
         "RouteName": "通勤7",
         "BusType": "一般公車",
