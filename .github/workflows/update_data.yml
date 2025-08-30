@@ -40,6 +40,7 @@ jobs:
   update-newtaipei-data:
     name: Update Newtaipei Data
     runs-on: ubuntu-latest
+    needs: update-taipei-data 
     permissions:
       contents: write
     steps:
