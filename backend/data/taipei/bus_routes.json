@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2025/08/31 03:34:04",
+        "UpdateTime": "2025/09/01 03:38:48",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -4514,7 +4514,7 @@
             "departureEn": "National Palace Museum",
             "destinationZh": "小南門",
             "destinationEn": "Xiaonan Gate",
-            "realSequence": "8",
+            "realSequence": "6",
             "distance": "22.4",
             "goFirstBusTime": "0610",
             "backFirstBusTime": "1610",
@@ -31311,11 +31311,11 @@
             "destinationZh": "大稻埕碼頭",
             "destinationEn": "Dadaocheng Wharf",
             "realSequence": "5",
-            "distance": "11.99",
+            "distance": "12.1",
             "goFirstBusTime": "0740",
             "backFirstBusTime": "0740",
-            "goLastBusTime": "1830",
-            "backLastBusTime": "1830",
+            "goLastBusTime": "1840",
+            "backLastBusTime": "1840",
             "busTimeDesc": "例假日停駛",
             "peakHeadway": "",
             "offPeakHeadway": "",
