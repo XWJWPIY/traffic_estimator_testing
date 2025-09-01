@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2025/09/01 03:38:48",
+        "UpdateTime": "2025/09/02 03:22:05",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -16394,7 +16394,7 @@
             "departureEn": "Wanfang Community",
             "destinationZh": "陽明山",
             "destinationEn": "Yangmingshan",
-            "realSequence": "6",
+            "realSequence": "2",
             "distance": "54.5",
             "goFirstBusTime": " ",
             "backFirstBusTime": " ",
