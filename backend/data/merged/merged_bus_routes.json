@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2025/09/09 03:22:05",
+            "UpdateTime": "2025/09/10 03:34:04",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -32533,7 +32533,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2025/09/09 03:42:24",
+            "UpdateTime": "2025/09/10 03:34:04",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -53484,7 +53484,7 @@
                 "providerId": 16181,
                 "providerName": "欣欣客運",
                 "nameZh": "666華梵大學",
-                "nameEn": "666",
+                "nameEn": "666Huafan University",
                 "aliasName": "",
                 "pathAttributeId": 107530,
                 "pathAttributeNId": "0400066601",
@@ -53500,8 +53500,8 @@
                 "distance": "50",
                 "goFirstBusTime": "0648",
                 "backFirstBusTime": "0648",
-                "goLastBusTime": "1800",
-                "backLastBusTime": "1800",
+                "goLastBusTime": "1848",
+                "backLastBusTime": "1848",
                 "busTimeDesc": "",
                 "peakHeadway": "",
                 "offPeakHeadway": "",
