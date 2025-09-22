@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2025/09/22 03:33:20",
+            "UpdateTime": "2025/09/23 03:34:04",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -32489,7 +32489,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2025/09/22 03:42:24",
+            "UpdateTime": "2025/09/23 03:33:20",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -47172,8 +47172,8 @@
                 "routeType": "1",
                 "departureZh": "分水崙",
                 "departureEn": "Fenshuilun",
-                "destinationZh": "福隆火車站",
-                "destinationEn": "Fulong Rail Sta.",
+                "destinationZh": "福隆",
+                "destinationEn": "Fulong",
                 "realSequence": "99",
                 "distance": "99",
                 "goFirstBusTime": "0630",
@@ -47295,14 +47295,14 @@
                 "aliasName": "",
                 "pathAttributeId": 159010,
                 "pathAttributeNId": "0454082302",
-                "pathAttributeName": "F823福隆火車站",
-                "pathAttributeEname": "F823Fulong Rail Sta.",
+                "pathAttributeName": "F823福隆",
+                "pathAttributeEname": "F823Fulong",
                 "buildPeriod": "10",
                 "routeType": "1",
                 "departureZh": "分水崙",
                 "departureEn": "Fenshuilun",
-                "destinationZh": "福隆火車站",
-                "destinationEn": "Fulong Rail Sta.",
+                "destinationZh": "福隆",
+                "destinationEn": "Fulong",
                 "realSequence": "99",
                 "distance": "99",
                 "goFirstBusTime": "0630",
