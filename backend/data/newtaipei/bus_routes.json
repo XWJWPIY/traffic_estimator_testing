@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2025/09/28 03:33:20",
+        "UpdateTime": "2025/09/29 03:33:20",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -19028,12 +19028,12 @@
             "pathAttributeEname": "G15",
             "buildPeriod": "10",
             "routeType": "1",
-            "departureZh": "伴山別墅(一)",
-            "departureEn": "Banshan Bieshu(1)",
+            "departureZh": "綠野香坡",
+            "departureEn": "LyuYeSiangPo",
             "destinationZh": "捷運大坪林站",
             "destinationEn": "MRT Dapinglin sta.",
-            "realSequence": "39",
-            "distance": "27.9",
+            "realSequence": "42",
+            "distance": "32",
             "goFirstBusTime": "0540",
             "backFirstBusTime": "0540",
             "goLastBusTime": "2200",
