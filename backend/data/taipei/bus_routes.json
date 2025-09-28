@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2025/09/28 02:34:04",
+        "UpdateTime": "2025/09/29 03:34:04",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -14511,7 +14511,7 @@
             "busTimeDesc": "",
             "peakHeadway": "1215",
             "offPeakHeadway": "1520",
-            "headwayDesc": "平日06:10返程班次及17:45、18:00往程班次繞駛中鼎第二總部大樓；平日1030、1330班次為狗狗友善公車",
+            "headwayDesc": "平日06:10返程班次及17:45、18:00往程班次繞駛中鼎第二總部大樓、福美路；平日1030、1330班次為狗狗友善公車",
             "holidayGoFirstBusTime": "0540",
             "holidayBackFirstBusTime": "0540",
             "holidayGoLastBusTime": "2300",
@@ -14538,7 +14538,7 @@
             "aliasName": "",
             "pathAttributeId": 161197,
             "pathAttributeNId": "0100004102",
-            "pathAttributeName": "41返程經中鼎大樓",
+            "pathAttributeName": "41返程經中鼎大樓、福美路",
             "pathAttributeEname": "41",
             "buildPeriod": "4",
             "routeType": "1",
@@ -14555,7 +14555,7 @@
             "busTimeDesc": "",
             "peakHeadway": "1215",
             "offPeakHeadway": "1520",
-            "headwayDesc": "平日06:10返程班次及17:45、18:00往程班次繞駛中鼎第二總部大樓；平日1030、1330班次為狗狗友善公車",
+            "headwayDesc": "平日06:10返程班次及17:45、18:00往程班次繞駛中鼎第二總部大樓、福美路；平日1030、1330班次為狗狗友善公車",
             "holidayGoFirstBusTime": "0540",
             "holidayBackFirstBusTime": "0540",
             "holidayGoLastBusTime": "2300",
@@ -14582,7 +14582,7 @@
             "aliasName": "",
             "pathAttributeId": 161198,
             "pathAttributeNId": "0100004103",
-            "pathAttributeName": "41去程經中鼎大樓",
+            "pathAttributeName": "41去程經中鼎大樓、福美路",
             "pathAttributeEname": "41",
             "buildPeriod": "4",
             "routeType": "1",
@@ -14599,7 +14599,7 @@
             "busTimeDesc": "",
             "peakHeadway": "1215",
             "offPeakHeadway": "1520",
-            "headwayDesc": "平日06:10返程班次及17:45、18:00往程班次繞駛中鼎第二總部大樓；平日1030、1330班次為狗狗友善公車",
+            "headwayDesc": "平日06:10返程班次及17:45、18:00往程班次繞駛中鼎第二總部大樓、福美路；平日1030、1330班次為狗狗友善公車",
             "holidayGoFirstBusTime": "0540",
             "holidayBackFirstBusTime": "0540",
             "holidayGoLastBusTime": "2300",
@@ -14643,7 +14643,7 @@
             "busTimeDesc": "",
             "peakHeadway": "1215",
             "offPeakHeadway": "1520",
-            "headwayDesc": "平日06:10返程班次及17:45、18:00往程班次繞駛中鼎第二總部大樓；平日1030、1330班次為狗狗友善公車",
+            "headwayDesc": "平日06:10返程班次及17:45、18:00往程班次繞駛中鼎第二總部大樓、福美路；平日1030、1330班次為狗狗友善公車",
             "holidayGoFirstBusTime": "0540",
             "holidayBackFirstBusTime": "0540",
             "holidayGoLastBusTime": "2300",
@@ -21522,7 +21522,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "0672000",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067200",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 16169,
@@ -21566,7 +21566,7 @@
             "ticketPriceDescriptionEn": "1 segment",
             "ttiaPathId": "0672200",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067220",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 16709,
@@ -23224,10 +23224,10 @@
             "peakHeadway": "",
             "offPeakHeadway": "",
             "headwayDesc": "",
-            "holidayGoFirstBusTime": "",
-            "holidayBackFirstBusTime": "",
-            "holidayGoLastBusTime": "",
-            "holidayBackLastBusTime": "",
+            "holidayGoFirstBusTime": " ",
+            "holidayBackFirstBusTime": " ",
+            "holidayGoLastBusTime": " ",
+            "holidayBackLastBusTime": " ",
             "holidayBusTimeDesc": "",
             "holidayPeakHeadway": "",
             "holidayOffPeakHeadway": "",
@@ -23268,10 +23268,10 @@
             "peakHeadway": "",
             "offPeakHeadway": "",
             "headwayDesc": "",
-            "holidayGoFirstBusTime": "",
-            "holidayBackFirstBusTime": "",
-            "holidayGoLastBusTime": "",
-            "holidayBackLastBusTime": "",
+            "holidayGoFirstBusTime": " ",
+            "holidayBackFirstBusTime": " ",
+            "holidayGoLastBusTime": " ",
+            "holidayBackLastBusTime": " ",
             "holidayBusTimeDesc": "",
             "holidayPeakHeadway": "",
             "holidayOffPeakHeadway": "",
@@ -24514,7 +24514,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "0907000",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090700",
-            "genus": "02;65;01"
+            "genus": "01;02;65"
         },
         {
             "Id": 10725,
@@ -24602,7 +24602,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "0907900",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090790",
-            "genus": "02;52;65;01"
+            "genus": "01;02;52;65"
         },
         {
             "Id": 10723,
@@ -24690,7 +24690,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "09079A0",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090790",
-            "genus": "02;52;65;01"
+            "genus": "01;02;52;65"
         },
         {
             "Id": 17928,
@@ -24734,7 +24734,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "09079B0",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090790",
-            "genus": "02;52;65;01"
+            "genus": "01;02;52;65"
         },
         {
             "Id": 17928,
@@ -24778,7 +24778,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "09079C0",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090790",
-            "genus": "02;52;65;01"
+            "genus": "01;02;52;65"
         },
         {
             "Id": 17928,
@@ -24822,7 +24822,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "09079D0",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100090790",
-            "genus": "02;52;65;01"
+            "genus": "01;02;52;65"
         },
         {
             "Id": 15221,
