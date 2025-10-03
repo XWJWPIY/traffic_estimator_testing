@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2025/10/03 03:33:20",
+            "UpdateTime": "2025/10/04 03:34:04",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -3916,7 +3916,7 @@
                 "holidayBusTimeDesc": "例假日0845~1815；寒暑假及連續假期0845~2015",
                 "holidayPeakHeadway": "",
                 "holidayOffPeakHeadway": "",
-                "holidayHeadwayDesc": "寒暑假及連續假期0845~2015；寒暑假期間及連續假期(收假日除外)增加:19:15/20:15",
+                "holidayHeadwayDesc": "寒暑假及連續假期0845~2015；寒暑假期間及連續假期(收假日除外)增加:20:15",
                 "segmentBufferZh": "",
                 "segmentBufferEn": "",
                 "ticketPriceDescriptionZh": "一段票",
@@ -5588,7 +5588,7 @@
                 "holidayBusTimeDesc": "例假日0845~1815；寒暑假及連續假期0845~2015",
                 "holidayPeakHeadway": "",
                 "holidayOffPeakHeadway": "",
-                "holidayHeadwayDesc": "寒暑假及連續假期0845~2015；寒暑假期間及連續假期(收假日除外)增加:19:15/20:15",
+                "holidayHeadwayDesc": "寒暑假及連續假期0845~2015；寒暑假期間及連續假期(收假日除外)增加:20:15",
                 "segmentBufferZh": "",
                 "segmentBufferEn": "",
                 "ticketPriceDescriptionZh": "一段票",
@@ -25518,8 +25518,8 @@
                 "holidayGoLastBusTime": "2210",
                 "holidayBackLastBusTime": "2210",
                 "holidayBusTimeDesc": "",
-                "holidayPeakHeadway": "2030",
-                "holidayOffPeakHeadway": "2030",
+                "holidayPeakHeadway": "",
+                "holidayOffPeakHeadway": "",
                 "holidayHeadwayDesc": "",
                 "segmentBufferZh": "玉成國小－饒河街觀光夜市(八德)",
                 "segmentBufferEn": "Yucheng Elementary School－Raohe St. Tourist Market(Bade)",
@@ -32401,7 +32401,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2025/10/03 03:42:24",
+            "UpdateTime": "2025/10/04 03:42:24",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
