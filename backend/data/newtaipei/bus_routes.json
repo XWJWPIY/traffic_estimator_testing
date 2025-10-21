@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2025/10/21 03:48:20",
+        "UpdateTime": "2025/10/22 03:48:08",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -32406,7 +32406,7 @@
             "destinationZh": "捷運景安站",
             "destinationEn": "MRT Jingan Sta.",
             "realSequence": "180",
-            "distance": "43",
+            "distance": "21.5",
             "goFirstBusTime": "0630",
             "backFirstBusTime": "0630",
             "goLastBusTime": "0730",
@@ -33739,7 +33739,7 @@
             "destinationZh": "新北板橋公車站",
             "destinationEn": "Banqiao Bus Station",
             "realSequence": "220",
-            "distance": "44",
+            "distance": "22",
             "goFirstBusTime": "1750",
             "backFirstBusTime": "1750",
             "goLastBusTime": "1750",
