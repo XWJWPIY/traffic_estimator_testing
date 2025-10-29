@@ -4229,6 +4229,12 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "中原中平路口-建國中學": {
+        "RouteName": "中原中平路口-建國中學",
+        "BusType": "跳蛙公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "中和-新北板橋公車站": {
         "RouteName": "中和-新北板橋公車站",
         "BusType": "跳蛙公車",
