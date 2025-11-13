@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2025/11/13 03:48:20",
+        "UpdateTime": "2025/11/14 03:48:20",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -38211,7 +38211,7 @@
             "destinationZh": "動物園",
             "destinationEn": "Taipei Zoo",
             "realSequence": "58",
-            "distance": "67.1",
+            "distance": "57",
             "goFirstBusTime": "0500",
             "backFirstBusTime": "0500",
             "goLastBusTime": "2010",
