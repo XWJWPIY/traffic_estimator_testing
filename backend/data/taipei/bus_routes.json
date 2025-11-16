@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2025/11/16 04:12:53",
+        "UpdateTime": "2025/11/17 03:14:20",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -1502,7 +1502,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "02990A0",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029900",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 11421,
@@ -1590,7 +1590,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "02990C0",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029900",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 11411,
@@ -1634,7 +1634,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "02990E0",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029900",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 10421,
@@ -15714,7 +15714,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "0299000",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029900",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 11411,
@@ -15758,7 +15758,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "02990B0",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029900",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 11411,
@@ -15802,7 +15802,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "02990D0",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100029900",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 11821,
@@ -23216,8 +23216,8 @@
             "destinationEn": "Taipei City Hall",
             "realSequence": "2",
             "distance": "25.4",
-            "goFirstBusTime": "0700",
-            "backFirstBusTime": "0700",
+            "goFirstBusTime": "0650",
+            "backFirstBusTime": "0650",
             "goLastBusTime": "1700",
             "backLastBusTime": "1700",
             "busTimeDesc": "例假日停駛",
@@ -23260,8 +23260,8 @@
             "destinationEn": "Taipei City Hall",
             "realSequence": "2",
             "distance": "25.4",
-            "goFirstBusTime": "0700",
-            "backFirstBusTime": "0700",
+            "goFirstBusTime": "0650",
+            "backFirstBusTime": "0650",
             "goLastBusTime": "1700",
             "backLastBusTime": "1700",
             "busTimeDesc": "例假日停駛",
