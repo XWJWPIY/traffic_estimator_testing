@@ -5321,6 +5321,12 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "沙崙國小(篤行路)-捷運亞東醫院站": {
+        "RouteName": "沙崙國小(篤行路)-捷運亞東醫院站",
+        "BusType": "跳蛙公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "泰山-內湖": {
         "RouteName": "泰山-內湖",
         "BusType": "跳蛙公車",
