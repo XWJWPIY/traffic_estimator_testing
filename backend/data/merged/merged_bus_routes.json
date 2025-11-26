@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2025/11/26 03:14:20",
+            "UpdateTime": "2025/11/27 04:14:20",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -32533,7 +32533,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2025/11/26 04:14:15",
+            "UpdateTime": "2025/11/27 04:14:15",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -37180,6 +37180,49 @@
                 "ticketPriceDescriptionEn": "1 segments",
                 "ttiaPathId": "1526000",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0415002600"
+            },
+            {
+                "Id": 19772,
+                "NId": "0463009800",
+                "providerId": 16179,
+                "providerName": "三重客運",
+                "nameZh": "沙崙國小(篤行路)-捷運亞東醫院站",
+                "nameEn": "Shalun Elementary School(Duxing Rd.)-MRT Far Eastern Hospital Sta.",
+                "aliasName": "",
+                "pathAttributeId": 162501,
+                "pathAttributeNId": "0463009801",
+                "pathAttributeName": "沙崙國小(篤行路)-捷運亞東醫院站",
+                "pathAttributeEname": "Shalun Elementary School(Duxing Rd.)-MRT Far Eastern Hospital Sta.",
+                "buildPeriod": "10",
+                "routeType": "1",
+                "departureZh": "沙崙國小(篤行路)",
+                "departureEn": "Shalun Elementary School(Duxing Rd.)",
+                "destinationZh": "捷運亞東醫院站",
+                "destinationEn": "MRT Far Eastern Hospital Sta.",
+                "realSequence": "1",
+                "distance": "3.3",
+                "goFirstBusTime": "0640",
+                "backFirstBusTime": "0640",
+                "goLastBusTime": "0640",
+                "backLastBusTime": "0640",
+                "busTimeDesc": "",
+                "peakHeadway": "",
+                "offPeakHeadway": "",
+                "headwayDesc": "",
+                "holidayGoFirstBusTime": " ",
+                "holidayBackFirstBusTime": " ",
+                "holidayGoLastBusTime": " ",
+                "holidayBackLastBusTime": " ",
+                "holidayBusTimeDesc": "",
+                "holidayPeakHeadway": "",
+                "holidayOffPeakHeadway": "",
+                "holidayHeadwayDesc": "",
+                "segmentBufferZh": "",
+                "segmentBufferEn": "",
+                "ticketPriceDescriptionZh": "一段票",
+                "ticketPriceDescriptionEn": "1 Segment",
+                "ttiaPathId": "4932000",
+                "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0463009800"
             },
             {
                 "Id": 16591,
