@@ -3815,8 +3815,14 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F807": {
-        "RouteName": "F807",
+    "F807上午線": {
+        "RouteName": "F807上午線",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "F807下午線": {
+        "RouteName": "F807下午線",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
