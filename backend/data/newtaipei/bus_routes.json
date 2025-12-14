@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2025/12/14 03:14:15",
+        "UpdateTime": "2025/12/15 04:14:15",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -13709,7 +13709,7 @@
             "busTimeDesc": "",
             "peakHeadway": "15",
             "offPeakHeadway": "20",
-            "headwayDesc": "",
+            "headwayDesc": "無障礙預約班次：09:30、11:40、14:00、15:20；2日前電洽公司土城站預約。",
             "holidayGoFirstBusTime": "1000",
             "holidayBackFirstBusTime": "1000",
             "holidayGoLastBusTime": "2000",
@@ -13717,7 +13717,7 @@
             "holidayBusTimeDesc": "",
             "holidayPeakHeadway": "15",
             "holidayOffPeakHeadway": "15",
-            "holidayHeadwayDesc": "",
+            "holidayHeadwayDesc": "無障礙預約班次：10:30、14:15、15:30、17:30；2日前電洽公司土城站預約。",
             "segmentBufferZh": "",
             "segmentBufferEn": "",
             "ticketPriceDescriptionZh": "一段票",
