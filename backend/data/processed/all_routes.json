@@ -3119,6 +3119,24 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "F123下罟經八療": {
+        "RouteName": "F123下罟經八療",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "F123八療": {
+        "RouteName": "F123八療",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "F123十三行文化公園經八療": {
+        "RouteName": "F123十三行文化公園經八療",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "F126": {
         "RouteName": "F126",
         "BusType": "新北市新巴士",
