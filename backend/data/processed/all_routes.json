@@ -3101,8 +3101,8 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F123-0640、0700": {
-        "RouteName": "F123-0640、0700",
+    "F123-0640": {
+        "RouteName": "F123-0640",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3113,8 +3113,8 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F123-1550": {
-        "RouteName": "F123-1550",
+    "F123-1525": {
+        "RouteName": "F123-1525",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3421,6 +3421,12 @@
     },
     "F153-1730": {
         "RouteName": "F153-1730",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "F154": {
+        "RouteName": "F154",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
