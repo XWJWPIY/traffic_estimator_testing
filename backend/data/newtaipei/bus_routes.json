@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/01/05 04:14:15",
+        "UpdateTime": "2026/01/06 04:12:52",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -44125,6 +44125,49 @@
             "ticketPriceDescriptionEn": "Free",
             "ttiaPathId": "3652900",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0454065290"
+        },
+        {
+            "Id": 16919,
+            "NId": "0454065100",
+            "providerId": 16244,
+            "providerName": "鶯歌區公所",
+            "nameZh": "F651",
+            "nameEn": "F651",
+            "aliasName": "",
+            "pathAttributeId": 162506,
+            "pathAttributeNId": "0454065102",
+            "pathAttributeName": "F651平日加開班次",
+            "pathAttributeEname": "F651",
+            "buildPeriod": "10",
+            "routeType": "1",
+            "departureZh": "鶯歌火車站",
+            "departureEn": "Yingge Rail Sta.",
+            "destinationZh": "二橋",
+            "destinationEn": "Erqiao",
+            "realSequence": "99",
+            "distance": "99",
+            "goFirstBusTime": "0550",
+            "backFirstBusTime": "0550",
+            "goLastBusTime": "2230",
+            "backLastBusTime": "2230",
+            "busTimeDesc": "",
+            "peakHeadway": "",
+            "offPeakHeadway": "",
+            "headwayDesc": "",
+            "holidayGoFirstBusTime": "0550",
+            "holidayBackFirstBusTime": "0550",
+            "holidayGoLastBusTime": "2230",
+            "holidayBackLastBusTime": "2230",
+            "holidayBusTimeDesc": "",
+            "holidayPeakHeadway": "",
+            "holidayOffPeakHeadway": "",
+            "holidayHeadwayDesc": "",
+            "segmentBufferZh": "",
+            "segmentBufferEn": "",
+            "ticketPriceDescriptionZh": "",
+            "ticketPriceDescriptionEn": "",
+            "ttiaPathId": "36510A0",
+            "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0454065100"
         }
     ]
 }
