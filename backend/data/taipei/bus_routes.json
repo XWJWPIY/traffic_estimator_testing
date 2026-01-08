@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/01/08 04:14:20",
+        "UpdateTime": "2026/01/09 04:14:20",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -7266,7 +7266,7 @@
             "ticketPriceDescriptionEn": "1 segment",
             "ttiaPathId": "0240300",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100024030",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 15358,
@@ -15717,6 +15717,50 @@
             "genus": "02;01"
         },
         {
+            "Id": 11066,
+            "NId": "0100003200",
+            "providerId": 800,
+            "providerName": "大都會客運",
+            "nameZh": "32",
+            "nameEn": "32",
+            "aliasName": "",
+            "pathAttributeId": 110660,
+            "pathAttributeNId": "0100003201",
+            "pathAttributeName": "32",
+            "pathAttributeEname": "32",
+            "buildPeriod": "3",
+            "routeType": "1",
+            "departureZh": "南港花園社區",
+            "departureEn": "Nangang Garden Community",
+            "destinationZh": "松仁路",
+            "destinationEn": "Songren Rd.",
+            "realSequence": "22",
+            "distance": "14.6",
+            "goFirstBusTime": "0530",
+            "backFirstBusTime": "0530",
+            "goLastBusTime": "2130",
+            "backLastBusTime": "2130",
+            "busTimeDesc": "",
+            "peakHeadway": "",
+            "offPeakHeadway": "",
+            "headwayDesc": "",
+            "holidayGoFirstBusTime": "0530",
+            "holidayBackFirstBusTime": "0530",
+            "holidayGoLastBusTime": "2130",
+            "holidayBackLastBusTime": "2130",
+            "holidayBusTimeDesc": "",
+            "holidayPeakHeadway": "",
+            "holidayOffPeakHeadway": "",
+            "holidayHeadwayDesc": "",
+            "segmentBufferZh": "",
+            "segmentBufferEn": "",
+            "ticketPriceDescriptionZh": "一段票",
+            "ticketPriceDescriptionEn": "1 segment",
+            "ttiaPathId": "0032000",
+            "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100003200",
+            "genus": "01;02"
+        },
+        {
             "Id": 11821,
             "NId": "0100003300",
             "providerId": 800,
@@ -17914,7 +17958,7 @@
             "ticketPriceDescriptionEn": "1 segment",
             "ttiaPathId": "0028000",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100002800",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 15142,
