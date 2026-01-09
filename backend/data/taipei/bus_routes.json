@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/01/09 04:14:20",
+        "UpdateTime": "2026/01/10 04:14:20",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -10542,7 +10542,7 @@
             "departureEn": "MRT Beitou Sta.",
             "destinationZh": "泉源路",
             "destinationEn": "Quanyuan Rd.",
-            "realSequence": "55",
+            "realSequence": "49",
             "distance": "7.5",
             "goFirstBusTime": "0600",
             "backFirstBusTime": "0600",
@@ -21958,8 +21958,8 @@
             "holidayHeadwayDesc": "例假日停駛",
             "segmentBufferZh": "",
             "segmentBufferEn": "",
-            "ticketPriceDescriptionZh": "",
-            "ticketPriceDescriptionEn": "",
+            "ticketPriceDescriptionZh": "一段票",
+            "ticketPriceDescriptionEn": "1 segment",
             "ttiaPathId": "1318000",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0113001800",
             "genus": "13"
