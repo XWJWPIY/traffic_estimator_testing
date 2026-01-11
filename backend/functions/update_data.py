@@ -3,10 +3,12 @@ import requests
 import gzip
 import json
 import os
+from dotenv import load_dotenv
 
-# 公車路線資料的下載網址
-TAIPEI_URL = "https://tcgbusfs.blob.core.windows.net/blobbus/GetRoute.gz"
-NEWTAIPEI_URL = "https://tcgbusfs.blob.core.windows.net/ntpcbus/GetRoute.gz"
+load_dotenv()
+
+TAIPEI_URL = os.getenv("TAIPEI_URL")
+NEWTAIPEI_URL = os.getenv("NEWTAIPEI_URL")
 
 def fetch_and_decompress(url, output_dir):
     """

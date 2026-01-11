@@ -1,37 +1,53 @@
 <!DOCTYPE html>
 <html lang="zh-Hant">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>首頁</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 40px; }
-        nav { margin-bottom: 20px; }
-        nav a { margin-right: 15px; text-decoration: none; font-weight: bold; }
-    </style>
-
+    <meta name="description" content="大台北公車票價計算機 - 計算台北市、新北市公車轉乘票價">
+    <title>大台北公車票價計算機 - 首頁</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
     <nav>
-        <a href="index.html">首頁</a>
+        <a href="index.html" class="active">首頁</a>
         <a href="inputtype.html">輸入車種</a>
         <a href="inputline.html">輸入路線</a>
     </nav>
 
-    <h1>雙北市區公車票價計算機 - 首頁說明</h1>
+    <h1>雙北市區公車票價計算機</h1>
+    <h2>首頁說明</h2>
 
     <div id="server-status"></div>
 
-    <p> Made by XWJWPIY(Xiang 詳)</p>
-    <div id="get-version"></div>
-    
-    <p> 此計算機會將雙北公車間轉乘優惠納入考量 (計算結果僅供參考)  </p>
-    <p> 兩車間 60 分鐘內轉乘，且上下車都有刷卡，才可享轉乘優惠 </p>
-    
-    <p> 優惠規則: 除普通公車轉普通公車，以及市民小巴/內科專車轉新北市普通公車，其餘轉法皆享後續路線第一段轉乘優惠 </p>
-    
+    <div class="home-content">
+        <!-- 左側說明區 -->
+        <div class="info-section">
+            <h3>使用說明</h3>
+            <p>此計算機會將雙北公車間轉乘優惠納入考量（計算結果僅供參考）</p>
+            <p>兩車間 60 分鐘內轉乘，且上下車都有刷卡，才可享轉乘優惠</p>
+            <p><strong>優惠規則：</strong>除普通公車轉普通公車，以及市民小巴/內科專車轉新北市普通公車，其餘轉法皆享後續路線第一段轉乘優惠</p>
+        </div>
+
+        <!-- 右側更新日誌 -->
+        <div class="changelog-section">
+            <h3>更新日誌 <span id="current-version" class="version-badge"></span></h3>
+            <div class="changelog-list">
+                <div class="changelog-item">
+                    <span class="changelog-date">2026-01-11</span>
+                    <span class="changelog-content">新增更新日誌功能、前端設計修改</span>
+                </div>
+
+                <!-- 在這裡新增更多更新紀錄 -->
+            </div>
+        </div>
+    </div>
+
+    <div id="footer"></div>
 
     <script type="module" src="script.js"></script>
 </body>
+
 </html>

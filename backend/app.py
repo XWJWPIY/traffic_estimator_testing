@@ -1,10 +1,30 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 import json
 import os
 
-app = Flask(__name__)
-CORS(app)
+# 設定前端資料夾路徑
+FRONTEND_FOLDER = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'frontend')
+
+app = Flask(__name__, static_folder=FRONTEND_FOLDER)
+CORS(app)  # 允許跨域請求（GitHub Pages 需要）
+
+
+# ============================================
+# 靜態檔案服務（模擬 GitHub Pages）
+# ============================================
+@app.route('/')
+def serve_index():
+    """提供首頁"""
+    return send_from_directory(FRONTEND_FOLDER, 'index.html')
+
+
+@app.route('/<path:filename>')
+def serve_static(filename):
+    """提供其他靜態檔案（HTML, CSS, JS）"""
+    return send_from_directory(FRONTEND_FOLDER, filename)
+
+
 
 # 定義票價與公車段數
 FARE_RATES = {

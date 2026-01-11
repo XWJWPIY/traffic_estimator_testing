@@ -1,26 +1,20 @@
 <!DOCTYPE html>
 <html lang="zh-Hant">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>輸入路線</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 40px; }
-        nav { margin-bottom: 20px; }
-        nav a { margin-right: 15px; text-decoration: none; font-weight: bold; }
-        .fare-type-container, .line-item, .button-container { margin-bottom: 20px; }
-        .line-item select, .line-item button { margin-right: 10px; }
-        .button-container button { padding: 10px 20px; cursor: pointer; margin-right: 10px; }
-        #result { margin-top: 20px; font-size: 1.5em; font-weight: bold; color: #007bff; }
-        #error-message { color: red; }
-    </style>
+    <meta name="description" content="大台北公車票價計算機 - 依公車路線計算票價">
+    <title>輸入路線 - 大台北公車票價計算機</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
     <nav>
         <a href="index.html">首頁</a>
         <a href="inputtype.html">輸入車種</a>
-        <a href="inputline.html">輸入路線</a>
+        <a href="inputline.html" class="active">輸入路線</a>
     </nav>
 
     <h1>雙北市區公車票價計算機</h1>
@@ -28,20 +22,18 @@
 
     <div id="server-status"></div>
 
-    <p> Made by XWJWPIY(Xiang 詳)</p>
-    <div id="get-version"></div>
+    <div class="info-section">
+        <p>此計算機會將雙北公車間轉乘優惠納入考量（計算結果僅供參考）</p>
+        <p>兩車間 60 分鐘內轉乘，且上下車都有刷卡，才可享轉乘優惠</p>
+        <p><strong>優惠規則：</strong>除普通公車轉普通公車，以及市民小巴/內科專車轉新北市普通公車，其餘轉法皆享後續路線第一段轉乘優惠</p>
+        <p><strong>註：</strong>1717 屬於里程計費，計算機尚未實作</p>
+    </div>
 
-    <p> 此計算機會將雙北公車間轉乘優惠納入考量 (計算結果僅供參考) </p>
-    <p> 兩車間 60 分鐘內轉乘，且上下車都有刷卡，才可享轉乘優惠 </p>
-    
-    <p> 優惠規則: 除普通公車轉普通公車，以及市民小巴/內科專車轉新北市普通公車，其餘轉法皆享後續路線第一段轉乘優惠 </p>
-    <p> 註: 1717 屬於里程計費，計算機尚未實作 </p>
-    
-    <!-- 載入中的提示，會在 JS 載入資料完成後隱藏 -->
+    <!-- 載入中的提示 -->
     <div id="loading-status">載入公車路線資料中... 請稍候</div>
-    
+
     <!-- 票價計算表單 -->
-    <form id="fare-form" style="display:none;">
+    <form id="fare-form" class="form-container" style="display:none;">
         <div class="fare-type-container">
             <label for="fare-type">請選擇票種：</label>
             <select id="fare-type" name="fare_type">
@@ -53,7 +45,6 @@
 
         <h3>搭乘路線與段數</h3>
         <div id="line-container">
-            <!-- 路線選單會由 JavaScript 動態新增 -->
             <div class="line-item">
                 <select name="line[]" class="route-select"></select>
                 <label>段數：</label>
@@ -66,7 +57,7 @@
             <button type="button" id="add-line-btn">新增路線</button>
             <button type="button" id="reset-btn">全部清除</button>
         </div>
-        
+
         <button type="submit">計算總票價</button>
     </form>
 
@@ -74,7 +65,10 @@
     <div id="error-message"></div>
     <div id="result"></div>
 
+    <div id="footer"></div>
+
     <script type="module" src="script.js"></script>
 
 </body>
+
 </html>
