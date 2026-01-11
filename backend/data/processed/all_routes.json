@@ -1421,6 +1421,12 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "640A": {
+        "RouteName": "640A",
+        "BusType": "一般公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "641": {
         "RouteName": "641",
         "BusType": "一般公車",
@@ -1657,12 +1663,6 @@
     },
     "682": {
         "RouteName": "682",
-        "BusType": "一般公車",
-        "City": "taipei",
-        "OtherRouteName": null
-    },
-    "682預": {
-        "RouteName": "682預",
         "BusType": "一般公車",
         "City": "taipei",
         "OtherRouteName": null
@@ -3101,8 +3101,8 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F123-0640、0700": {
-        "RouteName": "F123-0640、0700",
+    "F123-0640": {
+        "RouteName": "F123-0640",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3113,8 +3113,26 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F123-1550": {
-        "RouteName": "F123-1550",
+    "F123-1525": {
+        "RouteName": "F123-1525",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "F123下罟經八療": {
+        "RouteName": "F123下罟經八療",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "F123八療": {
+        "RouteName": "F123八療",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "F123十三行文化公園經八療": {
+        "RouteName": "F123十三行文化公園經八療",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3227,8 +3245,8 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F151-0655、1030": {
-        "RouteName": "F151-0655、1030",
+    "F151-0655、1040": {
+        "RouteName": "F151-0655、1040",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3239,14 +3257,14 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F151-0800": {
-        "RouteName": "F151-0800",
+    "F151-0810": {
+        "RouteName": "F151-0810",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F151-0830、1655": {
-        "RouteName": "F151-0830、1655",
+    "F151-0840、1705": {
+        "RouteName": "F151-0840、1705",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3257,8 +3275,8 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F151-1000": {
-        "RouteName": "F151-1000",
+    "F151-1010": {
+        "RouteName": "F151-1010",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3269,8 +3287,8 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F151-1625": {
-        "RouteName": "F151-1625",
+    "F151-1635": {
+        "RouteName": "F151-1635",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3281,8 +3299,8 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F151-1800": {
-        "RouteName": "F151-1800",
+    "F151-1810": {
+        "RouteName": "F151-1810",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3377,14 +3395,20 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F153-0730、0945": {
-        "RouteName": "F153-0730、0945",
+    "F153-0730": {
+        "RouteName": "F153-0730",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F153-0820": {
-        "RouteName": "F153-0820",
+    "F153-0830": {
+        "RouteName": "F153-0830",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "F153-0945": {
+        "RouteName": "F153-0945",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3407,8 +3431,20 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "F154": {
+        "RouteName": "F154",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "F161": {
         "RouteName": "F161",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "F161-0615": {
+        "RouteName": "F161-0615",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -3815,8 +3851,14 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "F807": {
-        "RouteName": "F807",
+    "F807上午線": {
+        "RouteName": "F807上午線",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "F807下午線": {
+        "RouteName": "F807下午線",
         "BusType": "新北市新巴士",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -4225,6 +4267,12 @@
     },
     "三重-內科": {
         "RouteName": "三重-內科",
+        "BusType": "跳蛙公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "中原中平路口-建國中學": {
+        "RouteName": "中原中平路口-建國中學",
         "BusType": "跳蛙公車",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -5315,6 +5363,12 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "沙崙國小(篤行路)-捷運亞東醫院站": {
+        "RouteName": "沙崙國小(篤行路)-捷運亞東醫院站",
+        "BusType": "跳蛙公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "泰山-內湖": {
         "RouteName": "泰山-內湖",
         "BusType": "跳蛙公車",
@@ -5695,6 +5749,12 @@
     },
     "綠17": {
         "RouteName": "綠17",
+        "BusType": "一般公車",
+        "City": "taipei",
+        "OtherRouteName": null
+    },
+    "綠18": {
+        "RouteName": "綠18",
         "BusType": "一般公車",
         "City": "taipei",
         "OtherRouteName": null
@@ -6133,6 +6193,12 @@
     },
     "通勤29": {
         "RouteName": "通勤29",
+        "BusType": "一般公車",
+        "City": "taipei",
+        "OtherRouteName": null
+    },
+    "通勤30": {
+        "RouteName": "通勤30",
         "BusType": "一般公車",
         "City": "taipei",
         "OtherRouteName": null
