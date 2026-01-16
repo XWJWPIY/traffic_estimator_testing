@@ -30,6 +30,9 @@ jobs:
         run: git pull origin main
 
       - name: Run data update script for Taipei
+        env:
+          TAIPEI_URL: ${{ secrets.TAIPEI_URL }}
+          NEWTAIPEI_URL: ${{ secrets.NEWTAIPEI_URL }}
         run: python ./backend/functions/update_data.py taipei  # 傳入 'taipei' 參數
       
       - name: Commit and push changes
@@ -65,6 +68,9 @@ jobs:
         run: git pull origin main
 
       - name: Run data update script for Newtaipei
+        env:
+          TAIPEI_URL: ${{ secrets.TAIPEI_URL }}
+          NEWTAIPEI_URL: ${{ secrets.NEWTAIPEI_URL }}
         # 這裡傳入 'newtaipei' 參數
         run: python ./backend/functions/update_data.py newtaipei
 
@@ -75,3 +81,4 @@ jobs:
           git add ./backend/data/newtaipei/bus_routes.json
           git commit -m "Update bus route data for Newtaipei" || echo "No changes to commit"
           git push
+ 
