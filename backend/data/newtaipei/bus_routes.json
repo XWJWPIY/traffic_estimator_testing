@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/01/22 04:14:15",
+        "UpdateTime": "2026/01/23 04:14:15",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -15465,8 +15465,8 @@
             "destinationEn": "MRT Tamsui Sta.",
             "realSequence": "161",
             "distance": "4.3",
-            "goFirstBusTime": "0640",
-            "backFirstBusTime": "0640",
+            "goFirstBusTime": "0700",
+            "backFirstBusTime": "0700",
             "goLastBusTime": "0000",
             "backLastBusTime": "0000",
             "busTimeDesc": "",
