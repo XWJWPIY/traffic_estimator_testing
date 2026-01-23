@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/01/23 03:49:54",
+            "UpdateTime": "2026/01/24 04:14:20",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -8519,7 +8519,7 @@
                 "departureEn": "Neihu District Office",
                 "destinationZh": "捷運市政府站",
                 "destinationEn": "MRT Taipei City Hall Sta.",
-                "realSequence": "34",
+                "realSequence": "33",
                 "distance": "33.4",
                 "goFirstBusTime": "0530",
                 "backFirstBusTime": "0530",
@@ -8651,7 +8651,7 @@
                 "departureEn": "Neihu District Office",
                 "destinationZh": "捷運市政府站",
                 "destinationEn": "MRT Taipei City Hall Sta.",
-                "realSequence": "34",
+                "realSequence": "33",
                 "distance": "33.4",
                 "goFirstBusTime": "0530",
                 "backFirstBusTime": "0530",
@@ -8695,7 +8695,7 @@
                 "departureEn": "Neihu District Office",
                 "destinationZh": "捷運市政府站",
                 "destinationEn": "MRT Taipei City Hall Sta.",
-                "realSequence": "34",
+                "realSequence": "33",
                 "distance": "33.4",
                 "goFirstBusTime": "0530",
                 "backFirstBusTime": "0530",
@@ -32665,7 +32665,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/01/23 04:14:15",
+            "UpdateTime": "2026/01/24 04:14:15",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
