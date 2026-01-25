@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/01/25 04:11:47",
+        "UpdateTime": "2026/01/26 04:14:15",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -31253,7 +31253,7 @@
             "busTimeDesc": "",
             "peakHeadway": "",
             "offPeakHeadway": "",
-            "headwayDesc": "1740班次往程於安溪國中停等至1800發車，寒暑假除外",
+            "headwayDesc": "",
             "holidayGoFirstBusTime": "0700",
             "holidayBackFirstBusTime": "0700",
             "holidayGoLastBusTime": "2100",
