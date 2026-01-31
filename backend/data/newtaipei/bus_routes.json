@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/01/31 04:14:15",
+        "UpdateTime": "2026/02/01 04:14:15",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -16410,7 +16410,7 @@
             "destinationZh": "南港車站",
             "destinationEn": "Nangang Main Sta.",
             "realSequence": "18",
-            "distance": "18.7",
+            "distance": "18.4",
             "goFirstBusTime": "0600",
             "backFirstBusTime": "0600",
             "goLastBusTime": "2000",
@@ -31167,7 +31167,7 @@
             "busTimeDesc": "",
             "peakHeadway": "0512",
             "offPeakHeadway": "1530",
-            "headwayDesc": "09:00以前三峽一站發車不停景觀萬坪公園(公厝仔)",
+            "headwayDesc": "09:00以前三峽一站發車不停景觀萬坪公園(公厝仔)；平常日無障礙車次時刻表:07:00、10:00、13:00、16:00",
             "holidayGoFirstBusTime": "0600",
             "holidayBackFirstBusTime": "0600",
             "holidayGoLastBusTime": "2100",
@@ -31984,7 +31984,7 @@
             "busTimeDesc": "",
             "peakHeadway": "0512",
             "offPeakHeadway": "1530",
-            "headwayDesc": "09:00以前三峽一站發車不停景觀萬坪公園(公厝仔)",
+            "headwayDesc": "09:00以前三峽一站發車不停景觀萬坪公園(公厝仔)；平常日無障礙車次時刻表:07:00、10:00、13:00、16:00",
             "holidayGoFirstBusTime": "0600",
             "holidayBackFirstBusTime": "0600",
             "holidayGoLastBusTime": "2100",
