@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/02/02 04:14:20",
+        "UpdateTime": "2026/02/04 04:14:20",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -26202,8 +26202,8 @@
             "pathAttributeEname": "S33",
             "buildPeriod": "4",
             "routeType": "1",
-            "departureZh": "捷運忠孝復興站",
-            "departureEn": "MRT Zhongxiao Fuxing Sta.",
+            "departureZh": "捷運南京復興站",
+            "departureEn": "MRT Nanjing Fuxing Station",
             "destinationZh": "臺北市懷愛館",
             "destinationEn": "Taipei Huai Ai Funeral Parlor",
             "realSequence": "40",
