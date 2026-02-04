@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/02/04 04:14:20",
+        "UpdateTime": "2026/02/05 04:14:20",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -21892,8 +21892,8 @@
             "routeType": "1",
             "departureZh": "富德",
             "departureEn": "Fude",
-            "destinationZh": "萬芳社區",
-            "destinationEn": "Wanfang Community",
+            "destinationZh": "萬美社區",
+            "destinationEn": "Wanmei Community",
             "realSequence": "39",
             "distance": "14.4",
             "goFirstBusTime": "0545",
