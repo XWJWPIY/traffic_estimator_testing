@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 import json
 import os
+import sqlite3
 
 # 設定前端資料夾路徑
 FRONTEND_FOLDER = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'frontend')
@@ -93,6 +94,154 @@ def get_routes():
     except Exception as e:
         return jsonify({"error": f"An error occurred: {str(e)}"}), 500
 
+
+@app.route('/api/bus_options', methods=['GET'])
+def get_bus_options():
+    """
+    取得所有不重複的公車種類清單。
+    """
+    conn = get_db_connection()
+    if conn is None:
+        return jsonify({"error": "Database connection failed"}), 500
+    
+    try:
+        cursor = conn.cursor()
+        # 排除 null 或空字串
+        cursor.execute("SELECT DISTINCT bus_type FROM routes WHERE bus_type IS NOT NULL AND bus_type != '' ORDER BY bus_type")
+        types = [row[0] for row in cursor.fetchall()]
+
+        # 指定排序邏輯 (可選)
+        # 例如: 一般公車 > 幹線公車 > ...
+        # 目前先依資料庫 DISTINCT 排序 (通常是字元序)
+        # 如果需要特定順序，可以在這裡重新排序 list
+
+        # Example custom sort:
+        priority = ["台北市一般公車", "新北市一般公車", "幹線公車"]
+        
+        def sort_key(t):
+            if t in priority:
+                return priority.index(t)
+            return 999 # Others at the end
+
+        types.sort(key=sort_key)
+        
+        return jsonify(types)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    finally:
+        conn.close()
+
+
+def get_db_connection():
+    db_path = os.path.join(app.root_path, 'data', 'bus_data.db')
+    conn = sqlite3.connect(db_path)
+    conn.row_factory = sqlite3.Row
+    return conn
+
+@app.route('/api/route_stops', methods=['GET'])
+def get_route_stops():
+    """
+    根據路線名稱查詢所有站牌 (包含去程與返程)
+    Query Params: route_name (e.g. "617")
+    """
+    route_name = request.args.get('route_name')
+    if not route_name:
+        return jsonify({"error": "Missing route_name parameter"}), 400
+
+    conn = get_db_connection()
+    try:
+        cursor = conn.cursor()
+        
+        # 1. 查詢 Route ID
+        # 這裡可能會有多筆 (例如不同城市有相同路線名)，目前先取第一筆，或回傳列表讓前端選
+        # 為簡化，假設路線名能唯一識別，或由前端傳入 City 更好。
+        # 目前先只用 route_name 查。
+        cursor.execute('SELECT route_unique_id, nameZh, city FROM routes WHERE nameZh = ?', (route_name,))
+        routes = cursor.fetchall()
+        
+        if not routes:
+            return jsonify({"error": f"Route '{route_name}' not found"}), 404
+
+        # 暫時取第一個匹配的路線 (之後可優化支援多個)
+        target_route = routes[0]
+        route_id = target_route['route_unique_id']
+        
+        # 2. 查詢站牌
+        cursor.execute('''
+            SELECT nameZh, goBack, seqNo, segment_boarding, segment_alighting
+            FROM stops 
+            WHERE route_unique_id = ? 
+            ORDER BY goBack, seqNo
+        ''', (route_id,))
+        
+        stops = cursor.fetchall()
+        
+        outbound = []
+        inbound = []
+        
+        for stop in stops:
+            stop_data = {
+                "name": stop['nameZh'], 
+                "seq": stop['seqNo'],
+                "boarding": stop['segment_boarding'],
+                "alighting": stop['segment_alighting']
+            }
+            if stop['goBack'] == 0:
+                outbound.append(stop_data)
+            else:
+                inbound.append(stop_data)
+                
+        # 載入雙端發車列表
+        dual_terminal_list = []
+        static_folder = os.path.join(app.root_path, 'data', 'static')
+        dual_list_path = os.path.join(static_folder, 'dual_terminal_routes.json')
+        if os.path.exists(dual_list_path):
+             with open(dual_list_path, 'r', encoding='utf-8') as f:
+                 dual_terminal_list = json.load(f)
+
+        warning_msg = ""
+        # 1. 檢查是否在手動列表中
+        is_manual_dual = False
+        for d in dual_terminal_list["exact_match"]:
+            if d == target_route['nameZh']: # Exact match
+                is_manual_dual = True
+                break
+            
+        for d in dual_terminal_list["fuzzy_match"]:
+            if d in target_route['nameZh']: # Fuzzy match
+                is_manual_dual = True
+                break
+        
+        if is_manual_dual:
+             warning_msg = "⚠️ 注意：此路線去程不接駛返程。"
+        
+        # 2. 啟發式檢查：去程末站 vs 返程首站 名稱相同
+        elif outbound and inbound:
+             last_out = outbound[-1]['name']
+             first_in = inbound[0]['name']
+             if last_out == first_in:
+                  warning_msg = f"⚠️ 提醒：此路線末端為折返站 [{last_out}]，請確認是否需重新購票或下車。"
+
+        # 使用官方表定起訖點 (routes 資料表已存)
+        cursor.execute('SELECT departureZh, destinationZh FROM routes WHERE route_unique_id = ?', (route_id,))
+        route_info = cursor.fetchone()
+        outbound_dest = route_info['destinationZh'] if route_info else ""
+        inbound_dest = route_info['departureZh'] if route_info else ""
+
+        return jsonify({
+            "route_name": target_route['nameZh'],
+            "city": target_route['city'],
+            "outbound": outbound,
+            "inbound": inbound,
+            "outbound_dest": outbound_dest,
+            "inbound_dest": inbound_dest,
+            "warning": warning_msg
+        })
+        
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    finally:
+        conn.close()
 
 # 車種輸入版票價計算 API
 @app.route('/type_calculate_fare', methods=['POST'])

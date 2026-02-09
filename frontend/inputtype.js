@@ -24,10 +24,31 @@ export function initInputTypePage() {
      * 動態建立公車種類選單
      * @param {HTMLSelectElement} selectElement - 選單元素
      */
-    function createBusTypeSelect(selectElement) {
+    /**
+     * 動態建立公車種類選單
+     * @param {HTMLSelectElement} selectElement - 選單元素
+     */
+    async function createBusTypeSelect(selectElement) {
+        selectElement.innerHTML = '<option value="">載入中...</option>';
+
+        let options = [];
+
+        try {
+            // Try fetching from API
+            const response = await fetch(BACKEND_URL + ENDPOINTS.BUS_OPTIONS);
+            if (response.ok) {
+                options = await response.json();
+            } else {
+                throw new Error("API Error");
+            }
+        } catch (e) {
+            console.warn("Failed to fetch bus options from API, using fallback.", e);
+            options = BUS_OPTIONS; // Fallback to config
+        }
+
         selectElement.innerHTML = '<option value="">請選擇公車種類...</option>';
 
-        BUS_OPTIONS.forEach(option => {
+        options.forEach(option => {
             const optionEl = document.createElement('option');
             optionEl.value = option;
             optionEl.textContent = option;

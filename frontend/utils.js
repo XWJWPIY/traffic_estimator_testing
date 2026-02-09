@@ -22,6 +22,7 @@ export function renderFooter() {
     const footerDiv = document.getElementById('footer');
     if (footerDiv) {
         footerDiv.innerHTML = `
+            <p class="disclaimer">免責聲明：本計算器所有計算結果僅供參考</p>
             <p class="author">Made by ${AUTHOR}</p>
             <div class="version">version: ${VERSION}</div>
         `;

@@ -1,11 +1,7 @@
 name: Merge Bus Data
 
 on:
-  schedule:
-    # 每天凌晨 4:15 CST (台灣時間) 執行
-    # 相當於每天 UTC 20:15
-    - cron: '15 20 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # 僅手動觸發
 
 jobs:
   merge-bus-data:
@@ -31,10 +27,13 @@ jobs:
       - name: Run data merge script
         run: python ./backend/functions/merge_data.py
 
+      - name: Run database conversion script
+        run: python ./backend/functions/convert_to_db.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add ./backend/data/merged/merged_bus_routes.json
-          git commit -m "Merge bus data" || echo "No changes to commit"
+          git add ./backend/data/merged/merged_bus_routes.json ./backend/data/merged/merged_stops.json ./backend/data/merged/merged_stop_locations.json ./backend/data/bus_data.db
+          git commit -m "Merge bus data and update database" || echo "No changes to commit"
           git push

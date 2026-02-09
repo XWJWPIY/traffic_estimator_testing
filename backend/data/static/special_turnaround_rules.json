@@ -1,0 +1,12 @@
+[
+    {
+        "rule_name": "Songshan Airport Turnaround",
+        "trigger_stop": "松山機場",
+        "sequence": [
+            "富錦街口",
+            "松山機場",
+            "民生敦化路口"
+        ],
+        "description": "If Songshan Airport is Turnaround and flanked by Fujin/Minsheng, mark Songshan Airport as single buffer. Example Routes: 707, 906"
+    }
+]

@@ -1,0 +1,97 @@
+name: Full Data Pipeline
+
+on:
+  schedule:
+    # 每天台灣時間 4:30 AM 執行 (UTC 20:30)
+    - cron: '30 20 * * *'
+  workflow_dispatch:  # 手動觸發
+    inputs:
+      skip_download:
+        description: '跳過下載步驟 (使用現有資料)'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  full-pipeline:
+    name: Download, Merge & Build Database
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 完整歷史以便 push
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests python-dotenv
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      # ==========================================
+      # Step 1: Download Data (可選擇跳過)
+      # ==========================================
+      - name: Download Taipei data
+        if: ${{ inputs.skip_download != 'true' }}
+        env:
+          TAIPEI_GETROUTE_URL: ${{ secrets.TAIPEI_GETROUTE_URL }}
+          TAIPEI_GETSTOP_URL: ${{ secrets.TAIPEI_GETSTOP_URL }}
+          TAIPEI_GETSTOPLOCATION_URL: ${{ secrets.TAIPEI_GETSTOPLOCATION_URL }}
+          TAIPEI_GETBUSROUTEFARELIST_URL: ${{ secrets.TAIPEI_GETBUSROUTEFARELIST_URL }}
+        run: python ./backend/functions/update_data.py taipei
+
+      - name: Download NewTaipei data
+        if: ${{ inputs.skip_download != 'true' }}
+        env:
+          NEWTAIPEI_GETROUTE_URL: ${{ secrets.NEWTAIPEI_GETROUTE_URL }}
+          NEWTAIPEI_GETSTOP_URL: ${{ secrets.NEWTAIPEI_GETSTOP_URL }}
+          NEWTAIPEI_GETSTOPLOCATION_URL: ${{ secrets.NEWTAIPEI_GETSTOPLOCATION_URL }}
+          NEWTAIPEI_GETBUSROUTEFARELIST_URL: ${{ secrets.NEWTAIPEI_GETBUSROUTEFARELIST_URL }}
+        run: python ./backend/functions/update_data.py newtaipei
+
+      # ==========================================
+      # Step 2: Merge Data
+      # ==========================================
+      - name: Merge all data sources
+        run: python ./backend/functions/merge_data.py
+
+      # ==========================================
+      # Step 3: Build Database
+      # ==========================================
+      - name: Convert to SQLite database
+        run: python ./backend/functions/convert_to_db.py
+
+      # ==========================================
+      # Step 4: Process Routes (for frontend)
+      # ==========================================
+      - name: Process routes for API
+        run: python ./backend/functions/process_routes.py
+
+      # ==========================================
+      # Step 5: Commit & Push All Changes
+      # ==========================================
+      - name: Commit and push all changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Add all data files
+          git add ./backend/data/taipei/bus_routes.json || true
+          git add ./backend/data/newtaipei/bus_routes.json || true
+          git add ./backend/data/merged/*.json || true
+          git add ./backend/data/processed/*.json || true
+          git add ./backend/data/bus_data.db || true
+          
+          # Commit with timestamp
+          TIMESTAMP=$(TZ='Asia/Taipei' date +'%Y-%m-%d %H:%M:%S')
+          git commit -m "🔄 Full data pipeline update - ${TIMESTAMP}" || echo "No changes to commit"
+          git push

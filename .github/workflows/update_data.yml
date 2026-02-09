@@ -1,10 +1,7 @@
 name: Update Bus Route Data
 
 on:
-  schedule:
-    # 每天凌晨 8:00 UTC (台灣時間早上 4:00) 執行
-    - cron: '0 20 * * *'
-  workflow_dispatch:  # 允許手動觸發
+  workflow_dispatch:  # 僅手動觸發
 
 jobs:
   update-taipei-data:
@@ -31,8 +28,8 @@ jobs:
 
       - name: Run data update script for Taipei
         env:
-          TAIPEI_URL: ${{ secrets.TAIPEI_URL }}
-          NEWTAIPEI_URL: ${{ secrets.NEWTAIPEI_URL }}
+          TAIPEI_GETROUTE_URL: ${{ secrets.TAIPEI_GETROUTE_URL }}
+          NEWTAIPEI_GETROUTE_URL: ${{ secrets.NEWTAIPEI_GETROUTE_URL }}
         run: python ./backend/functions/update_data.py taipei  # 傳入 'taipei' 參數
       
       - name: Commit and push changes
@@ -69,8 +66,8 @@ jobs:
 
       - name: Run data update script for Newtaipei
         env:
-          TAIPEI_URL: ${{ secrets.TAIPEI_URL }}
-          NEWTAIPEI_URL: ${{ secrets.NEWTAIPEI_URL }}
+          TAIPEI_GETROUTE_URL: ${{ secrets.TAIPEI_GETROUTE_URL }}
+          NEWTAIPEI_GETROUTE_URL: ${{ secrets.NEWTAIPEI_GETROUTE_URL }}
         # 這裡傳入 'newtaipei' 參數
         run: python ./backend/functions/update_data.py newtaipei
 

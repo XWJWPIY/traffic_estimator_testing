@@ -1,0 +1,108 @@
+{
+    "exact_match": [
+        {
+            "route": "299",
+            "loop_range": null
+        },
+        {
+            "route": "307",
+            "loop_range": null
+        },
+        {
+            "route": "262",
+            "loop_range": null
+        },
+        {
+            "route": "862",
+            "loop_range": null
+        },
+        {
+            "route": "北環幹線",
+            "loop_range": null
+        },
+        {
+            "route": "935",
+            "loop_range": {
+                "start": "市政府(松壽)",
+                "end": "市政府(松壽)"
+            }
+        },
+        {
+            "route": "936",
+            "loop_range": {
+                "start": "捷運圓山站(圓山轉運站)",
+                "end": "捷運圓山站(圓山轉運站)"
+            }
+        },
+        {
+            "route": "936A",
+            "loop_range": {
+                "start": "捷運圓山站(圓山轉運站)",
+                "end": "捷運圓山站(圓山轉運站)"
+            }
+        },
+        {
+            "route": "937",
+            "loop_range": {
+                "start": "捷運圓山站(圓山轉運站)",
+                "end": "捷運圓山站(圓山轉運站)"
+            }
+        },
+        {
+            "route": "937A",
+            "loop_range": {
+                "start": "捷運圓山站(圓山轉運站)",
+                "end": "捷運圓山站(圓山轉運站)"
+            }
+        },
+        {
+            "route": "937副",
+            "loop_range": {
+                "start": "捷運圓山站(圓山轉運站)",
+                "end": "捷運圓山站(圓山轉運站)"
+            }
+        },
+        {
+            "route": "966",
+            "loop_range": {
+                "start": "臺北車站(鄭州)",
+                "end": "臺北車站(鄭州)"
+            }
+        },
+        {
+            "route": "966A",
+            "loop_range": {
+                "start": "臺北車站(鄭州)",
+                "end": "臺北車站(鄭州)"
+            }
+        },
+        {
+            "route": "966副",
+            "loop_range": {
+                "start": "臺北車站(鄭州)",
+                "end": "臺北車站(鄭州)"
+            }
+        },
+        {
+            "route": "967",
+            "loop_range": {
+                "start": "捷運市政府站",
+                "end": "捷運市政府站"
+            }
+        },
+        {
+            "route": "967副",
+            "loop_range": null
+        },
+        {
+            "route": "967直",
+            "loop_range": {
+                "start": "捷運市政府站",
+                "end": "捷運市政府站"
+            }
+        }
+    ],
+    "fuzzy_match": [
+        "內科"
+    ]
+}

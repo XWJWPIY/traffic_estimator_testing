@@ -1,11 +1,7 @@
 name: Process Bus Routes
 
 on:
-  schedule:
-    # 每天台灣時間 4:30 AM 執行
-    # 相當於每天 UTC 20:30
-    - cron: '30 20 * * *'
-  workflow_dispatch:
+  workflow_dispatch:  # 僅手動觸發
 
 jobs:
   process-routes:

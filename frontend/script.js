@@ -5,6 +5,7 @@
 import { getVersion, checkServerStatus, renderFooter } from './utils.js';
 import { initInputTypePage } from './inputtype.js';
 import { initInputLinePage } from './inputline.js';
+import { initGetLineStationsPage } from './getlinestations.js';
 
 /**
  * 頁面載入時的初始化
@@ -22,6 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
         initInputTypePage();
     } else if (currentPage.includes('inputline.html')) {
         initInputLinePage();
+    } else if (currentPage.includes('getlinestations.html')) {
+        initGetLineStationsPage();
     }
     // index.html 不需要額外的初始化邏輯
 });
