@@ -199,6 +199,14 @@ def get_route_stops():
              with open(dual_list_path, 'r', encoding='utf-8') as f:
                  dual_terminal_list = json.load(f)
 
+        # 載入官方資料誤植清單
+        corrections_path = os.path.join(static_folder, 'official_data_corrections.json')
+        ignore_same_terminal = []
+        if os.path.exists(corrections_path):
+             with open(corrections_path, 'r', encoding='utf-8') as f:
+                 corrections = json.load(f)
+                 ignore_same_terminal = corrections.get('ignore_same_terminal', [])
+
         warning_msg = ""
         # 1. 檢查是否在手動列表中
         is_manual_dual = False
@@ -215,8 +223,8 @@ def get_route_stops():
         if is_manual_dual:
              warning_msg = "⚠️ 注意：此路線去程不接駛返程。"
         
-        # 2. 啟發式檢查：去程末站 vs 返程首站 名稱相同
-        elif outbound and inbound:
+        # 2. 啟發式檢查：去程末站 vs 返程首站 名稱相同（排除已確認的官方誤植路線）
+        elif outbound and inbound and target_route['nameZh'] not in ignore_same_terminal:
              last_out = outbound[-1]['name']
              first_in = inbound[0]['name']
              if last_out == first_in:
@@ -275,6 +283,10 @@ def type_calculate_fare():
             now_bus_type = trip.get('bus_type')
             if not isinstance(trip_count, int) or trip_count <= 0:
                 return jsonify({"error": "Trip count must be a non-negative integer"}), 400
+
+            # 新北市新巴士免費且不須刷卡，不計費也不影響轉乘折扣
+            if now_bus_type == "新北市新巴士":
+                continue
             
             # 總費用 = 單段票價 * 搭乘段數
             total_fare += (rate_per_trip * trip_count)

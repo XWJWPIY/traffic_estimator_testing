@@ -11,12 +11,7 @@
 
 <body>
 
-    <nav>
-        <a href="index.html" class="active">首頁</a>
-        <a href="inputtype.html">輸入車種</a>
-        <a href="inputline.html">輸入路線</a>
-        <a href="getlinestations.html">查詢站牌</a>
-    </nav>
+    <nav id="main-nav"></nav>
 
     <h1>雙北市區公車票價計算機</h1>
     <h2>首頁說明</h2>
@@ -26,6 +21,14 @@
     <div class="home-content">
         <!-- 左側說明區 -->
         <div class="info-section">
+            <h3>功能頁面介紹</h3>
+            <p><strong><a
+                        href="fare-by-type.html">車種組合計費</a></strong>：手動選擇公車車種（如一般公車、幹線公車等）與搭乘段數，計算含轉乘優惠的總票價。適合已知車種但不確定路線名稱時使用。
+            </p>
+            <p><strong><a href="fare-by-line.html">路線組合計費</a></strong>：直接輸入公車路線號碼（如
+                307、藍28），系統自動辨識車種並計算含轉乘優惠的總票價。適合知道搭乘路線名稱時使用。</p>
+            <p><strong><a href="route-stops.html">路線站牌查詢</a></strong>：查詢指定路線的沿線站牌，可選擇上下車站估計搭乘段數。適合不確定搭乘段數時使用。</p>
+
             <h3>使用說明</h3>
             <p>此計算機會將雙北公車間轉乘優惠納入考量（計算結果僅供參考）</p>
             <p>兩車間 60 分鐘內轉乘，且上下車都有刷卡，才可享轉乘優惠</p>

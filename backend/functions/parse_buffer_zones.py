@@ -69,7 +69,7 @@ def parse_buffer_text(text):
     # Replace (含...) with &... for alternative matches
     text = re.sub(r'[(（]含\s*(.*?)\s*[)）]', r'&\1', text)
     
-    normalized = text.replace("分段緩衝區：", "").replace("緩衝區：", "").replace("、", "|").replace("，", "|")
+    normalized = text.replace("分段緩衝區：", "").replace("緩衝區：", "").replace("、", "|").replace("，", "|").replace("；", "|").replace(";", "|")
     
     # 2. Extract Direction Blocks
     tokens = re.split(r'([|\s]*[(（]?(?:去|往)[程]?[:：]?[)）]?[|\s]*|[|\s]*[(（]?(?:回|返)[程]?[:：]?[)）]?[|\s]*)', normalized)

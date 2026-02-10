@@ -30,25 +30,114 @@ body {
 nav {
   background-color: var(--primary-color);
   width: 100%;
-  padding: 15px 0;
+  padding: 10px 0;
   border-radius: 8px;
   margin-bottom: 30px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  text-align: center;
+}
+
+.nav-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+  max-width: 100%;
+}
+
+.nav-links {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
 }
 
 nav a {
   color: white;
   text-decoration: none;
   font-size: 1.1rem;
-  margin: 0 15px;
+  margin: 0 8px;
   padding: 8px 12px;
   border-radius: 4px;
   transition: background-color 0.3s;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 nav a:hover,
 nav a.active {
+  background-color: var(--secondary-color);
+}
+
+/* 「更多」下拉按鈕與選單 */
+.nav-more {
+  position: relative;
+  flex-shrink: 0;
+  margin-left: 4px;
+}
+
+.nav-more-btn {
+  background-color: transparent;
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 8px 14px;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background-color 0.3s;
+  width: auto;
+  margin-top: 0;
+}
+
+.nav-more-btn:hover {
+  background-color: var(--secondary-color);
+}
+
+.nav-more-menu {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: calc(100% + 6px);
+  background-color: var(--primary-color);
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  min-width: 140px;
+  z-index: 1000;
+  overflow: hidden;
+}
+
+.nav-more-menu.show {
+  display: block;
+  animation: navMenuFadeIn 0.15s ease-out;
+}
+
+@keyframes navMenuFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.nav-more-menu a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 10px 16px;
+  font-size: 1rem;
+  margin: 0;
+  border-radius: 0;
+  transition: background-color 0.2s;
+  white-space: nowrap;
+}
+
+.nav-more-menu a:hover,
+.nav-more-menu a.active {
   background-color: var(--secondary-color);
 }
 
@@ -97,6 +186,14 @@ h2 {
   color: var(--accent-color);
   margin-top: 15px;
   font-weight: bold;
+}
+
+.input-error {
+  color: var(--accent-color);
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-left: 6px;
+  white-space: nowrap;
 }
 
 /* =========================================

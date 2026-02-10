@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="大台北公車票價計算機 - 依公車車種組合計費">
+    <title>車種組合計費 - 大台北公車票價計算機</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <nav id="main-nav"></nav>
+
+    <h1>雙北市區公車票價計算機</h1>
+    <h2>輸入公車類型，自動計算總票價</h2>
+
+    <div id="server-status"></div>
+
+    <div class="info-section">
+        <p>此計算機會將雙北公車間轉乘優惠納入考量（計算結果僅供參考）</p>
+        <p>兩車間 60 分鐘內轉乘，且上下車都有刷卡，才可享轉乘優惠</p>
+        <p><strong>優惠規則：</strong>除普通公車轉普通公車，以及市民小巴/內科專車轉新北市普通公車，其餘轉法皆享後續路線第一段轉乘優惠</p>
+    </div>
+
+    <div class="form-container">
+        <div class="fare-type-container">
+            <label for="fare_type">請選擇票種：</label>
+            <select id="fare_type">
+                <option value="full_fare">全票 (15 元)</option>
+                <option value="student_fare">學生票 (12 元)</option>
+                <option value="half_fare">半票 (8 元)</option>
+            </select>
+        </div>
+
+        <h3>搭乘紀錄</h3>
+
+        <div id="trips_container"></div>
+
+        <div class="button-container">
+            <button id="addTripBtn">新增路線</button>
+            <button id="clearAllBtn">全部清除</button>
+        </div>
+
+        <button id="calculateBtn">計算總票價</button>
+
+        <div id="result"></div>
+    </div>
+
+    <div id="footer"></div>
+
+    <script type="module" src="script.js"></script>
+
+</body>
+
+</html>

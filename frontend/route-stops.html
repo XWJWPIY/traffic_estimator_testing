@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="大台北公車票價計算機 - 路線站牌查詢">
+    <title>路線站牌查詢 - 大台北公車票價計算機</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <nav id="main-nav"></nav>
+
+    <h1>雙北市區公車票價計算機</h1>
+    <h2>選擇路線查看沿線站牌，估計車票段數</h2>
+
+    <div id="server-status"></div>
+
+    <div class="info-section">
+        <p>選擇路線後可查看沿線所有站牌，並選擇起訖點估計車票段數(僅供參考)</p>
+        <p><strong>[上X|下Y]</strong> 表示該站上車預估標記為 X 段、下車標計 Y 段</p>
+        <p><strong>可以選擇上、下車站後，預估段數會顯示在下方</strong></p>
+    </div>
+
+    <div class="form-container">
+        <div class="form-row">
+            <div class="form-group-item">
+                <label for="route-search">請選擇路線：</label>
+                <div class="searchable-select" id="route-select-container">
+                    <input type="text" id="route-search" placeholder="查詢路線 (可輸入名稱或代號)" autocomplete="off">
+                    <button id="clear-route-search" type="button" class="clear-btn"
+                        style="display: none;">&times;</button>
+                    <input type="hidden" id="route-select"> <!-- Hidden Input to maintain ID compatibility -->
+                    <ul id="route-list" class="dropdown-list"></ul>
+                </div>
+            </div>
+
+            <div class="form-group-item" id="start-stop-container" style="display: none;">
+                <label for="start-stop-select">起點站：</label>
+                <select id="start-stop-select">
+                    <option value="">請先選擇路線</option>
+                </select>
+            </div>
+
+            <div class="form-group-item" id="end-stop-container" style="display: none;">
+                <label for="end-stop-select">終點站：</label>
+                <select id="end-stop-select">
+                    <option value="">請先選擇起點</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="fare-calc-result"
+            style="margin-top: 15px; font-weight: bold; color: #e74c3c; text-align: right; display: none;">
+            預估段數：<span id="fare-segments" style="font-size: 1.5em; margin: 0 5px;">0</span> 段
+        </div>
+    </div>
+
+    <!-- 路線警示 (雙邊發車等) -->
+    <div id="route-warning" class="warning-banner" style="display: none;"></div>
+
+    <!-- 載入中的提示 -->
+    <div id="loading-routes-status">載入公車路線資料中... 請稍候</div>
+    <div id="loading-stops-status" style="display: none;">正在載入站牌資料...</div>
+    <div id="error-message"></div>
+
+    <!-- 站牌顯示區 -->
+    <div id="stations-container" class="stations-container">
+        <!-- 內容將由 JS 動態產生 -->
+        <div id="single-column" class="station-column" style="display: none;">
+            <h3>站牌列表</h3>
+            <ul class="station-list"></ul>
+        </div>
+
+        <div id="outbound-column" class="station-column" style="display: none;">
+            <h3>去程 (往 <span class="dest-name"></span>)</h3>
+            <ul class="station-list"></ul>
+        </div>
+
+        <div id="inbound-column" class="station-column" style="display: none;">
+            <h3>返程 (往 <span class="dest-name"></span>)</h3>
+            <ul class="station-list"></ul>
+        </div>
+    </div>
+
+    <div id="footer"></div>
+
+    <script type="module" src="script.js"></script>
+
+</body>
+
+</html>

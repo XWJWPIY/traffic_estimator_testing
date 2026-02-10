@@ -3,9 +3,10 @@
 // ============================================
 
 import { getVersion, checkServerStatus, renderFooter } from './utils.js';
-import { initInputTypePage } from './inputtype.js';
-import { initInputLinePage } from './inputline.js';
-import { initGetLineStationsPage } from './getlinestations.js';
+import { initInputTypePage } from './fare-by-type.js';
+import { initInputLinePage } from './fare-by-line.js';
+import { initGetLineStationsPage } from './route-stops.js';
+import { initResponsiveNav } from './nav.js';
 
 /**
  * 頁面載入時的初始化
@@ -15,15 +16,16 @@ document.addEventListener('DOMContentLoaded', () => {
     checkServerStatus();
     getVersion();
     renderFooter();
+    initResponsiveNav();
 
     const currentPage = window.location.pathname;
 
     // 根據頁面路徑執行不同的初始化邏輯
-    if (currentPage.includes('inputtype.html')) {
+    if (currentPage.includes('fare-by-type.html')) {
         initInputTypePage();
-    } else if (currentPage.includes('inputline.html')) {
+    } else if (currentPage.includes('fare-by-line.html')) {
         initInputLinePage();
-    } else if (currentPage.includes('getlinestations.html')) {
+    } else if (currentPage.includes('route-stops.html')) {
         initGetLineStationsPage();
     }
     // index.html 不需要額外的初始化邏輯

@@ -218,3 +218,6 @@ if __name__ == "__main__":
     debug_route("966")
     debug_route("232")
     debug_route("232快")
+
+    debug_route("849")
+    debug_route("849屈尺社區")
