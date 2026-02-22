@@ -4973,12 +4973,6 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "捷運淡水站-天元宮": {
-        "RouteName": "捷運淡水站-天元宮",
-        "BusType": "跳蛙公車",
-        "City": "newtaipei",
-        "OtherRouteName": null
-    },
     "捷運蘆洲站-內湖科技園區": {
         "RouteName": "捷運蘆洲站-內湖科技園區",
         "BusType": "跳蛙公車",
