@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/02/27 04:14:20",
+            "UpdateTime": "2026/02/28 04:14:20",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -2149,10 +2149,10 @@
                 "peakHeadway": "",
                 "offPeakHeadway": "",
                 "headwayDesc": "",
-                "holidayGoFirstBusTime": "",
-                "holidayBackFirstBusTime": "",
-                "holidayGoLastBusTime": "",
-                "holidayBackLastBusTime": "",
+                "holidayGoFirstBusTime": " ",
+                "holidayBackFirstBusTime": " ",
+                "holidayGoLastBusTime": " ",
+                "holidayBackLastBusTime": " ",
                 "holidayBusTimeDesc": "",
                 "holidayPeakHeadway": "",
                 "holidayOffPeakHeadway": "",
@@ -24999,7 +24999,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "0251000",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025100",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 11763,
@@ -25087,7 +25087,7 @@
                 "ticketPriceDescriptionEn": "1 segment",
                 "ttiaPathId": "0251200",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025120",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 17967,
@@ -33765,7 +33765,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/02/27 04:46:14",
+            "UpdateTime": "2026/02/28 04:46:14",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
