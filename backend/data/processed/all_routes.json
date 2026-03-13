@@ -4979,6 +4979,12 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "掃墓專車112": {
+        "RouteName": "掃墓專車112",
+        "BusType": "一般公車",
+        "City": "taipei",
+        "OtherRouteName": null
+    },
     "政大附中-捷運景美站": {
         "RouteName": "政大附中-捷運景美站",
         "BusType": "跳蛙公車",
