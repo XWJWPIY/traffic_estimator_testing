@@ -3587,6 +3587,12 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "F304": {
+        "RouteName": "F304",
+        "BusType": "新北市新巴士",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "F312": {
         "RouteName": "F312",
         "BusType": "新北市新巴士",
