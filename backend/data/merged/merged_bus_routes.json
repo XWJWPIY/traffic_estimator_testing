@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/03/24 04:46:14",
+            "UpdateTime": "2026/03/25 04:46:15",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -6123,7 +6123,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "0250000",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025000",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 15334,
@@ -33985,7 +33985,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/03/24 04:46:14",
+            "UpdateTime": "2026/03/25 04:46:14",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
