@@ -1151,12 +1151,6 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "582經洲子洋": {
-        "RouteName": "582經洲子洋",
-        "BusType": "一般公車",
-        "City": "newtaipei",
-        "OtherRouteName": null
-    },
     "583": {
         "RouteName": "583",
         "BusType": "一般公車",
@@ -1225,6 +1219,12 @@
     },
     "596": {
         "RouteName": "596",
+        "BusType": "一般公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "597": {
+        "RouteName": "597",
         "BusType": "一般公車",
         "City": "newtaipei",
         "OtherRouteName": null
@@ -4969,12 +4969,6 @@
     },
     "捷運景安站-三峽臺北大學": {
         "RouteName": "捷運景安站-三峽臺北大學",
-        "BusType": "跳蛙公車",
-        "City": "newtaipei",
-        "OtherRouteName": null
-    },
-    "捷運淡水站-天元宮": {
-        "RouteName": "捷運淡水站-天元宮",
         "BusType": "跳蛙公車",
         "City": "newtaipei",
         "OtherRouteName": null
