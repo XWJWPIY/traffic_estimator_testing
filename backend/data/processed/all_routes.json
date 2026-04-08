@@ -4469,6 +4469,12 @@
         "City": "taipei",
         "OtherRouteName": null
     },
+    "北士科1": {
+        "RouteName": "北士科1",
+        "BusType": "一般公車",
+        "City": "taipei",
+        "OtherRouteName": null
+    },
     "北大社區-捷運頂埔站": {
         "RouteName": "北大社區-捷運頂埔站",
         "BusType": "跳蛙公車",
