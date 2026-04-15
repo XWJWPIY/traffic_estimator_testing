@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/04/15 04:15:05",
+        "UpdateTime": "2026/04/16 04:46:14",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -33050,7 +33050,7 @@
             "departureEn": "Sanxia",
             "destinationZh": "捷運景安站",
             "destinationEn": "MRT Jingan Sta.",
-            "realSequence": "208",
+            "realSequence": "126",
             "distance": "44.5",
             "goFirstBusTime": "0600",
             "backFirstBusTime": "0600",
@@ -33695,7 +33695,7 @@
             "departureEn": "Sanxia",
             "destinationZh": "捷運景安站",
             "destinationEn": "MRT Jingan Sta.",
-            "realSequence": "208",
+            "realSequence": "126",
             "distance": "44.5",
             "goFirstBusTime": "0600",
             "backFirstBusTime": "0600",
@@ -33738,7 +33738,7 @@
             "departureEn": "Sanxia",
             "destinationZh": "捷運景安站",
             "destinationEn": "MRT Jingan Sta.",
-            "realSequence": "208",
+            "realSequence": "126",
             "distance": "44.5",
             "goFirstBusTime": "0600",
             "backFirstBusTime": "0600",
