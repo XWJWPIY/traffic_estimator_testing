@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/04/17 03:46:14",
+            "UpdateTime": "2026/04/18 04:46:14",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -34865,7 +34865,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/04/17 04:46:14",
+            "UpdateTime": "2026/04/18 03:46:14",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -67696,7 +67696,7 @@
                 "departureEn": "Sanxia National Taipei University community",
                 "destinationZh": "新北板橋公車站",
                 "destinationEn": "Banqiao Bus Station",
-                "realSequence": "220",
+                "realSequence": "160",
                 "distance": "43.1",
                 "goFirstBusTime": "0600",
                 "backFirstBusTime": "0600",
