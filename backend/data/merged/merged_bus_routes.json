@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/04/20 04:46:14",
+            "UpdateTime": "2026/04/21 04:46:14",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -1723,7 +1723,7 @@
                 "ticketPriceDescriptionEn": "1 segment",
                 "ttiaPathId": "0513000",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100051300",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 11411,
@@ -1987,7 +1987,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "0306000",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030600",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 15689,
@@ -2119,7 +2119,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "0508200",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100050820",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 16128,
@@ -2383,7 +2383,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "05082B0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100050820",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 19678,
@@ -9585,10 +9585,10 @@
                 "peakHeadway": "",
                 "offPeakHeadway": "",
                 "headwayDesc": "",
-                "holidayGoFirstBusTime": "",
-                "holidayBackFirstBusTime": "",
-                "holidayGoLastBusTime": "",
-                "holidayBackLastBusTime": "",
+                "holidayGoFirstBusTime": " ",
+                "holidayBackFirstBusTime": " ",
+                "holidayGoLastBusTime": " ",
+                "holidayBackLastBusTime": " ",
                 "holidayBusTimeDesc": "",
                 "holidayPeakHeadway": "",
                 "holidayOffPeakHeadway": "",
@@ -10743,7 +10743,7 @@
                 "ticketPriceDescriptionEn": "1 segment",
                 "ttiaPathId": "0218200",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100021820",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 15696,
@@ -17959,7 +17959,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "03060A0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030600",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 11853,
@@ -18355,7 +18355,7 @@
                 "ticketPriceDescriptionEn": "1 segment",
                 "ttiaPathId": "0274000",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100027400",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 10442,
@@ -18399,7 +18399,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "05082A0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100050820",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 10891,
@@ -28563,7 +28563,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "03079B0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030790",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 19108,
@@ -28607,7 +28607,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "03079A0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030790",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 16121,
@@ -29179,7 +29179,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "03079B0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030790",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 19108,
@@ -29223,7 +29223,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "03079A0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030790",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 16112,
@@ -33799,7 +33799,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "03079B0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030790",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 19108,
@@ -33843,7 +33843,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "03079A0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030790",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 16111,
@@ -33975,7 +33975,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "03079B0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030790",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 19108,
@@ -34019,7 +34019,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "03079A0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030790",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 10241,
@@ -34865,7 +34865,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/04/20 04:46:14",
+            "UpdateTime": "2026/04/21 03:46:14",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -65157,8 +65157,8 @@
                 "routeType": "1",
                 "departureZh": "草里車站",
                 "departureEn": "Caoli Station",
-                "destinationZh": "關渡醫院",
-                "destinationEn": "Guandu Hospital",
+                "destinationZh": "關渡國中(關渡醫院)",
+                "destinationEn": "Guandu Junior High School (Guandu Hospital)",
                 "realSequence": "2",
                 "distance": "99",
                 "goFirstBusTime": "0800",
@@ -65667,14 +65667,14 @@
                 "aliasName": "",
                 "pathAttributeId": 158977,
                 "pathAttributeNId": "0454016102",
-                "pathAttributeName": "F161關渡醫院",
-                "pathAttributeEname": "F161 Guandu Hospital",
+                "pathAttributeName": "F161關渡國中(關渡醫院)",
+                "pathAttributeEname": "F161 Guandu Junior High School (Guandu Hospital)",
                 "buildPeriod": "10",
                 "routeType": "1",
                 "departureZh": "草里車站",
                 "departureEn": "Caoli Station",
-                "destinationZh": "關渡醫院",
-                "destinationEn": "Guandu Hospital",
+                "destinationZh": "關渡國中(關渡醫院)",
+                "destinationEn": "Guandu Junior High School (Guandu Hospital)",
                 "realSequence": "2",
                 "distance": "99",
                 "goFirstBusTime": "0800",
@@ -72471,8 +72471,8 @@
                 "destinationEn": "Nantianmu Square",
                 "realSequence": "4",
                 "distance": "22.4",
-                "goFirstBusTime": "0800",
-                "backFirstBusTime": "0800",
+                "goFirstBusTime": "0810",
+                "backFirstBusTime": "0810",
                 "goLastBusTime": "2040",
                 "backLastBusTime": "2040",
                 "busTimeDesc": "",
