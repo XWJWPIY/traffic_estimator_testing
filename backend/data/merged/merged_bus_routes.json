@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/04/22 04:46:14",
+            "UpdateTime": "2026/04/23 05:21:58",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -2559,6 +2559,50 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "02250C0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100022500",
+                "genus": "01;02"
+            },
+            {
+                "Id": 10442,
+                "NId": "0100050820",
+                "providerId": 400,
+                "providerName": "三重客運",
+                "nameZh": "508區",
+                "nameEn": "508Shuttle",
+                "aliasName": "",
+                "pathAttributeId": 162556,
+                "pathAttributeNId": "0100050824",
+                "pathAttributeName": "508區(三重一)去程半",
+                "pathAttributeEname": "508(Shuttle)",
+                "buildPeriod": "3",
+                "routeType": "1",
+                "departureZh": "蘆洲",
+                "departureEn": "Luzhou",
+                "destinationZh": "大同之家",
+                "destinationEn": "Datong House",
+                "realSequence": "117",
+                "distance": "35.2",
+                "goFirstBusTime": "0440",
+                "backFirstBusTime": "0440",
+                "goLastBusTime": "2145",
+                "backLastBusTime": "2145",
+                "busTimeDesc": "",
+                "peakHeadway": "0508",
+                "offPeakHeadway": "1215",
+                "headwayDesc": "由蘆洲總站(三重客運)發車，經中正路至大同之家，返程直行中山二路至蘆洲站(大都會客運)之班次：04:40/05:00",
+                "holidayGoFirstBusTime": "0440",
+                "holidayBackFirstBusTime": "0440",
+                "holidayGoLastBusTime": "2145",
+                "holidayBackLastBusTime": "2145",
+                "holidayBusTimeDesc": "",
+                "holidayPeakHeadway": "1015",
+                "holidayOffPeakHeadway": "1015",
+                "holidayHeadwayDesc": "由蘆洲總站(三重客運)發車，經中正路至大同之家，返程直行中山二路至蘆洲站(大都會客運)之班次：04:40/05:00",
+                "segmentBufferZh": "重陽橋－士林國中",
+                "segmentBufferEn": "ChongYang Bridge－Shilin Junior High School",
+                "ticketPriceDescriptionZh": "兩段票",
+                "ticketPriceDescriptionEn": "2 segments",
+                "ttiaPathId": "05082C0",
+                "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100050820",
                 "genus": "01;02"
             },
             {
@@ -5419,7 +5463,7 @@
                 "ticketPriceDescriptionEn": "3 segments",
                 "ttiaPathId": "0304800",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030400",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 15554,
@@ -5463,7 +5507,7 @@
                 "ticketPriceDescriptionEn": "3 segments",
                 "ttiaPathId": "0304900",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030490",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 15553,
@@ -5507,7 +5551,7 @@
                 "ticketPriceDescriptionEn": "3 segments",
                 "ttiaPathId": "03048A0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030400",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 19759,
@@ -5595,7 +5639,7 @@
                 "ticketPriceDescriptionEn": "3 segments",
                 "ttiaPathId": "03049A0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030490",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 15554,
@@ -5639,7 +5683,7 @@
                 "ticketPriceDescriptionEn": "3 segments",
                 "ttiaPathId": "03049B0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100030490",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 15512,
@@ -31379,7 +31423,7 @@
                 "ticketPriceDescriptionEn": "2 segments",
                 "ttiaPathId": "0255000",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025500",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 11253,
@@ -31423,7 +31467,7 @@
                 "ticketPriceDescriptionEn": "1 segment",
                 "ttiaPathId": "0255200",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025520",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 10273,
@@ -31951,7 +31995,7 @@
                 "ticketPriceDescriptionEn": "1 segment",
                 "ttiaPathId": "02552A0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025520",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 11253,
@@ -31995,7 +32039,7 @@
                 "ticketPriceDescriptionEn": "1 segment",
                 "ttiaPathId": "02552B0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100025520",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 10273,
@@ -32656,50 +32700,6 @@
                 "ttiaPathId": "22290B0",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0152005000",
                 "genus": "02;52"
-            },
-            {
-                "Id": 11251,
-                "NId": "0114001300",
-                "providerId": 200,
-                "providerName": "首都客運",
-                "nameZh": "棕13",
-                "nameEn": "BR13",
-                "aliasName": "",
-                "pathAttributeId": 162187,
-                "pathAttributeNId": "0114001302",
-                "pathAttributeName": "棕13不經外雙溪(至善)",
-                "pathAttributeEname": "BR13",
-                "buildPeriod": "3",
-                "routeType": "1",
-                "departureZh": "雙溪",
-                "departureEn": "Shuangxi",
-                "destinationZh": "捷運大直站",
-                "destinationEn": "MRT Dazhi Sta.",
-                "realSequence": "34",
-                "distance": "17.1",
-                "goFirstBusTime": "0600",
-                "backFirstBusTime": "0600",
-                "goLastBusTime": "2315",
-                "backLastBusTime": "2315",
-                "busTimeDesc": "",
-                "peakHeadway": "",
-                "offPeakHeadway": "",
-                "headwayDesc": "",
-                "holidayGoFirstBusTime": "0600",
-                "holidayBackFirstBusTime": "0600",
-                "holidayGoLastBusTime": "2315",
-                "holidayBackLastBusTime": "2315",
-                "holidayBusTimeDesc": "",
-                "holidayPeakHeadway": "",
-                "holidayOffPeakHeadway": "",
-                "holidayHeadwayDesc": "",
-                "segmentBufferZh": "",
-                "segmentBufferEn": "",
-                "ticketPriceDescriptionZh": "一段票",
-                "ticketPriceDescriptionEn": "1 segment",
-                "ttiaPathId": "14130A0",
-                "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0114001300",
-                "genus": "14"
             },
             {
                 "Id": 11207,
@@ -34865,7 +34865,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/04/22 04:46:14",
+            "UpdateTime": "2026/04/23 05:21:58",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
