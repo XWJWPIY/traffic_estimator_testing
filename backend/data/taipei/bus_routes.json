@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/04/30 05:21:58",
+        "UpdateTime": "2026/05/01 04:21:58",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -10674,7 +10674,7 @@
             "departureEn": "Xinbeitou",
             "destinationZh": "萬華",
             "destinationEn": "Wanhua",
-            "realSequence": "40",
+            "realSequence": "36",
             "distance": "34.8",
             "goFirstBusTime": "0500",
             "backFirstBusTime": "0500",
