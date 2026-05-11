@@ -41,6 +41,12 @@
         "City": "taipei",
         "OtherRouteName": null
     },
+    "115": {
+        "RouteName": "115",
+        "BusType": "一般公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "12": {
         "RouteName": "12",
         "BusType": "一般公車",
@@ -3035,9 +3041,27 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "988": {
+        "RouteName": "988",
+        "BusType": "一般公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "989": {
+        "RouteName": "989",
+        "BusType": "一般公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "99": {
         "RouteName": "99",
         "BusType": "幹線公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "990": {
+        "RouteName": "990",
+        "BusType": "一般公車",
         "City": "newtaipei",
         "OtherRouteName": null
     },
