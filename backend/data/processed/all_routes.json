@@ -2723,12 +2723,6 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "925A": {
-        "RouteName": "925A",
-        "BusType": "快速公車",
-        "City": "newtaipei",
-        "OtherRouteName": null
-    },
     "927": {
         "RouteName": "927",
         "BusType": "快速公車",
