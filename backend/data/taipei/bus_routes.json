@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/06/01 05:21:58",
+        "UpdateTime": "2026/06/02 06:15:05",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -30343,12 +30343,12 @@
             "destinationZh": "首都客運內湖站",
             "destinationEn": "Neihu Stop",
             "realSequence": "1",
-            "distance": "15.2",
+            "distance": "24",
             "goFirstBusTime": "1700",
             "backFirstBusTime": "1700",
             "goLastBusTime": "1700",
             "backLastBusTime": "1700",
-            "busTimeDesc": "平常日周三、周五、例假日及寒暑假停駛",
+            "busTimeDesc": "平常日周二、周三、周五、例假日及寒暑假停駛",
             "peakHeadway": "",
             "offPeakHeadway": "",
             "headwayDesc": "",
@@ -30359,7 +30359,7 @@
             "holidayBusTimeDesc": "",
             "holidayPeakHeadway": "",
             "holidayOffPeakHeadway": "",
-            "holidayHeadwayDesc": "平常日周三、周五、例假日及寒暑假停駛",
+            "holidayHeadwayDesc": "平常日周二、周三、周五、例假日及寒暑假停駛",
             "segmentBufferZh": "",
             "segmentBufferEn": "",
             "ticketPriceDescriptionZh": "三段票",
