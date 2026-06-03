@@ -4295,6 +4295,12 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "三鶯2線": {
+        "RouteName": "三鶯2線",
+        "BusType": "一般公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "中原中平路口-建國中學": {
         "RouteName": "中原中平路口-建國中學",
         "BusType": "跳蛙公車",
