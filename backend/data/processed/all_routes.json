@@ -4289,15 +4289,15 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "三重-內科": {
-        "RouteName": "三重-內科",
+    "三芝-馬偕醫學大學": {
+        "RouteName": "三芝-馬偕醫學大學",
         "BusType": "跳蛙公車",
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "三鶯2線": {
-        "RouteName": "三鶯2線",
-        "BusType": "一般公車",
+    "三重-內科": {
+        "RouteName": "三重-內科",
+        "BusType": "跳蛙公車",
         "City": "newtaipei",
         "OtherRouteName": null
     },
