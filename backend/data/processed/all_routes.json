@@ -47,6 +47,12 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "115平日": {
+        "RouteName": "115平日",
+        "BusType": "一般公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "12": {
         "RouteName": "12",
         "BusType": "一般公車",
