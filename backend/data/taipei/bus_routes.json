@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/06/14 04:46:14",
+        "UpdateTime": "2026/06/15 05:15:05",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -30521,9 +30521,9 @@
             "realSequence": "7",
             "distance": "4.6",
             "goFirstBusTime": "0730",
-            "backFirstBusTime": "1735",
+            "backFirstBusTime": "1710",
             "goLastBusTime": "0815",
-            "backLastBusTime": "1810",
+            "backLastBusTime": "1750",
             "busTimeDesc": "例假日停駛",
             "peakHeadway": "",
             "offPeakHeadway": "",
@@ -30565,9 +30565,9 @@
             "realSequence": "7",
             "distance": "4.6",
             "goFirstBusTime": "0730",
-            "backFirstBusTime": "1735",
+            "backFirstBusTime": "1710",
             "goLastBusTime": "0815",
-            "backLastBusTime": "1810",
+            "backLastBusTime": "1750",
             "busTimeDesc": "例假日停駛",
             "peakHeadway": "",
             "offPeakHeadway": "",
