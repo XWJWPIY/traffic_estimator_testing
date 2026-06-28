@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/06/28 03:52:57",
+        "UpdateTime": "2026/06/29 03:52:57",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -20578,8 +20578,8 @@
             "distance": "46.9",
             "goFirstBusTime": "0510",
             "backFirstBusTime": "0510",
-            "goLastBusTime": "2000",
-            "backLastBusTime": "2000",
+            "goLastBusTime": "2030",
+            "backLastBusTime": "2030",
             "busTimeDesc": "",
             "peakHeadway": "",
             "offPeakHeadway": "",
