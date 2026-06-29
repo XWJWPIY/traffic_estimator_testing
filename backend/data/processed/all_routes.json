@@ -2051,12 +2051,6 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "812": {
-        "RouteName": "812",
-        "BusType": "一般公車",
-        "City": "newtaipei",
-        "OtherRouteName": null
-    },
     "813": {
         "RouteName": "813",
         "BusType": "幹線公車",
@@ -4307,6 +4301,18 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
+    "三鶯1線": {
+        "RouteName": "三鶯1線",
+        "BusType": "一般公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "三鶯2線(原812)": {
+        "RouteName": "三鶯2線(原812)",
+        "BusType": "一般公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
     "中原中平路口-建國中學": {
         "RouteName": "中原中平路口-建國中學",
         "BusType": "跳蛙公車",
@@ -5023,6 +5029,12 @@
     },
     "捷運頂溪站-捷運頂埔站": {
         "RouteName": "捷運頂溪站-捷運頂埔站",
+        "BusType": "跳蛙公車",
+        "City": "newtaipei",
+        "OtherRouteName": null
+    },
+    "捷運鶯桃福德站-銘傳大學(桃園校區)": {
+        "RouteName": "捷運鶯桃福德站-銘傳大學(桃園校區)",
         "BusType": "跳蛙公車",
         "City": "newtaipei",
         "OtherRouteName": null
