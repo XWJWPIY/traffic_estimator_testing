@@ -4979,12 +4979,6 @@
         "City": "taipei",
         "OtherRouteName": null
     },
-    "懷恩專車S35": {
-        "RouteName": "懷恩專車S35",
-        "BusType": "一般公車",
-        "City": "taipei",
-        "OtherRouteName": null
-    },
     "承德幹線": {
         "RouteName": "承德幹線",
         "BusType": "幹線公車",
@@ -6223,12 +6217,6 @@
     },
     "通勤24": {
         "RouteName": "通勤24",
-        "BusType": "一般公車",
-        "City": "taipei",
-        "OtherRouteName": null
-    },
-    "通勤25": {
-        "RouteName": "通勤25",
         "BusType": "一般公車",
         "City": "taipei",
         "OtherRouteName": null
