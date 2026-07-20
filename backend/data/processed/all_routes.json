@@ -6298,11 +6298,5 @@
         "BusType": "一般公車",
         "City": "newtaipei",
         "OtherRouteName": null
-    },
-    "龍舟專車132路": {
-        "RouteName": "龍舟專車132路",
-        "BusType": "一般公車",
-        "City": "taipei",
-        "OtherRouteName": null
     }
 }
