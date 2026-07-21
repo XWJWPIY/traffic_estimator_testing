@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/07/21 05:31:26",
+            "UpdateTime": "2026/07/22 05:31:26",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -21262,6 +21262,50 @@
                 "genus": "02;65"
             },
             {
+                "Id": 17709,
+                "NId": "0100095500",
+                "providerId": 5400,
+                "providerName": "新北客運",
+                "nameZh": "955",
+                "nameEn": "955",
+                "aliasName": "",
+                "pathAttributeId": 162600,
+                "pathAttributeNId": "0100095503",
+                "pathAttributeName": "955返程半",
+                "pathAttributeEname": "955",
+                "buildPeriod": "4",
+                "routeType": "1",
+                "departureZh": "汐止",
+                "departureEn": "Xizhi",
+                "destinationZh": "捷運劍南路站",
+                "destinationEn": "MRT Jiannan Rd. Sta.",
+                "realSequence": "12",
+                "distance": "39.6",
+                "goFirstBusTime": "0630",
+                "backFirstBusTime": "0630",
+                "goLastBusTime": "1900",
+                "backLastBusTime": "1900",
+                "busTimeDesc": "例假日停駛",
+                "peakHeadway": "",
+                "offPeakHeadway": "",
+                "headwayDesc": "",
+                "holidayGoFirstBusTime": " ",
+                "holidayBackFirstBusTime": " ",
+                "holidayGoLastBusTime": " ",
+                "holidayBackLastBusTime": " ",
+                "holidayBusTimeDesc": "",
+                "holidayPeakHeadway": "",
+                "holidayOffPeakHeadway": "",
+                "holidayHeadwayDesc": "例假日停駛",
+                "segmentBufferZh": "(往)天良電視台-環東大道口、(返)環東大道口-富信飯店",
+                "segmentBufferEn": "(GO):Tian liang Satellite TV-Huandong Blvd. Intersection;(Back):Huandong Blvd. Intersection-Fushin Hotel",
+                "ticketPriceDescriptionZh": "兩段票",
+                "ticketPriceDescriptionEn": "",
+                "ttiaPathId": "09550B0",
+                "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100095500",
+                "genus": "02;65"
+            },
+            {
                 "Id": 10332,
                 "NId": "0161000400",
                 "providerId": 300,
@@ -34865,7 +34909,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/07/21 05:31:20",
+            "UpdateTime": "2026/07/22 05:29:10",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
