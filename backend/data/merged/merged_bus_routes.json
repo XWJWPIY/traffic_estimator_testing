@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/07/24 05:31:26",
+            "UpdateTime": "2026/07/25 05:31:26",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -34909,7 +34909,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/07/24 05:31:20",
+            "UpdateTime": "2026/07/25 05:31:20",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -47569,8 +47569,8 @@
                 "pathAttributeEname": "731",
                 "buildPeriod": "10",
                 "routeType": "1",
-                "departureZh": "客家文化園區",
-                "departureEn": "Taipei County Hakka Museum",
+                "departureZh": "客家文化園區正門",
+                "departureEn": "New Taipei City Hakka Museum (Main Gate)",
                 "destinationZh": "鶯歌火車站",
                 "destinationEn": "Yingge Rail Sta.",
                 "realSequence": "8",

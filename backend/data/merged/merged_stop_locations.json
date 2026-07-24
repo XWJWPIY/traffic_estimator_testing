@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/07/24 05:29:50",
+            "UpdateTime": "2026/07/25 05:29:50",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -53625,7 +53625,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/07/24 05:29:50",
+            "UpdateTime": "2026/07/25 05:29:50",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -101555,7 +101555,7 @@
                 "lon": "121.360137",
                 "lat": "24.942004",
                 "bearing": "NE",
-                "version": 3
+                "version": 4
             },
             {
                 "id": 73231,
@@ -117345,7 +117345,7 @@
                 "lon": "121.3598657",
                 "lat": "24.942022",
                 "bearing": "SW",
-                "version": 2
+                "version": 3
             },
             {
                 "id": 72834,
