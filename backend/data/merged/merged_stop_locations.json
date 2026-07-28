@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/07/28 05:29:09",
+            "UpdateTime": "2026/07/29 04:32:02",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -17113,10 +17113,10 @@
                 "nid": "1046201120",
                 "name": "大直美堤花園一",
                 "address": "樂群二路敬業四路口東側30公尺(向東)",
-                "lon": "121.5588327",
-                "lat": "25.07983259",
+                "lon": "121.558124",
+                "lat": "25.079827",
                 "bearing": "E",
-                "version": 6
+                "version": 7
             },
             {
                 "id": 4761,
@@ -53625,7 +53625,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/07/28 05:29:10",
+            "UpdateTime": "2026/07/29 05:29:50",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
