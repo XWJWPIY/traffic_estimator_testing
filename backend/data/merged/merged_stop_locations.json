@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/07/29 04:32:02",
+            "UpdateTime": "2026/07/30 04:32:02",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -53625,7 +53625,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/07/29 05:29:50",
+            "UpdateTime": "2026/07/30 03:31:56",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -106935,7 +106935,7 @@
                 "lon": "121.331917",
                 "lat": "24.966917",
                 "bearing": "NE",
-                "version": 3
+                "version": 6
             },
             {
                 "id": 73348,
@@ -130525,12 +130525,12 @@
             {
                 "id": 73386,
                 "nid": "2394202020",
-                "name": "鳳鳴國中(永和街口)",
+                "name": "捷運鶯桃福德站(鶯桃路)",
                 "address": "鶯歌區鶯桃路503號(向東)",
                 "lon": "121.331105",
                 "lat": "24.966984",
                 "bearing": "SE",
-                "version": 7
+                "version": 9
             },
             {
                 "id": 73331,

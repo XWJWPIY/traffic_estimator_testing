@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-07-29T02:35:52.796+08:00",
+        "2026-07-30T02:35:58.050+08:00",
         "86400",
         "TPE",
         {
@@ -77742,7 +77742,7 @@
         }
     ],
     "newtaipei": [
-        "2026-07-29T01:05:12.093+08:00",
+        "2026-07-30T02:35:58.167+08:00",
         "86400",
         "NWT",
         {
@@ -178524,6 +178524,98 @@
                     "SubRouteName": {
                         "Zh_tw": "捷運鶯桃福德站-銘傳大學(桃園校區)返",
                         "En": "MRT Yingtao Fude Sta.-Ming Chuan University (Taoyuan Campus)"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "16189",
+                    "RouteName": {
+                        "Zh_tw": "三鶯2線(原812)",
+                        "En": "Sanying 2"
+                    },
+                    "OperatorID": "16176",
+                    "SubRouteID": "162601",
+                    "SubRouteName": {
+                        "Zh_tw": "三鶯2線客家文化園區正門-捷運橫溪站",
+                        "En": "Sanying 2"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "0",
