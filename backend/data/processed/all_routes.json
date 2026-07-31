@@ -5939,8 +5939,8 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "藍20區": {
-        "RouteName": "藍20區",
+    "藍20": {
+        "RouteName": "藍20",
         "BusType": "一般公車",
         "City": "taipei",
         "OtherRouteName": null

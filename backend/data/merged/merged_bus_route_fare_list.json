@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-07-31T02:35:58.750+08:00",
+        "2026-08-01T01:25:08.777+08:00",
         "86400",
         "TPE",
         {
@@ -35559,13 +35559,13 @@
                 {
                     "RouteID": "16125",
                     "RouteName": {
-                        "Zh_tw": "藍20區",
+                        "Zh_tw": "藍20",
                         "En": "BL20 Shuttle"
                     },
                     "OperatorID": "5300",
                     "SubRouteID": "155892",
                     "SubRouteName": {
-                        "Zh_tw": "藍20區經三總",
+                        "Zh_tw": "藍20經三總",
                         "En": "B20 Shuttle"
                     },
                     "FarePricingType": "SectionFare",
@@ -51431,13 +51431,13 @@
                 {
                     "RouteID": "16125",
                     "RouteName": {
-                        "Zh_tw": "藍20區",
+                        "Zh_tw": "藍20",
                         "En": "BL20 Shuttle"
                     },
                     "OperatorID": "5300",
                     "SubRouteID": "159239",
                     "SubRouteName": {
-                        "Zh_tw": "藍20區不經三總",
+                        "Zh_tw": "藍20不經三總",
                         "En": "B20 Shuttle"
                     },
                     "FarePricingType": "SectionFare",
@@ -77742,7 +77742,7 @@
         }
     ],
     "newtaipei": [
-        "2026-07-31T01:25:09.232+08:00",
+        "2026-08-01T01:15:11.399+08:00",
         "86400",
         "NWT",
         {
