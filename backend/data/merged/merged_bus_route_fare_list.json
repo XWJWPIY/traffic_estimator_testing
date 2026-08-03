@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-08-03T01:25:08.426+08:00",
+        "2026-08-04T01:05:11.381+08:00",
         "86400",
         "TPE",
         {
@@ -30447,25 +30447,6 @@
                                         }
                                     },
                                     "FareBufferZoneDestination": {
-                                        "DestinationStopID": "45084",
-                                        "DestinationStopName": {
-                                            "Zh_tw": "伯爵山莊",
-                                            "En": "Bojue Village"
-                                        }
-                                    }
-                                },
-                                {
-                                    "ZoneID": "",
-                                    "SectionSequence": "2",
-                                    "Direction": "0",
-                                    "FareBufferZoneOrigin": {
-                                        "OriginStopID": "45085",
-                                        "OriginStopName": {
-                                            "Zh_tw": "伯爵山莊一",
-                                            "En": "Duke Shanzhuang 1"
-                                        }
-                                    },
-                                    "FareBufferZoneDestination": {
                                         "DestinationStopID": "45094",
                                         "DestinationStopName": {
                                             "Zh_tw": "北山里",
@@ -30475,7 +30456,7 @@
                                 },
                                 {
                                     "ZoneID": "",
-                                    "SectionSequence": "3",
+                                    "SectionSequence": "2",
                                     "Direction": "0",
                                     "FareBufferZoneOrigin": {
                                         "OriginStopID": "45107",
@@ -30489,6 +30470,44 @@
                                         "DestinationStopName": {
                                             "Zh_tw": "饒河街觀光夜市(塔悠)",
                                             "En": "Raohe St. Night Market (Tayou)"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "3",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "45137",
+                                        "OriginStopName": {
+                                            "Zh_tw": "饒河街觀光夜市(塔悠)",
+                                            "En": "Raohe St. Night Market (Tayou)"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "45144",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "玉成國小",
+                                            "En": "Yucheng Elementary School"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "4",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "45156",
+                                        "OriginStopName": {
+                                            "Zh_tw": "北山里",
+                                            "En": "Beishan Village"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "45166",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "伯爵山莊",
+                                            "En": "Bojue Village"
                                         }
                                     }
                                 }
@@ -71644,25 +71663,6 @@
                                         }
                                     },
                                     "FareBufferZoneDestination": {
-                                        "DestinationStopID": "45084",
-                                        "DestinationStopName": {
-                                            "Zh_tw": "伯爵山莊",
-                                            "En": "Bojue Village"
-                                        }
-                                    }
-                                },
-                                {
-                                    "ZoneID": "",
-                                    "SectionSequence": "2",
-                                    "Direction": "0",
-                                    "FareBufferZoneOrigin": {
-                                        "OriginStopID": "45085",
-                                        "OriginStopName": {
-                                            "Zh_tw": "伯爵山莊一",
-                                            "En": "Duke Shanzhuang 1"
-                                        }
-                                    },
-                                    "FareBufferZoneDestination": {
                                         "DestinationStopID": "45094",
                                         "DestinationStopName": {
                                             "Zh_tw": "北山里",
@@ -71672,7 +71672,7 @@
                                 },
                                 {
                                     "ZoneID": "",
-                                    "SectionSequence": "3",
+                                    "SectionSequence": "2",
                                     "Direction": "0",
                                     "FareBufferZoneOrigin": {
                                         "OriginStopID": "45107",
@@ -71686,6 +71686,44 @@
                                         "DestinationStopName": {
                                             "Zh_tw": "饒河街觀光夜市(塔悠)",
                                             "En": "Raohe St. Night Market (Tayou)"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "3",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "45137",
+                                        "OriginStopName": {
+                                            "Zh_tw": "饒河街觀光夜市(塔悠)",
+                                            "En": "Raohe St. Night Market (Tayou)"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "45144",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "玉成國小",
+                                            "En": "Yucheng Elementary School"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "4",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "45156",
+                                        "OriginStopName": {
+                                            "Zh_tw": "北山里",
+                                            "En": "Beishan Village"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "45166",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "伯爵山莊",
+                                            "En": "Bojue Village"
                                         }
                                     }
                                 }
@@ -77742,7 +77780,7 @@
         }
     ],
     "newtaipei": [
-        "2026-08-03T01:05:11.327+08:00",
+        "2026-08-04T01:25:08.810+08:00",
         "86400",
         "NWT",
         {
