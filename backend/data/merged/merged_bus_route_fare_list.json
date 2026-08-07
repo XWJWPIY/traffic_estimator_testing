@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-08-07T01:05:11.148+08:00",
+        "2026-08-08T01:15:10.964+08:00",
         "86400",
         "TPE",
         {
@@ -35374,8 +35374,8 @@
                                 "FareBufferZoneOrigin": {
                                     "OriginStopID": "57310",
                                     "OriginStopName": {
-                                        "Zh_tw": "福德廟(石牌)",
-                                        "En": "Fude Temple (Shipai)"
+                                        "Zh_tw": "五福宮(石牌路)",
+                                        "En": "Wufu Temple (Shipai Rd.)"
                                     }
                                 },
                                 "FareBufferZoneDestination": {
@@ -35493,8 +35493,8 @@
                                 "FareBufferZoneDestination": {
                                     "DestinationStopID": "57369",
                                     "DestinationStopName": {
-                                        "Zh_tw": "福德廟(石牌)",
-                                        "En": "Fude Temple (Shipai)"
+                                        "Zh_tw": "五福宮(石牌路)",
+                                        "En": "Wufu Temple (Shipai Rd.)"
                                     }
                                 }
                             }
@@ -53294,8 +53294,8 @@
                                 "FareBufferZoneDestination": {
                                     "DestinationStopID": "57369",
                                     "DestinationStopName": {
-                                        "Zh_tw": "福德廟(石牌)",
-                                        "En": "Fude Temple (Shipai)"
+                                        "Zh_tw": "五福宮(石牌路)",
+                                        "En": "Wufu Temple (Shipai Rd.)"
                                     }
                                 }
                             }
@@ -53399,8 +53399,8 @@
                                 "FareBufferZoneOrigin": {
                                     "OriginStopID": "57310",
                                     "OriginStopName": {
-                                        "Zh_tw": "福德廟(石牌)",
-                                        "En": "Fude Temple (Shipai)"
+                                        "Zh_tw": "五福宮(石牌路)",
+                                        "En": "Wufu Temple (Shipai Rd.)"
                                     }
                                 },
                                 "FareBufferZoneDestination": {
@@ -77780,7 +77780,7 @@
         }
     ],
     "newtaipei": [
-        "2026-08-07T01:05:11.256+08:00",
+        "2026-08-08T01:25:09.130+08:00",
         "86400",
         "NWT",
         {
