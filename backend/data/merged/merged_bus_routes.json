@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/08/14 04:31:26",
+            "UpdateTime": "2026/08/15 04:29:09",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -26823,7 +26823,7 @@
                 "departureEn": "Wanhua",
                 "destinationZh": "捷運麟光站",
                 "destinationEn": "MRT Linguang Sta.",
-                "realSequence": "35",
+                "realSequence": "42",
                 "distance": "16.6",
                 "goFirstBusTime": "0555",
                 "backFirstBusTime": "0555",
@@ -35261,7 +35261,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/08/14 04:29:10",
+            "UpdateTime": "2026/08/15 04:29:50",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
