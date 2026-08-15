@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-08-15T01:05:10.968+08:00",
+        "2026-08-16T01:25:09.246+08:00",
         "86400",
         "TPE",
         {
@@ -78608,7 +78608,7 @@
         }
     ],
     "newtaipei": [
-        "2026-08-15T01:25:08.965+08:00",
+        "2026-08-16T01:05:10.904+08:00",
         "86400",
         "NWT",
         {
@@ -81496,98 +81496,6 @@
                                 }
                             ]
                         },
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "16189",
-                    "RouteName": {
-                        "Zh_tw": "三鶯2線(原812)",
-                        "En": "Sanying 2"
-                    },
-                    "OperatorID": "16176",
-                    "SubRouteID": "157184",
-                    "SubRouteName": {
-                        "Zh_tw": "三鶯2線三峽-捷運永寧站",
-                        "En": "Sanying 2"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
                         "Fares": {
                             "Fare": [
                                 {
