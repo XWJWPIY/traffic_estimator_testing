@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-08-17T01:25:09.714+08:00",
+        "2026-08-18T01:05:11.204+08:00",
         "86400",
         "TPE",
         {
@@ -78608,7 +78608,7 @@
         }
     ],
     "newtaipei": [
-        "2026-08-17T01:05:11.327+08:00",
+        "2026-08-18T01:15:11.637+08:00",
         "86400",
         "NWT",
         {
@@ -98013,7 +98013,7 @@
                     "OperatorID": "16252",
                     "SubRouteID": "157740",
                     "SubRouteName": {
-                        "Zh_tw": "F923去08:10、09:40、11:10、15:00",
+                        "Zh_tw": "F923往09:40、11:10",
                         "En": "F923GO"
                     },
                     "FarePricingType": "SectionFare",
@@ -148141,7 +148141,7 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159473",
                     "SubRouteName": {
-                        "Zh_tw": "F923去06:20至野柳",
+                        "Zh_tw": "F923往06:20至野柳",
                         "En": "F923-06:20"
                     },
                     "FarePricingType": "SectionFare",
@@ -148233,7 +148233,7 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159474",
                     "SubRouteName": {
-                        "Zh_tw": "F923去07:10至東澳",
+                        "Zh_tw": "F923往07:10至東澳",
                         "En": "F923-07:10"
                     },
                     "FarePricingType": "SectionFare",
@@ -148325,7 +148325,7 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159475",
                     "SubRouteName": {
-                        "Zh_tw": "F923去13:00、16:20萬里國小出發至野柳",
+                        "Zh_tw": "F923往13:00、16:20萬里國小出發至野柳",
                         "En": "F923 Student"
                     },
                     "FarePricingType": "SectionFare",
@@ -148417,7 +148417,7 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159476",
                     "SubRouteName": {
-                        "Zh_tw": "F923去17:05繞萬里國中至野柳",
+                        "Zh_tw": "F923往17:05繞萬里國中至野柳",
                         "En": "F923GO-17:05"
                     },
                     "FarePricingType": "SectionFare",
@@ -148509,8 +148509,100 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159477",
                     "SubRouteName": {
-                        "Zh_tw": "F923返08:50、10:20、11:50、15:40",
+                        "Zh_tw": "F923返08:50、10:20、15:40",
                         "En": "F923BACK"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "1",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "0"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "16676",
+                    "RouteName": {
+                        "Zh_tw": "F923",
+                        "En": "F923"
+                    },
+                    "OperatorID": "16252",
+                    "SubRouteID": "159478",
+                    "SubRouteName": {
+                        "Zh_tw": "F923往08:05、14:55北基發車",
+                        "En": "F923Go 08:05、14:55"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
@@ -179650,6 +179742,98 @@
                                     "TicketType": "3",
                                     "FareClass": "9",
                                     "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "16676",
+                    "RouteName": {
+                        "Zh_tw": "F923",
+                        "En": "F923"
+                    },
+                    "OperatorID": "16252",
+                    "SubRouteID": "162613",
+                    "SubRouteName": {
+                        "Zh_tw": "F923返11:50至北基",
+                        "En": "F923BACK-11:50"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "1",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "0"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "0"
                                 }
                             ]
                         }
