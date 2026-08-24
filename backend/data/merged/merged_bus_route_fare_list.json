@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-08-24T01:15:11.794+08:00",
+        "2026-08-25T01:25:09.208+08:00",
         "86400",
         "TPE",
         {
@@ -9297,7 +9297,7 @@
                                     "DestinationStopID": "12738",
                                     "DestinationStopName": {
                                         "Zh_tw": "饒河街觀光夜市(八德)",
-                                        "En": "Raohe St. Night Market (Bade)"
+                                        "En": "Raohe St. Night Market"
                                     }
                                 }
                             }
@@ -27580,7 +27580,7 @@
                                         "DestinationStopID": "44140",
                                         "DestinationStopName": {
                                             "Zh_tw": "饒河街觀光夜市(八德)",
-                                            "En": "Raohe St. Night Market(Bade)"
+                                            "En": "Raohe St. Night Market"
                                         }
                                     }
                                 },
@@ -78608,7 +78608,7 @@
         }
     ],
     "newtaipei": [
-        "2026-08-24T01:05:11.617+08:00",
+        "2026-08-25T01:05:11.875+08:00",
         "86400",
         "NWT",
         {
@@ -179834,6 +179834,190 @@
                                     "TicketType": "3",
                                     "FareClass": "9",
                                     "Price": "0"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "16682",
+                    "RouteName": {
+                        "Zh_tw": "791",
+                        "En": "791"
+                    },
+                    "OperatorID": "16190",
+                    "SubRouteID": "162614",
+                    "SubRouteName": {
+                        "Zh_tw": "791延國家新城",
+                        "En": "791 National Park"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "16682",
+                    "RouteName": {
+                        "Zh_tw": "791",
+                        "En": "791"
+                    },
+                    "OperatorID": "16190",
+                    "SubRouteID": "162615",
+                    "SubRouteName": {
+                        "Zh_tw": "791延福隆",
+                        "En": "791 Fulong"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
                                 }
                             ]
                         }
