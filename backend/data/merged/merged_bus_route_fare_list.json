@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-08-30T01:05:10.259+08:00",
+        "2026-08-31T01:05:09.873+08:00",
         "86400",
         "TPE",
         {
@@ -78608,7 +78608,7 @@
         }
     ],
     "newtaipei": [
-        "2026-08-30T01:15:10.691+08:00",
+        "2026-08-31T01:25:09.351+08:00",
         "86400",
         "NWT",
         {
@@ -179482,190 +179482,6 @@
                     "SubRouteName": {
                         "Zh_tw": "三鶯2線客家文化園區正門-捷運橫溪站",
                         "En": "Sanying 2"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "19797",
-                    "RouteName": {
-                        "Zh_tw": "漁人碼頭煙火專車",
-                        "En": "Tamsui Fisherman's Wharf Fireworks Shuttle Bus"
-                    },
-                    "OperatorID": "16185",
-                    "SubRouteID": "162602",
-                    "SubRouteName": {
-                        "Zh_tw": "漁人碼頭煙火專車20:00前",
-                        "En": "Tamsui Fisherman's Wharf Fireworks Shuttle Bus"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "19797",
-                    "RouteName": {
-                        "Zh_tw": "漁人碼頭煙火專車",
-                        "En": "Tamsui Fisherman's Wharf Fireworks Shuttle Bus"
-                    },
-                    "OperatorID": "16185",
-                    "SubRouteID": "162603",
-                    "SubRouteName": {
-                        "Zh_tw": "漁人碼頭煙火專車20:00後",
-                        "En": "Tamsui Fisherman's Wharf Fireworks Shuttle Bus"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "0",

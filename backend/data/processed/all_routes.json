@@ -5471,12 +5471,6 @@
         "City": "newtaipei",
         "OtherRouteName": null
     },
-    "漁人碼頭煙火專車": {
-        "RouteName": "漁人碼頭煙火專車",
-        "BusType": "一般公車",
-        "City": "newtaipei",
-        "OtherRouteName": null
-    },
     "瑞芳(經東碇路)-松山車站": {
         "RouteName": "瑞芳(經東碇路)-松山車站",
         "BusType": "跳蛙公車",
