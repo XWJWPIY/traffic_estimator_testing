@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-08-31T01:05:09.873+08:00",
+        "2026-09-01T01:05:11.781+08:00",
         "86400",
         "TPE",
         {
@@ -77777,757 +77777,62 @@
                     }
                 },
                 {
-                    "RouteID": "11151",
+                    "RouteID": "19798",
                     "RouteName": {
-                        "Zh_tw": "230",
-                        "En": "230"
+                        "Zh_tw": "606通勤",
+                        "En": "606CB"
                     },
-                    "OperatorID": "1100",
-                    "SubRouteID": "162604",
+                    "OperatorID": "800",
+                    "SubRouteID": "162616",
                     "SubRouteName": {
-                        "Zh_tw": "230改道東昇路",
-                        "En": "230"
+                        "Zh_tw": "606通勤",
+                        "En": "606CB"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "0",
                     "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
+                        "BufferZones": {
+                            "BufferZone": [
                                 {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
+                                    "ZoneID": "",
+                                    "SectionSequence": "1",
+                                    "Direction": "0",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "225235",
+                                        "OriginStopName": {
+                                            "Zh_tw": "武功國小(興隆)",
+                                            "En": "Changan Elementary School (Xinglong)"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "225242",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "捷運古亭站(和平)",
+                                            "En": "MRT Guting Sta. (Heping)"
+                                        }
+                                    }
                                 },
                                 {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
+                                    "ZoneID": "",
+                                    "SectionSequence": "2",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "225304",
+                                        "OriginStopName": {
+                                            "Zh_tw": "捷運古亭站(和平)",
+                                            "En": "MRT Guting Sta. (Heping)"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "225311",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "武功國小(興隆)",
+                                            "En": "Changan Elementary School (Xinglong)"
+                                        }
+                                    }
                                 }
                             ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "11151",
-                    "RouteName": {
-                        "Zh_tw": "230",
-                        "En": "230"
-                    },
-                    "OperatorID": "1100",
-                    "SubRouteID": "162605",
-                    "SubRouteName": {
-                        "Zh_tw": "230往程改道東昇路",
-                        "En": "230"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "11151",
-                    "RouteName": {
-                        "Zh_tw": "230",
-                        "En": "230"
-                    },
-                    "OperatorID": "1100",
-                    "SubRouteID": "162606",
-                    "SubRouteName": {
-                        "Zh_tw": "230返程改道東昇路",
-                        "En": "230"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "11138",
-                    "RouteName": {
-                        "Zh_tw": "小25",
-                        "En": "S25"
-                    },
-                    "OperatorID": "1100",
-                    "SubRouteID": "162607",
-                    "SubRouteName": {
-                        "Zh_tw": "小25改道東昇路",
-                        "En": "S25(Race)"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "11138",
-                    "RouteName": {
-                        "Zh_tw": "小25",
-                        "En": "S25"
-                    },
-                    "OperatorID": "1100",
-                    "SubRouteID": "162608",
-                    "SubRouteName": {
-                        "Zh_tw": "小25返程改道東昇路",
-                        "En": "S25(Race)"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "11138",
-                    "RouteName": {
-                        "Zh_tw": "小25",
-                        "En": "S25"
-                    },
-                    "OperatorID": "1100",
-                    "SubRouteID": "162609",
-                    "SubRouteName": {
-                        "Zh_tw": "小25經馬場改道東昇路",
-                        "En": "S25(Race)"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "11064",
-                    "RouteName": {
-                        "Zh_tw": "小36",
-                        "En": "S36"
-                    },
-                    "OperatorID": "1100",
-                    "SubRouteID": "162610",
-                    "SubRouteName": {
-                        "Zh_tw": "小36改道東昇路",
-                        "En": "S36-Zhongshan"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "11064",
-                    "RouteName": {
-                        "Zh_tw": "小36",
-                        "En": "S36"
-                    },
-                    "OperatorID": "1100",
-                    "SubRouteID": "162611",
-                    "SubRouteName": {
-                        "Zh_tw": "小36返程改道東昇路",
-                        "En": "S36-Zhongshan"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "11064",
-                    "RouteName": {
-                        "Zh_tw": "小36",
-                        "En": "S36"
-                    },
-                    "OperatorID": "1100",
-                    "SubRouteID": "162612",
-                    "SubRouteName": {
-                        "Zh_tw": "小36經中山改道東昇路",
-                        "En": "S36-Zhongshan"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
+                        },
                         "Fares": {
                             "Fare": [
                                 {
@@ -78608,7 +77913,7 @@
         }
     ],
     "newtaipei": [
-        "2026-08-31T01:25:09.351+08:00",
+        "2026-09-01T01:25:09.297+08:00",
         "86400",
         "NWT",
         {
@@ -179670,7 +178975,86 @@
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "0",
                     "SectionFare": {
-                        "BufferZones": "",
+                        "BufferZones": {
+                            "BufferZone": [
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "1",
+                                    "Direction": "0",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "148411",
+                                        "OriginStopName": {
+                                            "Zh_tw": "二信分社",
+                                            "En": "The Second Credit Cooperative of Keelung Branch"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "148411",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "二信分社",
+                                            "En": "The Second Credit Cooperative of Keelung Branch"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "2",
+                                    "Direction": "0",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "148428",
+                                        "OriginStopName": {
+                                            "Zh_tw": "瑞濱",
+                                            "En": "Ruibin"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "148428",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "瑞濱",
+                                            "En": "Ruibin"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "3",
+                                    "Direction": "0",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "148437",
+                                        "OriginStopName": {
+                                            "Zh_tw": "南雅旅遊服務中心(南新宮)",
+                                            "En": "Nanya Tourism Service Center(Nanxin Temple)"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "148437",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "南雅旅遊服務中心(南新宮)",
+                                            "En": "Nanya Tourism Service Center(Nanxin Temple)"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "4",
+                                    "Direction": "0",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "148445",
+                                        "OriginStopName": {
+                                            "Zh_tw": "和美",
+                                            "En": "Hemei"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "148445",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "和美",
+                                            "En": "Hemei"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
                         "Fares": {
                             "Fare": [
                                 {
@@ -179762,7 +179146,86 @@
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "0",
                     "SectionFare": {
-                        "BufferZones": "",
+                        "BufferZones": {
+                            "BufferZone": [
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "1",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "148478",
+                                        "OriginStopName": {
+                                            "Zh_tw": "和美",
+                                            "En": "Hemei"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "148478",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "和美",
+                                            "En": "Hemei"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "2",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "148487",
+                                        "OriginStopName": {
+                                            "Zh_tw": "南雅旅遊服務中心(南新宮)",
+                                            "En": "Nanya Tourism Service Center(Nanxin Temple)"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "148487",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "南雅旅遊服務中心(南新宮)",
+                                            "En": "Nanya Tourism Service Center(Nanxin Temple)"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "3",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "148494",
+                                        "OriginStopName": {
+                                            "Zh_tw": "瑞濱",
+                                            "En": "Ruibin"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "148494",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "瑞濱",
+                                            "En": "Ruibin"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "4",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "148511",
+                                        "OriginStopName": {
+                                            "Zh_tw": "二信分社",
+                                            "En": "The Second Credit Cooperative of Keelung Branch"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "148511",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "二信分社",
+                                            "En": "The Second Credit Cooperative of Keelung Branch"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
                         "Fares": {
                             "Fare": [
                                 {

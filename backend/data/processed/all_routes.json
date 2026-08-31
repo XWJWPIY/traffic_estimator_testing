@@ -1289,6 +1289,12 @@
         "City": "taipei",
         "OtherRouteName": null
     },
+    "606通勤": {
+        "RouteName": "606通勤",
+        "BusType": "一般公車",
+        "City": "taipei",
+        "OtherRouteName": null
+    },
     "611": {
         "RouteName": "611",
         "BusType": "一般公車",
