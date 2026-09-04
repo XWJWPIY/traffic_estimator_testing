@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/09/04 06:31:26",
+            "UpdateTime": "2026/09/05 05:31:26",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -10482,6 +10482,50 @@
                 "genus": "02;55;63"
             },
             {
+                "Id": 11165,
+                "NId": "0100028800",
+                "providerId": 1100,
+                "providerName": "大南汽車",
+                "nameZh": "288",
+                "nameEn": "288",
+                "aliasName": "",
+                "pathAttributeId": 111650,
+                "pathAttributeNId": "0100028801",
+                "pathAttributeName": "288",
+                "pathAttributeEname": "288",
+                "buildPeriod": "3",
+                "routeType": "1",
+                "departureZh": "兒童新樂園",
+                "departureEn": "Taipei Children's Amusement Park",
+                "destinationZh": "吳興街",
+                "destinationEn": "Wuxing St.",
+                "realSequence": "36",
+                "distance": "28",
+                "goFirstBusTime": "0530",
+                "backFirstBusTime": "0530",
+                "goLastBusTime": "2130",
+                "backLastBusTime": "2130",
+                "busTimeDesc": "",
+                "peakHeadway": "1215",
+                "offPeakHeadway": "1520",
+                "headwayDesc": "19:00以後固定班次",
+                "holidayGoFirstBusTime": "0530",
+                "holidayBackFirstBusTime": "0530",
+                "holidayGoLastBusTime": "2130",
+                "holidayBackLastBusTime": "2130",
+                "holidayBusTimeDesc": "",
+                "holidayPeakHeadway": "1520",
+                "holidayOffPeakHeadway": "1520",
+                "holidayHeadwayDesc": "19:00以後固定班次",
+                "segmentBufferZh": "",
+                "segmentBufferEn": "",
+                "ticketPriceDescriptionZh": "一段票",
+                "ticketPriceDescriptionEn": "1 segment",
+                "ttiaPathId": "0288200",
+                "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028800",
+                "genus": "01;02"
+            },
+            {
                 "Id": 11146,
                 "NId": "0153000200",
                 "providerId": 1100,
@@ -12767,7 +12811,7 @@
                 "ticketPriceDescriptionEn": "1 segment",
                 "ttiaPathId": "0288200",
                 "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100028800",
-                "genus": "02;01"
+                "genus": "01;02"
             },
             {
                 "Id": 15681,
@@ -34821,7 +34865,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/09/04 05:31:20",
+            "UpdateTime": "2026/09/05 05:31:20",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
