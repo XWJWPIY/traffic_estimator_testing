@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/09/12 06:32:02",
+            "UpdateTime": "2026/09/13 05:47:44",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -53695,7 +53695,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/09/12 05:31:56",
+            "UpdateTime": "2026/09/13 05:46:05",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -98716,6 +98716,16 @@
                 "lat": "24.921211",
                 "bearing": "N",
                 "version": 3
+            },
+            {
+                "id": 1165610614,
+                "nid": "2374200821",
+                "name": "系製中心",
+                "address": "三峽區中正路三段130號斜對面(向東)",
+                "lon": "121.354380",
+                "lat": "24.903476",
+                "bearing": "E",
+                "version": 1
             },
             {
                 "id": 73124,
