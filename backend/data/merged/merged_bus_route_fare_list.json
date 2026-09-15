@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-09-15T01:25:09.642+08:00",
+        "2026-09-16T01:05:11.664+08:00",
         "86400",
         "TPE",
         {
@@ -77913,7 +77913,7 @@
         }
     ],
     "newtaipei": [
-        "2026-09-15T01:25:09.676+08:00",
+        "2026-09-16T01:15:10.685+08:00",
         "86400",
         "NWT",
         {
@@ -179562,6 +179562,98 @@
                                 }
                             }
                         },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18762",
+                    "RouteName": {
+                        "Zh_tw": "937A",
+                        "En": "937A"
+                    },
+                    "OperatorID": "16182",
+                    "SubRouteID": "162620",
+                    "SubRouteName": {
+                        "Zh_tw": "937A去(車機)",
+                        "En": "937A"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
                         "Fares": {
                             "Fare": [
                                 {
