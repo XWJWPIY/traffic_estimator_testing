@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/09/18 06:55:49",
+            "UpdateTime": "2026/09/19 05:43:19",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -1566,8 +1566,8 @@
                 "address": "安康路二段341巷口(向東北)",
                 "lon": "121.496698",
                 "lat": "24.955162",
-                "bearing": "NE",
-                "version": 5
+                "bearing": "E",
+                "version": 6
             },
             {
                 "id": 3983,
@@ -13326,8 +13326,8 @@
                 "address": "新店市北宜路一段117號(向北)",
                 "lon": "121.5405279",
                 "lat": "24.95347027",
-                "bearing": "N",
-                "version": 3
+                "bearing": "NW",
+                "version": 4
             },
             {
                 "id": 4115,
@@ -48126,8 +48126,8 @@
                 "address": "龍米路一段442號旁(向西)",
                 "lon": "121.45064",
                 "lat": "25.13455",
-                "bearing": "NW",
-                "version": 4
+                "bearing": "N",
+                "version": 5
             },
             {
                 "id": 74552,
@@ -53696,7 +53696,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/09/18 06:55:49",
+            "UpdateTime": "2026/09/19 06:43:19",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -55837,8 +55837,8 @@
                 "address": "安康路二段341巷口(向東北)",
                 "lon": "121.496698",
                 "lat": "24.955162",
-                "bearing": "NE",
-                "version": 5
+                "bearing": "E",
+                "version": 6
             },
             {
                 "id": 3983,
@@ -69847,8 +69847,8 @@
                 "address": "新店市北宜路一段117號(向北)",
                 "lon": "121.5405279",
                 "lat": "24.95347027",
-                "bearing": "N",
-                "version": 3
+                "bearing": "NW",
+                "version": 4
             },
             {
                 "id": 1001013,
@@ -95067,8 +95067,8 @@
                 "address": "三芝區馬偕醫學院前候車亭(向西)",
                 "lon": "121.497090",
                 "lat": "25.253731",
-                "bearing": "W",
-                "version": 2
+                "bearing": "NW",
+                "version": 3
             },
             {
                 "id": 75623,
@@ -101058,7 +101058,7 @@
                 "lon": "121.36797",
                 "lat": "24.938865",
                 "bearing": "E",
-                "version": 3
+                "version": 4
             },
             {
                 "id": 1165604890,
@@ -102837,8 +102837,8 @@
                 "address": "龍米路一段442號旁(向西)",
                 "lon": "121.45064",
                 "lat": "25.13455",
-                "bearing": "NW",
-                "version": 4
+                "bearing": "N",
+                "version": 5
             },
             {
                 "id": 74552,
@@ -118687,7 +118687,8 @@
                 "address": "新北市八里區下罟村長坑口1-3號同向",
                 "lon": "121.3942184",
                 "lat": "25.140586",
-                "version": 4
+                "bearing": "SW",
+                "version": 5
             },
             {
                 "id": 73779,
