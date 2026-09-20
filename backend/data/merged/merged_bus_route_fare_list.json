@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-09-20T01:25:08.548+08:00",
+        "2026-09-21T01:15:10.653+08:00",
         "86400",
         "TPE",
         {
@@ -77913,7 +77913,7 @@
         }
     ],
     "newtaipei": [
-        "2026-09-20T01:05:11.647+08:00",
+        "2026-09-21T01:15:10.780+08:00",
         "86400",
         "NWT",
         {
@@ -122713,8 +122713,8 @@
                     "OperatorID": "16189",
                     "SubRouteID": "158717",
                     "SubRouteName": {
-                        "Zh_tw": "951汐止站",
-                        "En": "951 Xizhi station"
+                        "Zh_tw": "951東方山河社區",
+                        "En": "951 Dongfang Shanhe Community"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "0",
@@ -129460,8 +129460,8 @@
                     "OperatorID": "16189",
                     "SubRouteID": "158944",
                     "SubRouteName": {
-                        "Zh_tw": "951及人中學",
-                        "En": "951 Chi Jen High School"
+                        "Zh_tw": "951輕軌安康站",
+                        "En": "951 LRT Ankang Sta."
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "0",
