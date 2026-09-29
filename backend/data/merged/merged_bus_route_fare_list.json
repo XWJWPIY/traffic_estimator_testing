@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-09-29T01:05:11.094+08:00",
+        "2026-09-30T01:05:11.141+08:00",
         "86400",
         "TPE",
         {
@@ -77913,7 +77913,7 @@
         }
     ],
     "newtaipei": [
-        "2026-09-29T01:25:08.461+08:00",
+        "2026-09-30T01:15:10.262+08:00",
         "86400",
         "NWT",
         {
@@ -144747,139 +144747,6 @@
                     "IsFreeBus": "0",
                     "SectionFare": {
                         "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "17916",
-                    "RouteName": {
-                        "Zh_tw": "963",
-                        "En": "963"
-                    },
-                    "OperatorID": "16186",
-                    "SubRouteID": "159393",
-                    "SubRouteName": {
-                        "Zh_tw": "963直",
-                        "En": "963A"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": {
-                            "BufferZone": [
-                                {
-                                    "ZoneID": "",
-                                    "SectionSequence": "1",
-                                    "Direction": "0",
-                                    "FareBufferZoneOrigin": {
-                                        "OriginStopID": "196280",
-                                        "OriginStopName": {
-                                            "Zh_tw": "艋舺橋",
-                                            "En": "Bangka Bridge"
-                                        }
-                                    },
-                                    "FareBufferZoneDestination": {
-                                        "DestinationStopID": "196286",
-                                        "DestinationStopName": {
-                                            "Zh_tw": "成德公園",
-                                            "En": "Chengde Park"
-                                        }
-                                    }
-                                },
-                                {
-                                    "ZoneID": "",
-                                    "SectionSequence": "2",
-                                    "Direction": "1",
-                                    "FareBufferZoneOrigin": {
-                                        "OriginStopID": "196326",
-                                        "OriginStopName": {
-                                            "Zh_tw": "成德公園",
-                                            "En": "Chengde Park"
-                                        }
-                                    },
-                                    "FareBufferZoneDestination": {
-                                        "DestinationStopID": "196331",
-                                        "DestinationStopName": {
-                                            "Zh_tw": "艋舺橋",
-                                            "En": "Bangka Bridge"
-                                        }
-                                    }
-                                }
-                            ]
-                        },
                         "Fares": {
                             "Fare": [
                                 {
