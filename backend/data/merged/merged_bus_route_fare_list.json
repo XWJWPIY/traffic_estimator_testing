@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-10-08T01:15:21.637+08:00",
+        "2026-10-09T02:35:59.386+08:00",
         "86400",
         "TPE",
         {
@@ -77913,7 +77913,7 @@
         }
     ],
     "newtaipei": [
-        "2026-10-08T01:25:09.293+08:00",
+        "2026-10-09T01:25:09.160+08:00",
         "86400",
         "NWT",
         {
@@ -179521,6 +179521,566 @@
                     "IsFreeBus": "0",
                     "SectionFare": {
                         "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "17294",
+                    "RouteName": {
+                        "Zh_tw": "946副",
+                        "En": "946Sub"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162626",
+                    "SubRouteName": {
+                        "Zh_tw": "946副甲線(車機)",
+                        "En": "946 Sub"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "173821",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "173821",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "17294",
+                    "RouteName": {
+                        "Zh_tw": "946副",
+                        "En": "946Sub"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162627",
+                    "SubRouteName": {
+                        "Zh_tw": "946副乙線(車機)",
+                        "En": "946 Sub"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "1",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "173839",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "173839",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "17293",
+                    "RouteName": {
+                        "Zh_tw": "946",
+                        "En": "946"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162628",
+                    "SubRouteName": {
+                        "Zh_tw": "946甲線(車機)",
+                        "En": "946"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "173759",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "173759",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "17293",
+                    "RouteName": {
+                        "Zh_tw": "946",
+                        "En": "946"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162629",
+                    "SubRouteName": {
+                        "Zh_tw": "946乙線(車機)",
+                        "En": "946"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "173759",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "173759",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "17293",
+                    "RouteName": {
+                        "Zh_tw": "946",
+                        "En": "946"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162630",
+                    "SubRouteName": {
+                        "Zh_tw": "946丙線(車機)",
+                        "En": "946"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "173759",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "173759",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                }
+                            }
+                        },
                         "Fares": {
                             "Fare": [
                                 {
