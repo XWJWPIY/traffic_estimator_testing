@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-10-12T01:25:08.909+08:00",
+        "2026-10-13T01:25:09.767+08:00",
         "86400",
         "TPE",
         {
@@ -77913,7 +77913,7 @@
         }
     ],
     "newtaipei": [
-        "2026-10-12T01:25:08.943+08:00",
+        "2026-10-13T01:15:11.081+08:00",
         "86400",
         "NWT",
         {
@@ -97410,8 +97410,8 @@
                     "OperatorID": "16252",
                     "SubRouteID": "157741",
                     "SubRouteName": {
-                        "Zh_tw": "F921去-大坪國小學生專車",
-                        "En": "F921GO-06:40"
+                        "Zh_tw": "F921往06:40經大坪國小(不繞圳頭)至獅頭山公園",
+                        "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
@@ -146301,8 +146301,8 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159461",
                     "SubRouteName": {
-                        "Zh_tw": "F921去-繞圳頭",
-                        "En": "F921GO-08:50、12:10"
+                        "Zh_tw": "F921往12:10、14:00繞圳頭至金山醫院",
+                        "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
@@ -146393,8 +146393,8 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159462",
                     "SubRouteName": {
-                        "Zh_tw": "F921去",
-                        "En": "F921GO-10:50、14:20、17:05"
+                        "Zh_tw": "F921往10:50、17:05不繞圳頭至金山醫院",
+                        "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
@@ -146485,8 +146485,8 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159464",
                     "SubRouteName": {
-                        "Zh_tw": "F921去-大鵬國小學生專車",
-                        "En": "F921GO-15:40"
+                        "Zh_tw": "F921往15:40不繞圳頭經大鵬國小至獅頭山公園",
+                        "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
@@ -146577,8 +146577,8 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159465",
                     "SubRouteName": {
-                        "Zh_tw": "F921返-繞大鵬國小",
-                        "En": "F921BACK-07:30"
+                        "Zh_tw": "F921返07:30獅頭山公園發車不繞下社",
+                        "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
@@ -146669,8 +146669,8 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159466",
                     "SubRouteName": {
-                        "Zh_tw": "F921返-金山發車繞圳頭",
-                        "En": "F921BACK-09:50、13:10"
+                        "Zh_tw": "F921返09:50金山醫院發車繞圳頭",
+                        "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
@@ -146761,8 +146761,8 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159467",
                     "SubRouteName": {
-                        "Zh_tw": "F921返",
-                        "En": "F921BACK-11:30、15:00、17:45"
+                        "Zh_tw": "F921返11:30、15:00、17: 45金山醫院發車不繞圳頭",
+                        "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
@@ -146853,8 +146853,8 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159468",
                     "SubRouteName": {
-                        "Zh_tw": "F921返-獅頭山發車繞圳頭",
-                        "En": "F921BACK-16:10"
+                        "Zh_tw": "F921返16:10獅頭山公園發車繞圳頭(不繞下社)",
+                        "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
@@ -150808,8 +150808,8 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159565",
                     "SubRouteName": {
-                        "Zh_tw": "F921去-繞雙星里活動中心",
-                        "En": "F921GO-08:50"
+                        "Zh_tw": "F921往08:50繞圳頭及豐廩至金山醫院",
+                        "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
@@ -150900,8 +150900,8 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159566",
                     "SubRouteName": {
-                        "Zh_tw": "F921返-繞雙星里活動中心",
-                        "En": "F921BACK-13:10"
+                        "Zh_tw": "F921返13:10金山醫院發車繞豐廩及圳頭(星期三不繞下社)",
+                        "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "1",
