@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-10-13T01:25:09.767+08:00",
+        "2026-10-14T01:05:12.111+08:00",
         "86400",
         "TPE",
         {
@@ -77913,7 +77913,7 @@
         }
     ],
     "newtaipei": [
-        "2026-10-13T01:15:11.081+08:00",
+        "2026-10-14T02:35:53.129+08:00",
         "86400",
         "NWT",
         {
@@ -146761,7 +146761,7 @@
                     "OperatorID": "16252",
                     "SubRouteID": "159467",
                     "SubRouteName": {
-                        "Zh_tw": "F921返11:30、15:00、17: 45金山醫院發車不繞圳頭",
+                        "Zh_tw": "F921返11:30、15:00、17:45金山醫院發車不繞圳頭",
                         "En": "F921"
                     },
                     "FarePricingType": "SectionFare",
@@ -180080,6 +180080,1924 @@
                                     }
                                 }
                             }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18128",
+                    "RouteName": {
+                        "Zh_tw": "967直",
+                        "En": "967Express"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162631",
+                    "SubRouteName": {
+                        "Zh_tw": "967直甲線(車機)",
+                        "En": "967 Express"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "203952",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "203957",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "松山機場",
+                                        "En": "Songshan Airport"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18128",
+                    "RouteName": {
+                        "Zh_tw": "967直",
+                        "En": "967Express"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162632",
+                    "SubRouteName": {
+                        "Zh_tw": "967直乙線(車機)",
+                        "En": "967 Express"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "203952",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "203957",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "松山機場",
+                                        "En": "Songshan Airport"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18128",
+                    "RouteName": {
+                        "Zh_tw": "967直",
+                        "En": "967Express"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162633",
+                    "SubRouteName": {
+                        "Zh_tw": "967直丙線(車機)",
+                        "En": "967 Express"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "203952",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "203957",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "松山機場",
+                                        "En": "Songshan Airport"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162634",
+                    "SubRouteName": {
+                        "Zh_tw": "967甲線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "203862",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "203867",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "松山機場",
+                                        "En": "Songshan Airport"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162635",
+                    "SubRouteName": {
+                        "Zh_tw": "967乙線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "203862",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "203867",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "松山機場",
+                                        "En": "Songshan Airport"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162636",
+                    "SubRouteName": {
+                        "Zh_tw": "967丙線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "203862",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "203867",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "松山機場",
+                                        "En": "Songshan Airport"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162637",
+                    "SubRouteName": {
+                        "Zh_tw": "967丁線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "203862",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "203867",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "松山機場",
+                                        "En": "Songshan Airport"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162638",
+                    "SubRouteName": {
+                        "Zh_tw": "967戊線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "203862",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "203867",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "松山機場",
+                                        "En": "Songshan Airport"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162639",
+                    "SubRouteName": {
+                        "Zh_tw": "967己線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "203862",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "203867",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "松山機場",
+                                        "En": "Songshan Airport"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162640",
+                    "SubRouteName": {
+                        "Zh_tw": "967庚線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": {
+                                "ZoneID": "",
+                                "SectionSequence": "1",
+                                "Direction": "0",
+                                "FareBufferZoneOrigin": {
+                                    "OriginStopID": "203862",
+                                    "OriginStopName": {
+                                        "Zh_tw": "高公局",
+                                        "En": "FreewayBureau"
+                                    }
+                                },
+                                "FareBufferZoneDestination": {
+                                    "DestinationStopID": "203867",
+                                    "DestinationStopName": {
+                                        "Zh_tw": "松山機場",
+                                        "En": "Songshan Airport"
+                                    }
+                                }
+                            }
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162641",
+                    "SubRouteName": {
+                        "Zh_tw": "967辛線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": [
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "1",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203892",
+                                        "OriginStopName": {
+                                            "Zh_tw": "松山機場",
+                                            "En": "Songshan Airport"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "204005",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "行天宮",
+                                            "En": "Xingtian Temple"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "2",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203897",
+                                        "OriginStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "203897",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162642",
+                    "SubRouteName": {
+                        "Zh_tw": "967壬線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": [
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "1",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203892",
+                                        "OriginStopName": {
+                                            "Zh_tw": "松山機場",
+                                            "En": "Songshan Airport"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "204005",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "行天宮",
+                                            "En": "Xingtian Temple"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "2",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203897",
+                                        "OriginStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "203897",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162643",
+                    "SubRouteName": {
+                        "Zh_tw": "967癸線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": [
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "1",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203892",
+                                        "OriginStopName": {
+                                            "Zh_tw": "松山機場",
+                                            "En": "Songshan Airport"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "204005",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "行天宮",
+                                            "En": "Xingtian Temple"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "2",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203897",
+                                        "OriginStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "203897",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162644",
+                    "SubRouteName": {
+                        "Zh_tw": "967子線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": [
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "1",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203892",
+                                        "OriginStopName": {
+                                            "Zh_tw": "松山機場",
+                                            "En": "Songshan Airport"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "204005",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "行天宮",
+                                            "En": "Xingtian Temple"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "2",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203897",
+                                        "OriginStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "203897",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162645",
+                    "SubRouteName": {
+                        "Zh_tw": "967丑線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": [
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "1",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203893",
+                                        "OriginStopName": {
+                                            "Zh_tw": "民權敦化路口",
+                                            "En": "Minquan and Dunhua Intersection"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "204005",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "行天宮",
+                                            "En": "Xingtian Temple"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "2",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203897",
+                                        "OriginStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "203897",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "18119",
+                    "RouteName": {
+                        "Zh_tw": "967",
+                        "En": "967"
+                    },
+                    "OperatorID": "16179",
+                    "SubRouteID": "162646",
+                    "SubRouteName": {
+                        "Zh_tw": "967寅線(車機)",
+                        "En": "967"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": {
+                            "BufferZone": [
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "1",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "204005",
+                                        "OriginStopName": {
+                                            "Zh_tw": "行天宮",
+                                            "En": "Xingtian Temple"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "204005",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "行天宮",
+                                            "En": "Xingtian Temple"
+                                        }
+                                    }
+                                },
+                                {
+                                    "ZoneID": "",
+                                    "SectionSequence": "2",
+                                    "Direction": "1",
+                                    "FareBufferZoneOrigin": {
+                                        "OriginStopID": "203897",
+                                        "OriginStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    },
+                                    "FareBufferZoneDestination": {
+                                        "DestinationStopID": "203897",
+                                        "DestinationStopName": {
+                                            "Zh_tw": "高公局",
+                                            "En": "Taiwan Area National Freeway Bureau"
+                                        }
+                                    }
+                                }
+                            ]
                         },
                         "Fares": {
                             "Fare": [
