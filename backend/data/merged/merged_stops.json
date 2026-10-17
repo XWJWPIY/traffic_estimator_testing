@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/10/17 06:42:55",
+            "UpdateTime": "2026/10/18 06:03:04",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -489787,7 +489787,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/10/17 06:02:56",
+            "UpdateTime": "2026/10/18 05:46:05",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -564619,7 +564619,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 121985,
@@ -572166,7 +572166,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 123486,
@@ -591852,7 +591852,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 148647,
@@ -613085,7 +613085,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 131591,
@@ -617165,7 +617165,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 131856,
@@ -620327,7 +620327,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 132748,
@@ -665849,7 +665849,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 138954,
@@ -687626,7 +687626,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 140557,
@@ -689904,7 +689904,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 140667,
@@ -692726,7 +692726,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 140819,
@@ -734323,7 +734323,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 147860,
@@ -735955,7 +735955,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 147936,
@@ -958862,7 +958862,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 186707,
@@ -989830,7 +989830,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 196335,
@@ -1023478,7 +1023478,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 207570,
