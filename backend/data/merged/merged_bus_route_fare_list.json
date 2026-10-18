@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-10-18T01:05:12.436+08:00",
+        "2026-10-19T01:15:10.745+08:00",
         "86400",
         "TPE",
         {
@@ -77777,6 +77777,834 @@
                     }
                 },
                 {
+                    "RouteID": "11151",
+                    "RouteName": {
+                        "Zh_tw": "230",
+                        "En": "230"
+                    },
+                    "OperatorID": "1100",
+                    "SubRouteID": "162604",
+                    "SubRouteName": {
+                        "Zh_tw": "230改道東昇路",
+                        "En": "230"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "11151",
+                    "RouteName": {
+                        "Zh_tw": "230",
+                        "En": "230"
+                    },
+                    "OperatorID": "1100",
+                    "SubRouteID": "162605",
+                    "SubRouteName": {
+                        "Zh_tw": "230往程改道東昇路",
+                        "En": "230"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "11151",
+                    "RouteName": {
+                        "Zh_tw": "230",
+                        "En": "230"
+                    },
+                    "OperatorID": "1100",
+                    "SubRouteID": "162606",
+                    "SubRouteName": {
+                        "Zh_tw": "230返程改道東昇路",
+                        "En": "230"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "11138",
+                    "RouteName": {
+                        "Zh_tw": "小25",
+                        "En": "S25"
+                    },
+                    "OperatorID": "1100",
+                    "SubRouteID": "162607",
+                    "SubRouteName": {
+                        "Zh_tw": "小25改道東昇路",
+                        "En": "S25(Race)"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "11138",
+                    "RouteName": {
+                        "Zh_tw": "小25",
+                        "En": "S25"
+                    },
+                    "OperatorID": "1100",
+                    "SubRouteID": "162608",
+                    "SubRouteName": {
+                        "Zh_tw": "小25返程改道東昇路",
+                        "En": "S25(Race)"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "11138",
+                    "RouteName": {
+                        "Zh_tw": "小25",
+                        "En": "S25"
+                    },
+                    "OperatorID": "1100",
+                    "SubRouteID": "162609",
+                    "SubRouteName": {
+                        "Zh_tw": "小25經馬場改道東昇路",
+                        "En": "S25(Race)"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "11064",
+                    "RouteName": {
+                        "Zh_tw": "小36",
+                        "En": "S36"
+                    },
+                    "OperatorID": "1100",
+                    "SubRouteID": "162610",
+                    "SubRouteName": {
+                        "Zh_tw": "小36改道東昇路",
+                        "En": "S36-Zhongshan"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "11064",
+                    "RouteName": {
+                        "Zh_tw": "小36",
+                        "En": "S36"
+                    },
+                    "OperatorID": "1100",
+                    "SubRouteID": "162611",
+                    "SubRouteName": {
+                        "Zh_tw": "小36返程改道東昇路",
+                        "En": "S36-Zhongshan"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "RouteID": "11064",
+                    "RouteName": {
+                        "Zh_tw": "小36",
+                        "En": "S36"
+                    },
+                    "OperatorID": "1100",
+                    "SubRouteID": "162612",
+                    "SubRouteName": {
+                        "Zh_tw": "小36經中山改道東昇路",
+                        "En": "S36-Zhongshan"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
                     "RouteID": "19798",
                     "RouteName": {
                         "Zh_tw": "606通勤",
@@ -77913,7 +78741,7 @@
         }
     ],
     "newtaipei": [
-        "2026-10-18T01:25:09.079+08:00",
+        "2026-10-19T01:05:11.924+08:00",
         "86400",
         "NWT",
         {
@@ -178264,98 +179092,6 @@
                     }
                 },
                 {
-                    "RouteID": "19783",
-                    "RouteName": {
-                        "Zh_tw": "988",
-                        "En": "988"
-                    },
-                    "OperatorID": "16185",
-                    "SubRouteID": "162576",
-                    "SubRouteName": {
-                        "Zh_tw": "988新北板橋公車站",
-                        "En": "988 NTPC Banqiao Bus Station"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
                     "RouteID": "19786",
                     "RouteName": {
                         "Zh_tw": "三鶯1線",
@@ -178638,194 +179374,10 @@
                         "En": "988"
                     },
                     "OperatorID": "16185",
-                    "SubRouteID": "162580",
-                    "SubRouteName": {
-                        "Zh_tw": "988直新北板橋公車站",
-                        "En": "988 NTPC Banqiao Bus Station"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "19783",
-                    "RouteName": {
-                        "Zh_tw": "988",
-                        "En": "988"
-                    },
-                    "OperatorID": "16185",
                     "SubRouteID": "162586",
                     "SubRouteName": {
                         "Zh_tw": "988繞新市站",
                         "En": "988 Xinshi Station"
-                    },
-                    "FarePricingType": "SectionFare",
-                    "IsFreeBus": "0",
-                    "SectionFare": {
-                        "BufferZones": "",
-                        "Fares": {
-                            "Fare": [
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "2",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "1",
-                                    "FareClass": "9",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "1",
-                                    "Price": "15"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "2",
-                                    "Price": "12"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "3",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "4",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "5",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "7",
-                                    "Price": "8"
-                                },
-                                {
-                                    "TicketType": "3",
-                                    "FareClass": "9",
-                                    "Price": "12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                {
-                    "RouteID": "19783",
-                    "RouteName": {
-                        "Zh_tw": "988",
-                        "En": "988"
-                    },
-                    "OperatorID": "16185",
-                    "SubRouteID": "162587",
-                    "SubRouteName": {
-                        "Zh_tw": "988繞新北板橋公車站",
-                        "En": "988 NTPC Banqiao Bus Station"
                     },
                     "FarePricingType": "SectionFare",
                     "IsFreeBus": "0",
