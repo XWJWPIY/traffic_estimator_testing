@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/10/20 06:46:02",
+            "UpdateTime": "2026/10/21 06:03:04",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -51109,7 +51109,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14238,
@@ -52469,7 +52469,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 14368,
@@ -54866,7 +54866,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14571,
@@ -57042,7 +57042,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14707,
@@ -111272,7 +111272,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 19181,
@@ -124226,7 +124226,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 20763,
@@ -130482,7 +130482,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 21327,
@@ -182876,7 +182876,7 @@
                 "showLon": "121.4974143",
                 "showLat": "25.12919566",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 27514,
@@ -193688,7 +193688,7 @@
                 "showLon": "121.464352",
                 "showLat": "24.99752483",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 29348,
@@ -210229,7 +210229,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 35497,
@@ -212099,7 +212099,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 35731,
@@ -226600,7 +226600,7 @@
                 "showLon": "121.464352",
                 "showLat": "24.99752483",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 36995,
@@ -264459,7 +264459,7 @@
                 "showLon": "121.49742",
                 "showLat": "25.12909",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 41377,
@@ -267961,7 +267961,7 @@
                 "showLon": "121.49742",
                 "showLat": "25.12909",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 41622,
@@ -269304,7 +269304,7 @@
                 "showLon": "121.49742",
                 "showLat": "25.12909",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 41841,
@@ -271888,7 +271888,7 @@
                 "showLon": "121.464352",
                 "showLat": "24.99752483",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 42399,
@@ -292271,7 +292271,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 44778,
@@ -310597,7 +310597,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 54449,
@@ -324299,7 +324299,7 @@
                 "showLon": "121.49742",
                 "showLat": "25.12909",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 55424,
@@ -345532,7 +345532,7 @@
                 "showLon": "121.464352",
                 "showLat": "24.99752483",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 58735,
@@ -444625,7 +444625,7 @@
                 "showLon": "121.49742",
                 "showLat": "25.12909",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 208406,
@@ -461642,7 +461642,7 @@
                 "showLon": "121.49742",
                 "showLat": "25.12909",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 217162,
@@ -477911,7 +477911,7 @@
                 "showLon": "121.49742",
                 "showLat": "25.12909",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 220865,
@@ -490059,7 +490059,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/10/20 06:46:05",
+            "UpdateTime": "2026/10/21 07:02:57",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -504016,7 +504016,7 @@
                 "showLon": "121.464352",
                 "showLat": "24.99752483",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 15092,
@@ -506974,7 +506974,7 @@
                 "showLon": "121.464352",
                 "showLat": "24.99752483",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 15964,
@@ -513783,13 +513783,13 @@
                 "nameEn": "MRT Yongning Station",
                 "seqNo": 127,
                 "pgp": "0",
-                "longitude": "121.436598",
-                "latitude": "24.967342",
+                "longitude": "121.436241",
+                "latitude": "24.967055",
                 "goBack": "1",
-                "address": "中央路三段70號同向(向南)",
-                "stopLocationId": 10063,
-                "showLon": "121.436598",
-                "showLat": "24.967342",
+                "address": "中央路三段84號同向(向南)",
+                "stopLocationId": 1165605486,
+                "showLon": "121.436241",
+                "showLat": "24.967055",
                 "vector": "999",
                 "bearing": "SW"
             },
@@ -516622,13 +516622,13 @@
                 "nameEn": "MRT Yongning Station",
                 "seqNo": 120,
                 "pgp": "0",
-                "longitude": "121.436598",
-                "latitude": "24.967342",
+                "longitude": "121.436241",
+                "latitude": "24.967055",
                 "goBack": "1",
-                "address": "中央路三段70號同向(向南)",
-                "stopLocationId": 10063,
-                "showLon": "121.436598",
-                "showLat": "24.967342",
+                "address": "中央路三段84號同向(向南)",
+                "stopLocationId": 1165605486,
+                "showLon": "121.436241",
+                "showLat": "24.967055",
                 "vector": "999",
                 "bearing": "SW"
             },
@@ -518925,7 +518925,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 21058,
@@ -521050,7 +521050,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 14814,
@@ -542334,7 +542334,7 @@
                 "showLon": "121.49742",
                 "showLat": "25.12909",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 27924,
@@ -544680,7 +544680,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 19533,
@@ -550535,13 +550535,13 @@
                 "nameEn": "MRT Yongning Station",
                 "seqNo": 25,
                 "pgp": "0",
-                "longitude": "121.436241",
-                "latitude": "24.967055",
+                "longitude": "121.436598",
+                "latitude": "24.967342",
                 "goBack": "1",
-                "address": "中央路三段84號同向(向南)",
-                "stopLocationId": 1165605486,
-                "showLon": "121.436241",
-                "showLat": "24.967055",
+                "address": "中央路三段70號同向(向南)",
+                "stopLocationId": 10063,
+                "showLon": "121.436598",
+                "showLat": "24.967342",
                 "vector": "999",
                 "bearing": "SW"
             },
@@ -553442,13 +553442,13 @@
                 "nameEn": "MRT Yongning Station",
                 "seqNo": 24,
                 "pgp": "0",
-                "longitude": "121.436241",
-                "latitude": "24.967055",
+                "longitude": "121.436598",
+                "latitude": "24.967342",
                 "goBack": "1",
-                "address": "中央路三段84號同向(向南)",
-                "stopLocationId": 1165605486,
-                "showLon": "121.436241",
-                "showLat": "24.967055",
+                "address": "中央路三段70號同向(向南)",
+                "stopLocationId": 10063,
+                "showLon": "121.436598",
+                "showLat": "24.967342",
                 "vector": "999",
                 "bearing": "SW"
             },
@@ -556969,7 +556969,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 113386,
@@ -559587,7 +559587,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 113902,
@@ -564942,7 +564942,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 121985,
@@ -572489,7 +572489,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 123486,
@@ -581304,13 +581304,13 @@
                 "nameEn": "MRT Yongning Station",
                 "seqNo": 123,
                 "pgp": "0",
-                "longitude": "121.436598",
-                "latitude": "24.967342",
+                "longitude": "121.436241",
+                "latitude": "24.967055",
                 "goBack": "1",
-                "address": "中央路三段70號同向(向南)",
-                "stopLocationId": 10063,
-                "showLon": "121.436598",
-                "showLat": "24.967342",
+                "address": "中央路三段84號同向(向南)",
+                "stopLocationId": 1165605486,
+                "showLon": "121.436241",
+                "showLat": "24.967055",
                 "vector": "999",
                 "bearing": "SW"
             },
@@ -592175,7 +592175,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 148647,
@@ -605809,7 +605809,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 130720,
@@ -613408,7 +613408,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 131591,
@@ -617488,7 +617488,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 131856,
@@ -620650,7 +620650,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 132748,
@@ -644841,7 +644841,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 135004,
@@ -666172,7 +666172,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 138954,
@@ -676678,7 +676678,7 @@
                 "showLon": "121.464352",
                 "showLat": "24.99752483",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 139818,
@@ -678336,13 +678336,13 @@
                 "nameEn": "MRT Yongning Station",
                 "seqNo": 37,
                 "pgp": "0",
-                "longitude": "121.436598",
-                "latitude": "24.967342",
+                "longitude": "121.436241",
+                "latitude": "24.967055",
                 "goBack": "1",
-                "address": "中央路三段70號同向(向南)",
-                "stopLocationId": 10063,
-                "showLon": "121.436598",
-                "showLat": "24.967342",
+                "address": "中央路三段84號同向(向南)",
+                "stopLocationId": 1165605486,
+                "showLon": "121.436241",
+                "showLat": "24.967055",
                 "vector": "999",
                 "bearing": "SW"
             },
@@ -687949,7 +687949,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140557,
@@ -690227,7 +690227,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140667,
@@ -693049,7 +693049,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140819,
@@ -714792,7 +714792,7 @@
                 "showLon": "121.49742",
                 "showLat": "25.12909",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 143564,
@@ -734663,7 +734663,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 147860,
@@ -736295,7 +736295,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 147936,
@@ -748297,7 +748297,7 @@
                 "showLon": "121.464352",
                 "showLat": "24.99752483",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 149270,
@@ -763104,7 +763104,7 @@
                 "showLon": "121.49742",
                 "showLat": "25.12909",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 150401,
@@ -914303,13 +914303,13 @@
                 "nameEn": "MRT Yongning Station",
                 "seqNo": 26,
                 "pgp": "0",
-                "longitude": "121.436241",
-                "latitude": "24.967055",
+                "longitude": "121.436598",
+                "latitude": "24.967342",
                 "goBack": "1",
-                "address": "中央路三段84號同向(向南)",
-                "stopLocationId": 1165605486,
-                "showLon": "121.436241",
-                "showLat": "24.967055",
+                "address": "中央路三段70號同向(向南)",
+                "stopLocationId": 10063,
+                "showLon": "121.436598",
+                "showLat": "24.967342",
                 "vector": "999",
                 "bearing": "SW"
             },
@@ -917873,13 +917873,13 @@
                 "nameEn": "MRT Yongning Station",
                 "seqNo": 117,
                 "pgp": "0",
-                "longitude": "121.436598",
-                "latitude": "24.967342",
+                "longitude": "121.436241",
+                "latitude": "24.967055",
                 "goBack": "1",
-                "address": "中央路三段70號同向(向南)",
-                "stopLocationId": 10063,
-                "showLon": "121.436598",
-                "showLat": "24.967342",
+                "address": "中央路三段84號同向(向南)",
+                "stopLocationId": 1165605486,
+                "showLon": "121.436241",
+                "showLat": "24.967055",
                 "vector": "999",
                 "bearing": "SW"
             },
@@ -919598,7 +919598,7 @@
                 "showLon": "121.464352",
                 "showLat": "24.99752483",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 179227,
@@ -920448,7 +920448,7 @@
                 "showLon": "121.464352",
                 "showLat": "24.99752483",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 179274,
@@ -959219,7 +959219,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 186707,
@@ -990187,7 +990187,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 196335,
@@ -1022569,13 +1022569,13 @@
                 "nameEn": "MRT Yongning Station",
                 "seqNo": 20,
                 "pgp": "0",
-                "longitude": "121.436598",
-                "latitude": "24.967342",
+                "longitude": "121.436241",
+                "latitude": "24.967055",
                 "goBack": "0",
-                "address": "中央路三段70號同向(向南)",
-                "stopLocationId": 10063,
-                "showLon": "121.436598",
-                "showLat": "24.967342",
+                "address": "中央路三段84號同向(向南)",
+                "stopLocationId": 1165605486,
+                "showLon": "121.436241",
+                "showLat": "24.967055",
                 "vector": "999",
                 "bearing": "SW"
             },
@@ -1023835,7 +1023835,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 207570,
@@ -1038242,7 +1038242,7 @@
                 "showLon": "121.47982",
                 "showLat": "24.94681",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NE"
             },
             {
                 "Id": 214390,
@@ -1047396,13 +1047396,13 @@
                 "nameEn": "MRT Yongning Station",
                 "seqNo": 26,
                 "pgp": "0",
-                "longitude": "121.436598",
-                "latitude": "24.967342",
+                "longitude": "121.436241",
+                "latitude": "24.967055",
                 "goBack": "1",
-                "address": "中央路三段70號同向(向南)",
-                "stopLocationId": 10063,
-                "showLon": "121.436598",
-                "showLat": "24.967342",
+                "address": "中央路三段84號同向(向南)",
+                "stopLocationId": 1165605486,
+                "showLon": "121.436241",
+                "showLat": "24.967055",
                 "vector": "999",
                 "bearing": "SW"
             },
