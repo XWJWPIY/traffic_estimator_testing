@@ -4,7 +4,7 @@
             "name": "台北市",
             "CenterName": "台北市公車動態資訊中心"
         },
-        "UpdateTime": "2026/10/21 07:03:04",
+        "UpdateTime": "2026/10/22 06:46:02",
         "CoordinateSystem": "WGS84"
     },
     "BusInfo": [
@@ -5659,7 +5659,7 @@
             "destinationZh": "捷運公館站",
             "destinationEn": "MRT Gongguan Sta.",
             "realSequence": "6",
-            "distance": "39.8",
+            "distance": "42.6",
             "goFirstBusTime": "0600",
             "backFirstBusTime": "0600",
             "goLastBusTime": "1750",
@@ -5682,7 +5682,7 @@
             "ticketPriceDescriptionEn": "2 segments",
             "ttiaPathId": "0675000",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100067500",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 15513,
@@ -5746,8 +5746,8 @@
             "departureEn": "Xizhi",
             "destinationZh": "公館",
             "destinationEn": "Gongguan",
-            "realSequence": "66",
-            "distance": "40.1",
+            "realSequence": "40",
+            "distance": "39.8",
             "goFirstBusTime": "0530",
             "backFirstBusTime": "0530",
             "goLastBusTime": "2200",
@@ -6010,8 +6010,8 @@
             "departureEn": "Xizhi",
             "destinationZh": "公館",
             "destinationEn": "Gongguan",
-            "realSequence": "66",
-            "distance": "40.1",
+            "realSequence": "40",
+            "distance": "39.8",
             "goFirstBusTime": "0530",
             "backFirstBusTime": "0530",
             "goLastBusTime": "2200",
@@ -6054,8 +6054,8 @@
             "departureEn": "Xizhi",
             "destinationZh": "公館",
             "destinationEn": "Gongguan",
-            "realSequence": "66",
-            "distance": "40.1",
+            "realSequence": "40",
+            "distance": "39.8",
             "goFirstBusTime": "0530",
             "backFirstBusTime": "0530",
             "goLastBusTime": "2200",
@@ -20246,7 +20246,7 @@
             "ticketPriceDescriptionEn": "1 segment",
             "ttiaPathId": "0530000",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100053000",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 15161,
@@ -20510,7 +20510,7 @@
             "ticketPriceDescriptionEn": "1 segment",
             "ttiaPathId": "05300A0",
             "roadMapUrl": "https://ebus.gov.taipei/MapOverview?nid=0100053000",
-            "genus": "02;01"
+            "genus": "01;02"
         },
         {
             "Id": 17740,

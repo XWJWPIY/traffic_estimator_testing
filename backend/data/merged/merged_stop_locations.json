@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/10/21 07:03:04",
+            "UpdateTime": "2026/10/22 06:46:02",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -53776,7 +53776,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/10/21 07:02:57",
+            "UpdateTime": "2026/10/22 07:02:56",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -57294,11 +57294,11 @@
                 "id": 1000998,
                 "nid": "2384400340",
                 "name": "育英街口(天主堂)",
-                "address": "中山路一段143號(向南)",
+                "address": "中山路一段160號(向南)",
                 "lon": "121.422148",
                 "lat": "24.989548",
                 "bearing": "SW",
-                "version": 5
+                "version": 6
             },
             {
                 "id": 1001171,
