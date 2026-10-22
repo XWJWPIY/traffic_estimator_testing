@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/10/22 06:03:04",
+            "UpdateTime": "2026/10/23 06:42:55",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -51109,7 +51109,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14238,
@@ -54866,7 +54866,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14571,
@@ -57042,7 +57042,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14707,
@@ -62975,7 +62975,7 @@
                 "showLon": "121.454829",
                 "showLat": "25.020767",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 15392,
@@ -64658,7 +64658,7 @@
                 "showLon": "121.454829",
                 "showLat": "25.020767",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 15497,
@@ -212099,7 +212099,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 35731,
@@ -215423,13 +215423,13 @@
                 "nameEn": "Zhongyi Temple",
                 "seqNo": 71,
                 "pgp": null,
-                "longitude": "121.461196",
-                "latitude": "25.081292",
+                "longitude": "121.461605",
+                "latitude": "25.080918",
                 "goBack": "1",
-                "address": "長安街119號(向西)",
+                "address": "長安街103號對面(向西)",
                 "stopLocationId": 15041,
-                "showLon": "121.461196",
-                "showLat": "25.081292",
+                "showLon": "121.461605",
+                "showLat": "25.080918",
                 "vector": "999",
                 "bearing": "NW"
             },
@@ -292271,7 +292271,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 44778,
@@ -383298,13 +383298,13 @@
                 "nameEn": "Zhongyi Temple",
                 "seqNo": 62,
                 "pgp": "0",
-                "longitude": "121.461196",
-                "latitude": "25.081292",
+                "longitude": "121.461605",
+                "latitude": "25.080918",
                 "goBack": "1",
-                "address": "長安街119號(向西)",
+                "address": "長安街103號對面(向西)",
                 "stopLocationId": 15041,
-                "showLon": "121.461196",
-                "showLat": "25.081292",
+                "showLon": "121.461605",
+                "showLat": "25.080918",
                 "vector": "999",
                 "bearing": "NW"
             },
@@ -451272,7 +451272,7 @@
                 "showLon": "121.454829",
                 "showLat": "25.020767",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 213125,
@@ -474766,7 +474766,7 @@
                 "showLon": "121.454829",
                 "showLat": "25.020767",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 219913,
@@ -490059,7 +490059,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/10/22 06:02:56",
+            "UpdateTime": "2026/10/23 07:02:56",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -546146,7 +546146,7 @@
                 "Id": 16110,
                 "routeId": 16113,
                 "nameZh": "聯合醫院板橋院區(龍泉街)",
-                "nameEn": "County Hospital",
+                "nameEn": "New Taipei City Hospital Banqiao Branch(Longquan St.)",
                 "seqNo": 4,
                 "pgp": "0",
                 "longitude": "121.458477",
@@ -567617,7 +567617,7 @@
                 "Id": 122378,
                 "routeId": 16405,
                 "nameZh": "聯合醫院板橋院區(龍泉街)",
-                "nameEn": "County Hospital",
+                "nameEn": "New Taipei City Hospital Banqiao Branch(Longquan St.)",
                 "seqNo": 6,
                 "pgp": "0",
                 "longitude": "121.458477",
@@ -574946,13 +574946,13 @@
                 "nameEn": "Zhongyi Temple",
                 "seqNo": 90,
                 "pgp": "0",
-                "longitude": "121.461196",
-                "latitude": "25.081292",
+                "longitude": "121.461605",
+                "latitude": "25.080918",
                 "goBack": "1",
-                "address": "長安街119號(向西)",
+                "address": "長安街103號對面(向西)",
                 "stopLocationId": 15041,
-                "showLon": "121.461196",
-                "showLat": "25.081292",
+                "showLon": "121.461605",
+                "showLat": "25.080918",
                 "vector": "",
                 "bearing": "NW"
             },
@@ -668739,7 +668739,7 @@
                 "showLon": "121.454829",
                 "showLat": "25.020767",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 139093,
@@ -668796,7 +668796,7 @@
                 "Id": 139096,
                 "routeId": 16591,
                 "nameZh": "聯合醫院板橋院區(龍泉街)",
-                "nameEn": "County Hospital",
+                "nameEn": "New Taipei City Hospital Banqiao Branch(Longquan St.)",
                 "seqNo": 95,
                 "pgp": "-1",
                 "longitude": "121.458477",
@@ -732113,7 +732113,7 @@
                 "showLon": "121.454829",
                 "showLat": "25.020767",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 147712,
@@ -741174,7 +741174,7 @@
                 "showLon": "121.6820758",
                 "showLat": "25.17648",
                 "vector": "999",
-                "bearing": "W"
+                "bearing": "SW"
             },
             {
                 "Id": 225188,
@@ -760418,7 +760418,7 @@
                 "showLon": "121.454829",
                 "showLat": "25.020767",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 150272,
@@ -782212,7 +782212,7 @@
                 "showLon": "121.6820758",
                 "showLat": "25.17648",
                 "vector": "",
-                "bearing": "W"
+                "bearing": "SW"
             },
             {
                 "Id": 155640,
@@ -782705,7 +782705,7 @@
                 "showLon": "121.6820758",
                 "showLat": "25.17648",
                 "vector": "",
-                "bearing": "W"
+                "bearing": "SW"
             },
             {
                 "Id": 155669,
@@ -842086,7 +842086,7 @@
                 "showLon": "121.365651",
                 "showLat": "24.925327",
                 "vector": "999",
-                "bearing": "S"
+                "bearing": "W"
             },
             {
                 "Id": 160312,
@@ -842341,7 +842341,7 @@
                 "showLon": "121.365624",
                 "showLat": "24.925202",
                 "vector": "999",
-                "bearing": "S"
+                "bearing": "E"
             },
             {
                 "Id": 160328,
@@ -842579,7 +842579,7 @@
                 "showLon": "121.365651",
                 "showLat": "24.925327",
                 "vector": "999",
-                "bearing": "S"
+                "bearing": "W"
             },
             {
                 "Id": 160344,
@@ -842936,7 +842936,7 @@
                 "showLon": "121.365624",
                 "showLat": "24.925202",
                 "vector": "999",
-                "bearing": "S"
+                "bearing": "E"
             },
             {
                 "Id": 160367,
@@ -867484,7 +867484,7 @@
                 "showLon": "121.610511",
                 "showLat": "25.143557",
                 "vector": "999",
-                "bearing": "E"
+                "bearing": "N"
             },
             {
                 "Id": 162189,
@@ -868487,7 +868487,7 @@
                 "showLon": "121.610511",
                 "showLat": "25.143557",
                 "vector": "999",
-                "bearing": "E"
+                "bearing": "N"
             },
             {
                 "Id": 162246,
@@ -869031,7 +869031,7 @@
                 "showLon": "121.599137",
                 "showLat": "25.199939",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "SE"
             },
             {
                 "Id": 193075,
@@ -869286,7 +869286,7 @@
                 "showLon": "121.599137",
                 "showLat": "25.199939",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "SE"
             },
             {
                 "Id": 194366,
@@ -977137,7 +977137,7 @@
                 "showLon": "121.599137",
                 "showLat": "25.199939",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "SE"
             },
             {
                 "Id": 194392,
@@ -979483,7 +979483,7 @@
                 "showLon": "121.599137",
                 "showLat": "25.199939",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "SE"
             },
             {
                 "Id": 194463,
@@ -981942,7 +981942,7 @@
                 "showLon": "121.6820758",
                 "showLat": "25.17648",
                 "vector": "999",
-                "bearing": "W"
+                "bearing": "SW"
             },
             {
                 "Id": 193965,
@@ -983064,7 +983064,7 @@
                 "showLon": "121.6820758",
                 "showLat": "25.17648",
                 "vector": "999",
-                "bearing": "W"
+                "bearing": "SW"
             },
             {
                 "Id": 220971,
@@ -1004637,13 +1004637,13 @@
                 "nameEn": "Zhongyi Temple",
                 "seqNo": 11,
                 "pgp": "0",
-                "longitude": "121.461196",
-                "latitude": "25.081292",
+                "longitude": "121.461605",
+                "latitude": "25.080918",
                 "goBack": "0",
-                "address": "長安街119號(向西)",
+                "address": "長安街103號對面(向西)",
                 "stopLocationId": 15041,
-                "showLon": "121.461196",
-                "showLat": "25.081292",
+                "showLon": "121.461605",
+                "showLat": "25.080918",
                 "vector": null,
                 "bearing": "NW"
             },
@@ -1005079,13 +1005079,13 @@
                 "nameEn": "Zhongyi Temple",
                 "seqNo": 5,
                 "pgp": "0",
-                "longitude": "121.461196",
-                "latitude": "25.081292",
+                "longitude": "121.461605",
+                "latitude": "25.080918",
                 "goBack": "0",
-                "address": "長安街119號(向西)",
+                "address": "長安街103號對面(向西)",
                 "stopLocationId": 15041,
-                "showLon": "121.461196",
-                "showLat": "25.081292",
+                "showLon": "121.461605",
+                "showLat": "25.080918",
                 "vector": null,
                 "bearing": "NW"
             },
@@ -1008589,7 +1008589,7 @@
                 "showLon": "121.6820758",
                 "showLat": "25.17648",
                 "vector": "999",
-                "bearing": "W"
+                "bearing": "SW"
             },
             {
                 "Id": 202625,
