@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/10/29 08:03:04",
+            "UpdateTime": "2026/10/30 08:03:04",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -51109,7 +51109,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14238,
@@ -54866,7 +54866,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14571,
@@ -57042,7 +57042,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14707,
@@ -212099,7 +212099,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 35731,
@@ -292271,7 +292271,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 44778,
@@ -490059,7 +490059,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/10/29 08:02:56",
+            "UpdateTime": "2026/10/30 08:02:56",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -564942,7 +564942,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 121985,
@@ -572489,7 +572489,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 123486,
@@ -592175,7 +592175,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 148647,
@@ -613408,7 +613408,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 131591,
@@ -617488,7 +617488,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 131856,
@@ -620650,7 +620650,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 132748,
@@ -666172,7 +666172,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 138954,
@@ -687949,7 +687949,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140557,
@@ -690227,7 +690227,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140667,
@@ -693049,7 +693049,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140819,
@@ -734663,7 +734663,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 147860,
@@ -736295,7 +736295,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 147936,
@@ -843565,7 +843565,7 @@
                 "showLon": "121.4267020",
                 "showLat": "24.925700",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "S"
             },
             {
                 "Id": 160399,
@@ -844058,7 +844058,7 @@
                 "showLon": "121.4267020",
                 "showLat": "24.925700",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "S"
             },
             {
                 "Id": 160431,
@@ -847135,7 +847135,7 @@
                 "showLon": "121.4267020",
                 "showLat": "24.925700",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "S"
             },
             {
                 "Id": 160687,
@@ -847288,7 +847288,7 @@
                 "showLon": "121.4423",
                 "showLat": "24.9263",
                 "vector": "999",
-                "bearing": "SW"
+                "bearing": "E"
             },
             {
                 "Id": 160697,
@@ -847356,7 +847356,7 @@
                 "showLon": "121.457203",
                 "showLat": "24.922115",
                 "vector": "999",
-                "bearing": "E"
+                "bearing": "SE"
             },
             {
                 "Id": 160701,
@@ -847526,7 +847526,7 @@
                 "showLon": "121.457203",
                 "showLat": "24.922115",
                 "vector": "999",
-                "bearing": "E"
+                "bearing": "SE"
             },
             {
                 "Id": 194481,
@@ -847679,7 +847679,7 @@
                 "showLon": "121.4423",
                 "showLat": "24.9263",
                 "vector": "999",
-                "bearing": "SW"
+                "bearing": "E"
             },
             {
                 "Id": 194490,
@@ -847730,7 +847730,7 @@
                 "showLon": "121.4267020",
                 "showLat": "24.925700",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "S"
             },
             {
                 "Id": 194493,
@@ -959219,7 +959219,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 186707,
@@ -990187,7 +990187,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 196335,
@@ -1021336,7 +1021336,7 @@
                 "showLon": "121.4267020",
                 "showLat": "24.925700",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "S"
             },
             {
                 "Id": 207286,
@@ -1021880,7 +1021880,7 @@
                 "showLon": "121.4267020",
                 "showLat": "24.925700",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "S"
             },
             {
                 "Id": 207318,
@@ -1023835,7 +1023835,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 207570,
@@ -1056381,6 +1056381,227 @@
                 "showLat": "24.966986",
                 "vector": "999",
                 "bearing": "NE"
+            },
+            {
+                "Id": 226047,
+                "routeId": 19806,
+                "nameZh": "濱海中山路口",
+                "nameEn": "Binhai & Zhongshan Intersection",
+                "seqNo": 0,
+                "pgp": "0",
+                "longitude": "121.444191",
+                "latitude": "25.188855",
+                "goBack": "0",
+                "address": "淡水區濱海路(向東)",
+                "stopLocationId": 1165610636,
+                "showLon": "121.444191",
+                "showLat": "25.188855",
+                "vector": "999",
+                "bearing": "E"
+            },
+            {
+                "Id": 226048,
+                "routeId": 19806,
+                "nameZh": "淡水商工",
+                "nameEn": "National Tamsui Vocational High School",
+                "seqNo": 1,
+                "pgp": "0",
+                "longitude": "121.453734",
+                "latitude": "25.186897",
+                "goBack": "0",
+                "address": "商工路307號前 (向西)",
+                "stopLocationId": 74747,
+                "showLon": "121.453734",
+                "showLat": "25.186897",
+                "vector": "999",
+                "bearing": "NW"
+            },
+            {
+                "Id": 226049,
+                "routeId": 19807,
+                "nameZh": "新北市政府(新府路)",
+                "nameEn": "New Taipei City Hall(Xinfu Rd.)",
+                "seqNo": 0,
+                "pgp": "0",
+                "longitude": "121.464544",
+                "latitude": "25.012043",
+                "goBack": "0",
+                "address": "新北市政府西側門(新府路)(向北)",
+                "stopLocationId": 2699,
+                "showLon": "121.464544",
+                "showLat": "25.012043",
+                "vector": "999",
+                "bearing": "NW"
+            },
+            {
+                "Id": 226050,
+                "routeId": 19807,
+                "nameZh": "新北板橋公車站(新府路)",
+                "nameEn": "NTPC Banqiao Bus Station(Xinfu Rd.)",
+                "seqNo": 1,
+                "pgp": "0",
+                "longitude": "121.4628307",
+                "latitude": "25.013373",
+                "goBack": "0",
+                "address": "板橋火車站西側門(向西)",
+                "stopLocationId": 70667,
+                "showLon": "121.4628307",
+                "showLat": "25.013373",
+                "vector": "999",
+                "bearing": "NW"
+            },
+            {
+                "Id": 226051,
+                "routeId": 19807,
+                "nameZh": "捷運新埔站",
+                "nameEn": "MRT Xinpu Sta.",
+                "seqNo": 2,
+                "pgp": "0",
+                "longitude": "121.467453",
+                "latitude": "25.024906",
+                "goBack": "0",
+                "address": "新北市板橋區民生路三段38號(向北)",
+                "stopLocationId": 70638,
+                "showLon": "121.467453",
+                "showLat": "25.024906",
+                "vector": "999",
+                "bearing": "NW"
+            },
+            {
+                "Id": 226052,
+                "routeId": 19807,
+                "nameZh": "捷運頭前庄站",
+                "nameEn": "MRT Touqianzhuang Station",
+                "seqNo": 3,
+                "pgp": "0",
+                "longitude": "121.4623098",
+                "latitude": "25.03991225",
+                "goBack": "0",
+                "address": "中正路53號(向北)",
+                "stopLocationId": 1000983,
+                "showLon": "121.4623098",
+                "showLat": "25.03991225",
+                "vector": "999",
+                "bearing": "NE"
+            },
+            {
+                "Id": 226053,
+                "routeId": 19807,
+                "nameZh": "捷運先嗇宮站",
+                "nameEn": "MRT Xianse Temple Sta.",
+                "seqNo": 4,
+                "pgp": "0",
+                "longitude": "121.471374",
+                "latitude": "25.046158",
+                "goBack": "0",
+                "address": "重新路五段捷運站B出口(向北)",
+                "stopLocationId": 4687,
+                "showLon": "121.471374",
+                "showLat": "25.046158",
+                "vector": "999",
+                "bearing": "E"
+            },
+            {
+                "Id": 226054,
+                "routeId": 19807,
+                "nameZh": "捷運三重站",
+                "nameEn": "MRT Sanchong Station",
+                "seqNo": 5,
+                "pgp": "0",
+                "longitude": "121.48504",
+                "latitude": "25.05605",
+                "goBack": "0",
+                "address": "新北市三重區捷運路捷運站3號出口(向西)",
+                "stopLocationId": 73558,
+                "showLon": "121.48504",
+                "showLat": "25.05605",
+                "vector": "999",
+                "bearing": "W"
+            },
+            {
+                "Id": 226055,
+                "routeId": 19807,
+                "nameZh": "捷運先嗇宮站",
+                "nameEn": "MRT Xianse Temple Sta.",
+                "seqNo": 6,
+                "pgp": "0",
+                "longitude": "121.470480",
+                "latitude": "25.046125",
+                "goBack": "1",
+                "address": "重新路五段545-571號間(向南)",
+                "stopLocationId": 4688,
+                "showLon": "121.470480",
+                "showLat": "25.046125",
+                "vector": "999",
+                "bearing": "W"
+            },
+            {
+                "Id": 226056,
+                "routeId": 19807,
+                "nameZh": "捷運頭前庄站",
+                "nameEn": "MRT Touqianzhuang Station",
+                "seqNo": 7,
+                "pgp": "0",
+                "longitude": "121.462079",
+                "latitude": "25.040058",
+                "goBack": "1",
+                "address": "中正路54號(向南)",
+                "stopLocationId": 1000604,
+                "showLon": "121.462079",
+                "showLat": "25.040058",
+                "vector": "999",
+                "bearing": "SW"
+            },
+            {
+                "Id": 226057,
+                "routeId": 19807,
+                "nameZh": "捷運新埔站",
+                "nameEn": "MRT Xinpu Sta.",
+                "seqNo": 8,
+                "pgp": "0",
+                "longitude": "121.467161",
+                "latitude": "25.023861",
+                "goBack": "1",
+                "address": "新北市板橋區民生路三段25號(向南)",
+                "stopLocationId": 70639,
+                "showLon": "121.467161",
+                "showLat": "25.023861",
+                "vector": "999",
+                "bearing": "SE"
+            },
+            {
+                "Id": 226058,
+                "routeId": 19807,
+                "nameZh": "新北板橋公車站(新府路)",
+                "nameEn": "NTPC Banqiao Bus Station(Xinfu Rd.)",
+                "seqNo": 9,
+                "pgp": "0",
+                "longitude": "121.462674",
+                "latitude": "25.013241",
+                "goBack": "1",
+                "address": "板橋火車站西側門對面(向東)",
+                "stopLocationId": 70666,
+                "showLon": "121.462674",
+                "showLat": "25.013241",
+                "vector": "999",
+                "bearing": "SE"
+            },
+            {
+                "Id": 226059,
+                "routeId": 19807,
+                "nameZh": "新北市政府(新府路)",
+                "nameEn": "New Taipei City Hall(Xinfu Rd.)",
+                "seqNo": 10,
+                "pgp": "0",
+                "longitude": "121.4643742",
+                "latitude": "25.0118568",
+                "goBack": "1",
+                "address": "新北市政府西側門對面(新府路)(向南)",
+                "stopLocationId": 2700,
+                "showLon": "121.4643742",
+                "showLat": "25.0118568",
+                "vector": "999",
+                "bearing": "SE"
             }
         ]
     }
