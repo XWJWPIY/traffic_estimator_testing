@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/02 07:42:55",
+            "UpdateTime": "2026/11/03 09:46:02",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -51109,7 +51109,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14238,
@@ -54866,7 +54866,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14571,
@@ -57042,7 +57042,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 14707,
@@ -212099,7 +212099,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 35731,
@@ -292271,7 +292271,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 44778,
@@ -490059,7 +490059,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/02 07:02:57",
+            "UpdateTime": "2026/11/03 09:42:55",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -564942,7 +564942,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 121985,
@@ -572489,7 +572489,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 123486,
@@ -592158,7 +592158,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 148647,
@@ -613391,7 +613391,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 131591,
@@ -617386,7 +617386,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 131856,
@@ -620548,7 +620548,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 132748,
@@ -666070,7 +666070,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 138954,
@@ -687847,7 +687847,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 140557,
@@ -690125,7 +690125,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 140667,
@@ -692947,7 +692947,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 140819,
@@ -734561,7 +734561,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 147860,
@@ -736193,7 +736193,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 147936,
@@ -823471,7 +823471,7 @@
                 "showLon": "121.349036",
                 "showLat": "25.126555",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "SE"
             },
             {
                 "Id": 158773,
@@ -823497,15 +823497,15 @@
                 "nameEn": "Wucuo",
                 "seqNo": 57,
                 "pgp": "0",
-                "longitude": "121.364742",
-                "latitude": "25.126089",
+                "longitude": "121.364723",
+                "latitude": "25.125993",
                 "goBack": "1",
-                "address": "吳厝(向西)",
+                "address": "吳厝(向東)",
                 "stopLocationId": 74250,
-                "showLon": "121.364742",
-                "showLat": "25.126089",
+                "showLon": "121.364723",
+                "showLat": "25.125993",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "E"
             },
             {
                 "Id": 158775,
@@ -824486,12 +824486,12 @@
                 "longitude": "121.364742",
                 "latitude": "25.126089",
                 "goBack": "0",
-                "address": "吳厝(向西)",
-                "stopLocationId": 74250,
+                "address": "新北市林口區吳厝(向西)",
+                "stopLocationId": 1165603979,
                 "showLon": "121.364742",
                 "showLat": "25.126089",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "W"
             },
             {
                 "Id": 158854,
@@ -959117,7 +959117,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 186707,
@@ -990085,7 +990085,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 196335,
@@ -1023733,7 +1023733,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 207570,
