@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/10 10:03:04",
+            "UpdateTime": "2026/11/11 08:42:55",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -51109,7 +51109,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 14238,
@@ -54866,7 +54866,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 14571,
@@ -57042,7 +57042,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 14707,
@@ -212099,7 +212099,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 35731,
@@ -292271,7 +292271,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 44778,
@@ -403541,8 +403541,8 @@
             {
                 "Id": 184094,
                 "routeId": 15724,
-                "nameZh": "明山宮一",
-                "nameEn": "Mingshan Temple 1",
+                "nameZh": "永和里",
+                "nameEn": "Yonghe Village",
                 "seqNo": 9,
                 "pgp": null,
                 "longitude": "121.528537",
@@ -436538,8 +436538,8 @@
             {
                 "Id": 202958,
                 "routeId": 15724,
-                "nameZh": "明山宮一",
-                "nameEn": "Mingshan Temple",
+                "nameZh": "永和里",
+                "nameEn": "Yonghe Village",
                 "seqNo": 66,
                 "pgp": "0",
                 "longitude": "121.527864",
@@ -490059,7 +490059,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/10 10:02:56",
+            "UpdateTime": "2026/11/11 07:46:05",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -564942,7 +564942,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 121985,
@@ -572489,7 +572489,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 123486,
@@ -592158,7 +592158,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 148647,
@@ -613391,7 +613391,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 131591,
@@ -617386,7 +617386,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 131856,
@@ -620548,7 +620548,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 132748,
@@ -666070,7 +666070,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 138954,
@@ -687847,7 +687847,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 140557,
@@ -690125,7 +690125,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 140667,
@@ -692947,7 +692947,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 140819,
@@ -734561,7 +734561,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 147860,
@@ -736193,7 +736193,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 147936,
@@ -959151,7 +959151,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 186707,
@@ -990119,7 +990119,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 196335,
@@ -1005187,13 +1005187,13 @@
                 "nameEn": "Minsheng Community",
                 "seqNo": 21,
                 "pgp": "0",
-                "longitude": "121.4744009",
-                "latitude": "25.078688",
+                "longitude": "121.474618",
+                "latitude": "25.078753",
                 "goBack": "0",
-                "address": "信義路30巷口",
+                "address": "蘆洲區民生街55號(向東)",
                 "stopLocationId": 74302,
-                "showLon": "121.4744009",
-                "showLat": "25.078688",
+                "showLon": "121.474618",
+                "showLat": "25.078753",
                 "vector": "999",
                 "bearing": "E"
             },
@@ -1023671,7 +1023671,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 207570,

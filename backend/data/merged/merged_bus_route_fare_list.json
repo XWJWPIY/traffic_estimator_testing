@@ -1,6 +1,6 @@
 {
     "taipei": [
-        "2026-11-10T01:15:11.330+08:00",
+        "2026-11-11T01:15:11.395+08:00",
         "86400",
         "TPE",
         {
@@ -78736,12 +78736,104 @@
                             ]
                         }
                     }
+                },
+                {
+                    "RouteID": "11064",
+                    "RouteName": {
+                        "Zh_tw": "小36",
+                        "En": "S36"
+                    },
+                    "OperatorID": "1100",
+                    "SubRouteID": "162654",
+                    "SubRouteName": {
+                        "Zh_tw": "小36往程改道東昇路",
+                        "En": "S36-Zhongshan"
+                    },
+                    "FarePricingType": "SectionFare",
+                    "IsFreeBus": "0",
+                    "SectionFare": {
+                        "BufferZones": "",
+                        "Fares": {
+                            "Fare": [
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "2",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "1",
+                                    "FareClass": "9",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "1",
+                                    "Price": "15"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "2",
+                                    "Price": "12"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "3",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "4",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "5",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "7",
+                                    "Price": "8"
+                                },
+                                {
+                                    "TicketType": "3",
+                                    "FareClass": "9",
+                                    "Price": "12"
+                                }
+                            ]
+                        }
+                    }
                 }
             ]
         }
     ],
     "newtaipei": [
-        "2026-11-10T01:25:10.156+08:00",
+        "2026-11-11T01:15:11.456+08:00",
         "86400",
         "NWT",
         {

@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/10 10:03:04",
+            "UpdateTime": "2026/11/11 08:03:04",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -53786,7 +53786,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/10 10:02:56",
+            "UpdateTime": "2026/11/11 08:46:05",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -138723,11 +138723,11 @@
                 "id": 74302,
                 "nid": "2474600020",
                 "name": "民生社區",
-                "address": "新北市蘆洲區民生社區(向東)",
-                "lon": "121.474461",
-                "lat": "25.078708",
+                "address": "蘆洲區民生街55號(向東)",
+                "lon": "121.474618",
+                "lat": "25.078753",
                 "bearing": "E",
-                "version": 3
+                "version": 4
             },
             {
                 "id": 74303,
