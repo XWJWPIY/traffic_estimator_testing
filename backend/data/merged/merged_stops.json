@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/20 09:42:55",
+            "UpdateTime": "2026/11/21 08:42:55",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -490059,7 +490059,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/20 09:46:05",
+            "UpdateTime": "2026/11/21 08:42:55",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -564942,7 +564942,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 121985,
@@ -572489,7 +572489,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 123486,
@@ -592158,7 +592158,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 148647,
@@ -613391,7 +613391,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 131591,
@@ -617386,7 +617386,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 131856,
@@ -620548,7 +620548,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 132748,
@@ -625636,8 +625636,8 @@
             {
                 "Id": 132974,
                 "routeId": 16530,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 51,
                 "pgp": "0",
                 "longitude": "121.5257575",
@@ -626146,8 +626146,8 @@
             {
                 "Id": 133004,
                 "routeId": 16530,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 84,
                 "pgp": "0",
                 "longitude": "121.525029",
@@ -629835,8 +629835,8 @@
             {
                 "Id": 133188,
                 "routeId": 16532,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 51,
                 "pgp": "0",
                 "longitude": "121.5257575",
@@ -630379,8 +630379,8 @@
             {
                 "Id": 133222,
                 "routeId": 16532,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 93,
                 "pgp": "0",
                 "longitude": "121.525029",
@@ -634612,8 +634612,8 @@
             {
                 "Id": 133644,
                 "routeId": 16538,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(北15線)",
+                "nameEn": "Demao(District Rd. Bei No.15)",
                 "seqNo": 55,
                 "pgp": "0",
                 "longitude": "121.531154",
@@ -635037,8 +635037,8 @@
             {
                 "Id": 133669,
                 "routeId": 16538,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(北15線)",
+                "nameEn": "Demao(District Rd. Bei No.15)",
                 "seqNo": 80,
                 "pgp": "0",
                 "longitude": "121.530990",
@@ -666087,7 +666087,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 138954,
@@ -687864,7 +687864,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140557,
@@ -690142,7 +690142,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140667,
@@ -692964,7 +692964,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140819,
@@ -734578,7 +734578,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 147860,
@@ -736210,7 +736210,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 147936,
@@ -737745,8 +737745,8 @@
             {
                 "Id": 148011,
                 "routeId": 16675,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 51,
                 "pgp": "0",
                 "longitude": "121.5257575",
@@ -738799,8 +738799,8 @@
             {
                 "Id": 148075,
                 "routeId": 16675,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 120,
                 "pgp": "0",
                 "longitude": "121.525029",
@@ -766458,8 +766458,8 @@
             {
                 "Id": 152076,
                 "routeId": 16710,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 55,
                 "pgp": "0",
                 "longitude": "121.5257575",
@@ -766662,8 +766662,8 @@
             {
                 "Id": 152088,
                 "routeId": 16710,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 67,
                 "pgp": "0",
                 "longitude": "121.525029",
@@ -811542,8 +811542,8 @@
             {
                 "Id": 157885,
                 "routeId": 16821,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 8,
                 "pgp": "0",
                 "longitude": "121.525029",
@@ -811627,8 +811627,8 @@
             {
                 "Id": 157896,
                 "routeId": 16821,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 24,
                 "pgp": "0",
                 "longitude": "121.5257575",
@@ -811933,8 +811933,8 @@
             {
                 "Id": 157910,
                 "routeId": 16823,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(北15線)",
+                "nameEn": "Demao(District Rd. Bei No.15)",
                 "seqNo": 3,
                 "pgp": "0",
                 "longitude": "121.531154",
@@ -812307,8 +812307,8 @@
             {
                 "Id": 157934,
                 "routeId": 16826,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(北15線)",
+                "nameEn": "Demao(District Rd. Bei No.15)",
                 "seqNo": 5,
                 "pgp": "0",
                 "longitude": "121.530990",
@@ -812613,8 +812613,8 @@
             {
                 "Id": 157953,
                 "routeId": 16828,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(北15線)",
+                "nameEn": "Demao(District Rd. Bei No.15)",
                 "seqNo": 3,
                 "pgp": "0",
                 "longitude": "121.531154",
@@ -813004,8 +813004,8 @@
             {
                 "Id": 157975,
                 "routeId": 16830,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(北15線)",
+                "nameEn": "Demao(District Rd. Bei No.15)",
                 "seqNo": 5,
                 "pgp": "0",
                 "longitude": "121.531154",
@@ -813293,8 +813293,8 @@
             {
                 "Id": 157990,
                 "routeId": 16832,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(北15線)",
+                "nameEn": "Demao(District Rd. Bei No.15)",
                 "seqNo": 3,
                 "pgp": "0",
                 "longitude": "121.531154",
@@ -922714,8 +922714,8 @@
             {
                 "Id": 179408,
                 "routeId": 17528,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 81,
                 "pgp": "0",
                 "longitude": "121.525029",
@@ -924346,8 +924346,8 @@
             {
                 "Id": 179504,
                 "routeId": 17528,
-                "nameZh": "德茂",
-                "nameEn": "Demao",
+                "nameZh": "德茂(臺2線)",
+                "nameEn": "Demao(Provincial Highway No.2)",
                 "seqNo": 182,
                 "pgp": "0",
                 "longitude": "121.5257575",
@@ -959168,7 +959168,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 186707,
@@ -990136,7 +990136,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 196335,
@@ -1023688,7 +1023688,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 207570,
