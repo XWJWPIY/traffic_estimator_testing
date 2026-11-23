@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/22 07:46:02",
+            "UpdateTime": "2026/11/23 08:46:02",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -35305,7 +35305,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/22 08:02:57",
+            "UpdateTime": "2026/11/23 08:42:43",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -57344,7 +57344,7 @@
                 "destinationZh": "鶯歌高職",
                 "destinationEn": "Yingge Vocational High School",
                 "realSequence": "24",
-                "distance": "26.8",
+                "distance": "27",
                 "goFirstBusTime": "0550",
                 "backFirstBusTime": "0550",
                 "goLastBusTime": "1930",
@@ -57645,7 +57645,7 @@
                 "destinationZh": "鶯歌高職",
                 "destinationEn": "Yingge Vocational High School",
                 "realSequence": "24",
-                "distance": "26.8",
+                "distance": "27",
                 "goFirstBusTime": "0550",
                 "backFirstBusTime": "0550",
                 "goLastBusTime": "1930",
@@ -57688,7 +57688,7 @@
                 "destinationZh": "鶯歌高職",
                 "destinationEn": "Yingge Vocational High School",
                 "realSequence": "24",
-                "distance": "26.8",
+                "distance": "27",
                 "goFirstBusTime": "0550",
                 "backFirstBusTime": "0550",
                 "goLastBusTime": "1930",
