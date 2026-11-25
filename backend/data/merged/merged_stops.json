@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/24 12:46:02",
+            "UpdateTime": "2026/11/25 11:03:04",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -490059,7 +490059,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/24 12:46:05",
+            "UpdateTime": "2026/11/25 10:42:55",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -564942,7 +564942,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 121985,
@@ -572489,7 +572489,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 123486,
@@ -592158,7 +592158,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 148647,
@@ -613391,7 +613391,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 131591,
@@ -617386,7 +617386,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": null,
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 131856,
@@ -620548,7 +620548,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 132748,
@@ -666087,7 +666087,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 138954,
@@ -680264,7 +680264,7 @@
                 "stopLocationId": 73922,
                 "showLon": "121.3805086",
                 "showLat": "25.082269",
-                "vector": "",
+                "vector": "999",
                 "bearing": "NW"
             },
             {
@@ -680272,7 +680272,7 @@
                 "routeId": 16603,
                 "nameZh": "森聯首席",
                 "nameEn": "Senlian seat of honor",
-                "seqNo": 92,
+                "seqNo": 93,
                 "pgp": "0",
                 "longitude": "121.3765451",
                 "latitude": "25.083296",
@@ -680289,7 +680289,7 @@
                 "routeId": 16603,
                 "nameZh": "文三信義路口",
                 "nameEn": "Wensan & Xinyi Intersection",
-                "seqNo": 93,
+                "seqNo": 94,
                 "pgp": "0",
                 "longitude": "121.375053",
                 "latitude": "25.081400",
@@ -680306,7 +680306,7 @@
                 "routeId": 16603,
                 "nameZh": "未來之光",
                 "nameEn": "Future Lights Community",
-                "seqNo": 94,
+                "seqNo": 95,
                 "pgp": "0",
                 "longitude": "121.373807",
                 "latitude": "25.079696",
@@ -680323,7 +680323,7 @@
                 "routeId": 16603,
                 "nameZh": "瑞士花園9",
                 "nameEn": "Swiss Garden Community 9",
-                "seqNo": 95,
+                "seqNo": 96,
                 "pgp": "0",
                 "longitude": "121.3719628",
                 "latitude": "25.077529",
@@ -680340,7 +680340,7 @@
                 "routeId": 16603,
                 "nameZh": "夢想之都",
                 "nameEn": "Dream City Community",
-                "seqNo": 96,
+                "seqNo": 97,
                 "pgp": "0",
                 "longitude": "121.370178",
                 "latitude": "25.076112",
@@ -680357,7 +680357,7 @@
                 "routeId": 16603,
                 "nameZh": "扶輪公園(文化三路)",
                 "nameEn": "RotaryPark(Wunhua 3rd)",
-                "seqNo": 97,
+                "seqNo": 98,
                 "pgp": "-1",
                 "longitude": "121.3683595",
                 "latitude": "25.07479",
@@ -680374,7 +680374,7 @@
                 "routeId": 16603,
                 "nameZh": "文三忠孝路口",
                 "nameEn": "Wensan & Zhongxiao Intersection",
-                "seqNo": 98,
+                "seqNo": 99,
                 "pgp": "0",
                 "longitude": "121.365722",
                 "latitude": "25.074700",
@@ -680391,7 +680391,7 @@
                 "routeId": 16603,
                 "nameZh": "文化北路",
                 "nameEn": "WenHua N. Rd.",
-                "seqNo": 99,
+                "seqNo": 100,
                 "pgp": "0",
                 "longitude": "121.364548",
                 "latitude": "25.076208",
@@ -680408,7 +680408,7 @@
                 "routeId": 16603,
                 "nameZh": "新北特殊教育學校",
                 "nameEn": "Taipei School of Special Education(Jiatianxia Community)",
-                "seqNo": 100,
+                "seqNo": 101,
                 "pgp": "0",
                 "longitude": "121.366102",
                 "latitude": "25.077715",
@@ -680578,7 +680578,7 @@
                 "routeId": 16603,
                 "nameZh": "林口站",
                 "nameEn": "Linkou Stop",
-                "seqNo": 101,
+                "seqNo": 102,
                 "pgp": "0",
                 "longitude": "121.368811",
                 "latitude": "25.080503",
@@ -680606,6 +680606,23 @@
                 "showLat": "25.078670",
                 "vector": "999",
                 "bearing": "W"
+            },
+            {
+                "Id": 226068,
+                "routeId": 16603,
+                "nameZh": "文化三路中山路口",
+                "nameEn": "Wenhua 3rd & Zhongshan Intersection",
+                "seqNo": 92,
+                "pgp": "0",
+                "longitude": "121.3781153",
+                "latitude": "25.083778",
+                "goBack": "1",
+                "address": "新北市林口區中山路564號(向西)",
+                "stopLocationId": 73900,
+                "showLon": "121.3781153",
+                "showLat": "25.083778",
+                "vector": "999",
+                "bearing": "NW"
             },
             {
                 "Id": 140127,
@@ -681020,7 +681037,7 @@
                 "routeId": 16604,
                 "nameZh": "森聯首席",
                 "nameEn": "Senlian seat of honor",
-                "seqNo": 79,
+                "seqNo": 80,
                 "pgp": "0",
                 "longitude": "121.3765451",
                 "latitude": "25.083296",
@@ -681037,7 +681054,7 @@
                 "routeId": 16604,
                 "nameZh": "榮耀之星",
                 "nameEn": "Rongyaozhixing Community",
-                "seqNo": 80,
+                "seqNo": 81,
                 "pgp": "0",
                 "longitude": "121.3761686",
                 "latitude": "25.081574",
@@ -681054,7 +681071,7 @@
                 "routeId": 16604,
                 "nameZh": "未來市社區",
                 "nameEn": "Future City Community",
-                "seqNo": 81,
+                "seqNo": 82,
                 "pgp": "0",
                 "longitude": "121.375432",
                 "latitude": "25.077957",
@@ -681071,7 +681088,7 @@
                 "routeId": 16604,
                 "nameZh": "人見仁愛社區(仁愛路)",
                 "nameEn": "Renjianrenai Community",
-                "seqNo": 82,
+                "seqNo": 83,
                 "pgp": "0",
                 "longitude": "121.3713032",
                 "latitude": "25.079348",
@@ -681921,7 +681938,7 @@
                 "routeId": 16604,
                 "nameZh": "林口站",
                 "nameEn": "Linkou Stop",
-                "seqNo": 83,
+                "seqNo": 84,
                 "pgp": "0",
                 "longitude": "121.368811",
                 "latitude": "25.080503",
@@ -682017,6 +682034,23 @@
                 "showLat": "25.078670",
                 "vector": "999",
                 "bearing": "W"
+            },
+            {
+                "Id": 226070,
+                "routeId": 16604,
+                "nameZh": "文化三路中山路口",
+                "nameEn": "Wenhua 3rd & Zhongshan Intersection",
+                "seqNo": 79,
+                "pgp": "0",
+                "longitude": "121.3781153",
+                "latitude": "25.083778",
+                "goBack": "1",
+                "address": "新北市林口區中山路564號(向西)",
+                "stopLocationId": 73900,
+                "showLon": "121.3781153",
+                "showLat": "25.083778",
+                "vector": "999",
+                "bearing": "NW"
             },
             {
                 "Id": 140211,
@@ -687830,7 +687864,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140557,
@@ -690108,7 +690142,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140667,
@@ -692930,7 +692964,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": null,
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 140819,
@@ -725091,7 +725125,7 @@
                 "stopLocationId": 73922,
                 "showLon": "121.3805086",
                 "showLat": "25.082269",
-                "vector": null,
+                "vector": "999",
                 "bearing": "NW"
             },
             {
@@ -725099,7 +725133,7 @@
                 "routeId": 16662,
                 "nameZh": "森聯首席",
                 "nameEn": "Senlian seat of honor",
-                "seqNo": 62,
+                "seqNo": 63,
                 "pgp": "0",
                 "longitude": "121.3765451",
                 "latitude": "25.083296",
@@ -725116,7 +725150,7 @@
                 "routeId": 16662,
                 "nameZh": "文三信義路口",
                 "nameEn": "Wensan & Xinyi Intersection",
-                "seqNo": 63,
+                "seqNo": 64,
                 "pgp": "0",
                 "longitude": "121.375053",
                 "latitude": "25.081400",
@@ -725133,7 +725167,7 @@
                 "routeId": 16662,
                 "nameZh": "未來之光",
                 "nameEn": "Future Lights Community",
-                "seqNo": 64,
+                "seqNo": 65,
                 "pgp": "-1",
                 "longitude": "121.373807",
                 "latitude": "25.079696",
@@ -725150,7 +725184,7 @@
                 "routeId": 16662,
                 "nameZh": "人見仁愛社區(仁愛路)",
                 "nameEn": "Renjianrenai Community",
-                "seqNo": 65,
+                "seqNo": 66,
                 "pgp": "-1",
                 "longitude": "121.3713032",
                 "latitude": "25.079348",
@@ -725303,7 +725337,7 @@
                 "routeId": 16662,
                 "nameZh": "林口站",
                 "nameEn": "Linkou Stop",
-                "seqNo": 66,
+                "seqNo": 67,
                 "pgp": "0",
                 "longitude": "121.368811",
                 "latitude": "25.080503",
@@ -725331,6 +725365,23 @@
                 "showLat": "25.074898",
                 "vector": "999",
                 "bearing": "SW"
+            },
+            {
+                "Id": 226071,
+                "routeId": 16662,
+                "nameZh": "文化三路中山路口",
+                "nameEn": "Wenhua 3rd & Zhongshan Intersection",
+                "seqNo": 62,
+                "pgp": "0",
+                "longitude": "121.3781153",
+                "latitude": "25.083778",
+                "goBack": "1",
+                "address": "新北市林口區中山路564號(向西)",
+                "stopLocationId": 73900,
+                "showLon": "121.3781153",
+                "showLat": "25.083778",
+                "vector": "999",
+                "bearing": "NW"
             },
             {
                 "Id": 147382,
@@ -734527,7 +734578,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 147860,
@@ -736159,7 +736210,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 147936,
@@ -959049,7 +959100,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 186707,
@@ -990017,7 +990068,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 196335,
@@ -1023569,7 +1023620,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 207570,
@@ -1031729,7 +1031780,7 @@
                 "routeId": 18764,
                 "nameZh": "森聯首席",
                 "nameEn": "Senlian seat of honor",
-                "seqNo": 89,
+                "seqNo": 90,
                 "pgp": "0",
                 "longitude": "121.3765451",
                 "latitude": "25.083296",
@@ -1031746,7 +1031797,7 @@
                 "routeId": 18764,
                 "nameZh": "文三信義路口",
                 "nameEn": "Wensan & Xinyi Intersection",
-                "seqNo": 90,
+                "seqNo": 91,
                 "pgp": "0",
                 "longitude": "121.375053",
                 "latitude": "25.081400",
@@ -1031763,7 +1031814,7 @@
                 "routeId": 18764,
                 "nameZh": "未來之光",
                 "nameEn": "Future Lights Community",
-                "seqNo": 91,
+                "seqNo": 92,
                 "pgp": "0",
                 "longitude": "121.373807",
                 "latitude": "25.079696",
@@ -1031780,7 +1031831,7 @@
                 "routeId": 18764,
                 "nameZh": "瑞士花園9",
                 "nameEn": "Swiss Garden Community 9",
-                "seqNo": 92,
+                "seqNo": 93,
                 "pgp": "0",
                 "longitude": "121.3719628",
                 "latitude": "25.077529",
@@ -1031797,7 +1031848,7 @@
                 "routeId": 18764,
                 "nameZh": "夢想之都",
                 "nameEn": "Dream City Community",
-                "seqNo": 93,
+                "seqNo": 94,
                 "pgp": "0",
                 "longitude": "121.370178",
                 "latitude": "25.076112",
@@ -1031814,7 +1031865,7 @@
                 "routeId": 18764,
                 "nameZh": "扶輪公園(文化三路)",
                 "nameEn": "RotaryPark(Wunhua 3rd)",
-                "seqNo": 94,
+                "seqNo": 95,
                 "pgp": "0",
                 "longitude": "121.3683595",
                 "latitude": "25.07479",
@@ -1031831,7 +1031882,7 @@
                 "routeId": 18764,
                 "nameZh": "文三忠孝路口",
                 "nameEn": "Wensan & Zhongxiao Intersection",
-                "seqNo": 95,
+                "seqNo": 96,
                 "pgp": "0",
                 "longitude": "121.365722",
                 "latitude": "25.074700",
@@ -1031848,7 +1031899,7 @@
                 "routeId": 18764,
                 "nameZh": "文化北路",
                 "nameEn": "WenHua N. Rd.",
-                "seqNo": 96,
+                "seqNo": 97,
                 "pgp": "0",
                 "longitude": "121.364548",
                 "latitude": "25.076208",
@@ -1031865,7 +1031916,7 @@
                 "routeId": 18764,
                 "nameZh": "新北特殊教育學校",
                 "nameEn": "Taipei School of Special Education(Jiatianxia Community)",
-                "seqNo": 97,
+                "seqNo": 98,
                 "pgp": "0",
                 "longitude": "121.366102",
                 "latitude": "25.077715",
@@ -1031950,7 +1032001,7 @@
                 "routeId": 18764,
                 "nameZh": "林口站",
                 "nameEn": "Linkou Stop",
-                "seqNo": 98,
+                "seqNo": 99,
                 "pgp": "0",
                 "longitude": "121.368811",
                 "latitude": "25.080503",
@@ -1031978,6 +1032029,23 @@
                 "showLat": "25.078670",
                 "vector": "999",
                 "bearing": "W"
+            },
+            {
+                "Id": 226069,
+                "routeId": 18764,
+                "nameZh": "文化三路中山路口",
+                "nameEn": "Wenhua 3rd & Zhongshan Intersection",
+                "seqNo": 89,
+                "pgp": "0",
+                "longitude": "121.3781153",
+                "latitude": "25.083778",
+                "goBack": "1",
+                "address": "新北市林口區中山路564號(向西)",
+                "stopLocationId": 73900,
+                "showLon": "121.3781153",
+                "showLat": "25.083778",
+                "vector": "999",
+                "bearing": "NW"
             },
             {
                 "Id": 210024,
