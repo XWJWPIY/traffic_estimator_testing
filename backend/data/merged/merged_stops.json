@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/25 11:03:04",
+            "UpdateTime": "2026/11/26 09:46:02",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -51109,7 +51109,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 14238,
@@ -54866,7 +54866,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 14571,
@@ -57042,7 +57042,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 14707,
@@ -212099,7 +212099,7 @@
                 "showLon": "121.5405279",
                 "showLat": "24.95347027",
                 "vector": "999",
-                "bearing": "NW"
+                "bearing": "N"
             },
             {
                 "Id": 35731,
@@ -292271,7 +292271,7 @@
                 "showLon": "121.45064",
                 "showLat": "25.13455",
                 "vector": "999",
-                "bearing": "N"
+                "bearing": "NW"
             },
             {
                 "Id": 44778,
@@ -441557,13 +441557,13 @@
                 "nameEn": "Shuibiantou Fude Temple",
                 "seqNo": 21,
                 "pgp": "0",
-                "longitude": "121.50476924137757",
-                "latitude": "25.151136946651317",
+                "longitude": "121.50482642830303",
+                "latitude": "25.15114169468807",
                 "goBack": "0",
                 "address": "台北市北投區復興三路230巷口(向北)",
                 "stopLocationId": 1165606256,
-                "showLon": "121.50476924137757",
-                "showLat": "25.151136946651317",
+                "showLon": "121.50482642830303",
+                "showLat": "25.15114169468807",
                 "vector": "999",
                 "bearing": "NE"
             },
@@ -445246,13 +445246,13 @@
                 "nameEn": "AnXiLiao",
                 "seqNo": 33,
                 "pgp": "0",
-                "longitude": "121.501238",
-                "latitude": "25.159633",
+                "longitude": "121.5012681",
+                "latitude": "25.15950077",
                 "goBack": "1",
                 "address": "台北市北投區復興三路498號(向東南)",
                 "stopLocationId": 1165606705,
-                "showLon": "121.501238",
-                "showLat": "25.159633",
+                "showLon": "121.5012681",
+                "showLat": "25.15950077",
                 "vector": "999",
                 "bearing": "SE"
             },
@@ -468706,13 +468706,13 @@
                 "nameEn": "Wu Family Shrine",
                 "seqNo": 24,
                 "pgp": "0",
-                "longitude": "121.5021511",
-                "latitude": "25.15526438",
+                "longitude": "121.50279898891681",
+                "latitude": "25.155114933376602",
                 "goBack": "0",
                 "address": "復興三路345號對面(向西)",
                 "stopLocationId": 1165609774,
-                "showLon": "121.5021511",
-                "showLat": "25.15526438",
+                "showLon": "121.50279898891681",
+                "showLat": "25.155114933376602",
                 "vector": "999",
                 "bearing": "W"
             },
@@ -468757,15 +468757,15 @@
                 "nameEn": "Wu Family Shrine",
                 "seqNo": 39,
                 "pgp": "0",
-                "longitude": "121.5021511",
-                "latitude": "25.15526438",
+                "longitude": "121.50276814351653",
+                "latitude": "25.154948626967055",
                 "goBack": "1",
-                "address": "復興三路345號對面(向西)",
-                "stopLocationId": 1165609774,
-                "showLon": "121.5021511",
-                "showLat": "25.15526438",
+                "address": "復興三路345號對面(向東)",
+                "stopLocationId": 1165610639,
+                "showLon": "121.50276814351653",
+                "showLat": "25.154948626967055",
                 "vector": "999",
-                "bearing": "W"
+                "bearing": "E"
             },
             {
                 "Id": 218045,
@@ -468944,13 +468944,13 @@
                 "nameEn": "Shuibiantou Fude Temple",
                 "seqNo": 44,
                 "pgp": "0",
-                "longitude": "121.504719",
-                "latitude": "25.151149",
+                "longitude": "121.5043021",
+                "latitude": "25.15112349",
                 "goBack": "1",
                 "address": "台北市北投區復興三路230巷口(向西)",
                 "stopLocationId": 1165609787,
-                "showLon": "121.504719",
-                "showLat": "25.151149",
+                "showLon": "121.5043021",
+                "showLat": "25.15112349",
                 "vector": "999",
                 "bearing": "S"
             },
@@ -472327,13 +472327,13 @@
                 "nameEn": "Bischofia Javanica",
                 "seqNo": 43,
                 "pgp": "0",
-                "longitude": "121.505441",
-                "latitude": "25.154900",
+                "longitude": "121.50535150605522",
+                "latitude": "25.15505148374314",
                 "goBack": "1",
                 "address": "復興三路300巷15號(向南)",
                 "stopLocationId": 1165610055,
-                "showLon": "121.505441",
-                "showLat": "25.154900",
+                "showLon": "121.50535150605522",
+                "showLat": "25.15505148374314",
                 "vector": "999",
                 "bearing": "SW"
             },
@@ -490059,7 +490059,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/25 10:42:55",
+            "UpdateTime": "2026/11/26 10:46:05",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
