@@ -5,7 +5,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/26 09:46:02",
+            "UpdateTime": "2026/11/27 11:01:27",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
@@ -123011,15 +123011,14 @@
                 "nameEn": "Shanzhuhu",
                 "seqNo": 47,
                 "pgp": "-1",
-                "longitude": "121.55698845385638",
-                "latitude": "25.142226101803665",
+                "longitude": "121.55667827816424",
+                "latitude": "25.142211642526426",
                 "goBack": "0",
                 "address": "臺北市士林區菁山路及菁山路101巷交叉口往東25公尺(向東)",
                 "stopLocationId": 14420,
-                "showLon": "121.55698845385638",
-                "showLat": "25.142226101803665",
-                "vector": "999",
-                "bearing": "E"
+                "showLon": "121.55667827816424",
+                "showLat": "25.142211642526426",
+                "vector": "999"
             },
             {
                 "Id": 20674,
@@ -123715,8 +123714,7 @@
                 "stopLocationId": 1165604769,
                 "showLon": "121.555959",
                 "showLat": "25.142353",
-                "vector": "999",
-                "bearing": "W"
+                "vector": "999"
             },
             {
                 "Id": 20716,
@@ -125068,15 +125066,14 @@
                 "nameEn": "Shanzhuhu",
                 "seqNo": 47,
                 "pgp": null,
-                "longitude": "121.55698845385638",
-                "latitude": "25.142226101803665",
+                "longitude": "121.55667827816424",
+                "latitude": "25.142211642526426",
                 "goBack": "0",
                 "address": "臺北市士林區菁山路及菁山路101巷交叉口往東25公尺(向東)",
                 "stopLocationId": 14420,
-                "showLon": "121.55698845385638",
-                "showLat": "25.142226101803665",
-                "vector": "999",
-                "bearing": "E"
+                "showLon": "121.55667827816424",
+                "showLat": "25.142211642526426",
+                "vector": "999"
             },
             {
                 "Id": 20819,
@@ -125585,8 +125582,7 @@
                 "stopLocationId": 1165604769,
                 "showLon": "121.555959",
                 "showLat": "25.142353",
-                "vector": "999",
-                "bearing": "W"
+                "vector": "999"
             },
             {
                 "Id": 20850,
@@ -342335,8 +342331,7 @@
                 "stopLocationId": 1165604769,
                 "showLon": "121.555959",
                 "showLat": "25.142353",
-                "vector": "999",
-                "bearing": "W"
+                "vector": "999"
             },
             {
                 "Id": 58363,
@@ -342386,8 +342381,7 @@
                 "stopLocationId": 1165604769,
                 "showLon": "121.555959",
                 "showLat": "25.142353",
-                "vector": "999",
-                "bearing": "W"
+                "vector": "999"
             },
             {
                 "Id": 58373,
@@ -393702,15 +393696,14 @@
                 "nameEn": "Shanzhuhu",
                 "seqNo": 28,
                 "pgp": "0",
-                "longitude": "121.55698845385638",
-                "latitude": "25.142226101803665",
+                "longitude": "121.55667827816424",
+                "latitude": "25.142211642526426",
                 "goBack": "0",
                 "address": "臺北市士林區菁山路及菁山路101巷交叉口往東25公尺(向東)",
                 "stopLocationId": 14420,
-                "showLon": "121.55698845385638",
-                "showLat": "25.142226101803665",
-                "vector": "999",
-                "bearing": "E"
+                "showLon": "121.55667827816424",
+                "showLat": "25.142211642526426",
+                "vector": "999"
             },
             {
                 "Id": 171765,
@@ -393719,15 +393712,14 @@
                 "nameEn": "Shanzhuhu",
                 "seqNo": 28,
                 "pgp": "0",
-                "longitude": "121.55698845385638",
-                "latitude": "25.142226101803665",
+                "longitude": "121.55667827816424",
+                "latitude": "25.142211642526426",
                 "goBack": "0",
                 "address": "臺北市士林區菁山路及菁山路101巷交叉口往東25公尺(向東)",
                 "stopLocationId": 14420,
-                "showLon": "121.55698845385638",
-                "showLat": "25.142226101803665",
-                "vector": "999",
-                "bearing": "E"
+                "showLon": "121.55667827816424",
+                "showLat": "25.142211642526426",
+                "vector": "999"
             },
             {
                 "Id": 171840,
@@ -475387,15 +475379,14 @@
                 "nameEn": "Shanzhuhu",
                 "seqNo": 28,
                 "pgp": null,
-                "longitude": "121.55698845385638",
-                "latitude": "25.142226101803665",
+                "longitude": "121.55667827816424",
+                "latitude": "25.142211642526426",
                 "goBack": "0",
                 "address": "臺北市士林區菁山路及菁山路101巷交叉口往東25公尺(向東)",
                 "stopLocationId": 14420,
-                "showLon": "121.55698845385638",
-                "showLat": "25.142226101803665",
-                "vector": "999",
-                "bearing": "E"
+                "showLon": "121.55667827816424",
+                "showLat": "25.142211642526426",
+                "vector": "999"
             },
             {
                 "Id": 219974,
@@ -475717,8 +475708,7 @@
                 "stopLocationId": 1165604769,
                 "showLon": "121.555959",
                 "showLat": "25.142353",
-                "vector": "999",
-                "bearing": "W"
+                "vector": "999"
             },
             {
                 "Id": 219993,
@@ -490059,7 +490049,7 @@
                 "name": "台北市",
                 "CenterName": "台北市公車動態資訊中心"
             },
-            "UpdateTime": "2026/11/26 10:46:05",
+            "UpdateTime": "2026/11/27 11:01:27",
             "CoordinateSystem": "WGS84"
         },
         "BusInfo": [
